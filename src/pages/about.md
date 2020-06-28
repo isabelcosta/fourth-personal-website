@@ -5,7 +5,7 @@ permalink: /about/index.html
 metaTitle: About me
 ---
 
-![Isabel in Germany all covered from cold](/assets/images/me-out-in-the-cold.jpg)
+<!--![Isabel in Germany all covered from cold](/assets/images/me-out-in-the-cold.jpg)-->
 
 ### Olá 👋🏾
 
