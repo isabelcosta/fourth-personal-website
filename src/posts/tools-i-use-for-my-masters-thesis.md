@@ -3,7 +3,7 @@ title: Tools I use for my Master’s thesis
 date: '2018-01-16'
 ---
 
-![Example of my organization on OneNote](https://user-images.githubusercontent.com/11148726/52020479-4f6c7a80-24e9-11e9-9cc8-4fd35ee6c011.png)
+![Example of my organization on OneNote](/images/thesis-onenote-tool.png)
 
 During Master’s thesis, I use a lot of tools to organize my thoughts, relevant information and resources related to my research. These do not include tools that I use for development/coding, it is only refers to things related with writing of the Dissertation and notes I take.
 
