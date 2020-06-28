@@ -27,7 +27,7 @@ The following requirements represent what I used in my experiment:
 
 ## Test architecture
 
-![Test architecture for the experiment](https://user-images.githubusercontent.com/11148726/54482693-974c2480-483f-11e9-86b1-b93afc0fd2f1.png)
+![Test architecture for the experiment](/images/tinyproxy-trial-architecture.png)
 
 I created [isabelcosta/testing-tiny-proxy](https://github.com/isabelcosta/testing-tiny-proxy) repository on Github with the configuration files needed to run both roles of forward proxy and reverse proxy.
 
@@ -201,7 +201,7 @@ root@debian:/home/debian# curl -v --proxy http://10.0.2.35:8888 http://10.0.2.36
 
 Another way to see that this is working, is by using [Wireshark](https://www.wireshark.org/) tool. This tool allows you to see network traffic. Before testing the system start running Wireshark. By testing in a local network you can see the whole traffic from the client to the server. After requesting and receiving the response from the server, if you filter the Wireshark captures by “http”, you should see a result similar to the following image.
 
-![[Wireshark](https://www.wireshark.org/) capture of the communication between the client and the server, passing through the proxies.](https://user-images.githubusercontent.com/11148726/54482695-9dda9c00-483f-11e9-989a-36168012c209.png)
+![[Wireshark](https://www.wireshark.org/) capture of the communication between the client and the server, passing through the proxies.](/images/tinyproxy-trial-wireshark.png)
 
 In this [Wireshark](https://www.wireshark.org/) capture you can see the traffic in both directions: client ↔ forward proxy ↔ reverse proxy ↔ server.
 
