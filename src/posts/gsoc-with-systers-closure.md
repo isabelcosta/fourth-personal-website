@@ -5,7 +5,7 @@ tags:
   - gsoc
 ---
 
-![final remarks image representing end of gsoc](https://user-images.githubusercontent.com/11148726/53272204-8bf65500-36e8-11e9-9ea3-18ed37429582.png)
+![final remarks image representing end of gsoc](/images/gsoc-closure-cover.png)
 
 This year I was a [Google Summer of Code](https://summerofcode.withgoogle.com/) student for [Systers Community](http://systers.io/). For a long time, I was interested in Open Source but I never managed to take off and start contributing for projects. This year I decided to apply for the second time and was accepted!
 
@@ -50,7 +50,9 @@ Now that some time has passed I can clearly see the impact this had in my life a
 
 Finally, I was nominated by my peers, mentors, and admins, from Systers Community as the Most Outstanding student out of 11 students. Being recognized for my work during GSoC made me very happy since I was already proud of my personal achievements.
 
-![Digital Certificate for my outstanding work during GSoC with Systers Community](https://user-images.githubusercontent.com/11148726/53272216-91ec3600-36e8-11e9-92bd-b2d63bd861b0.png)
+This is my Digital Certificate for my outstanding work during GSoC with Systers Community.
+
+![Digital Certificate for my outstanding work during GSoC with Systers Community](/images/gsoc-closure-certificate-excellence.png)
 
 ## Final Thoughts
 
