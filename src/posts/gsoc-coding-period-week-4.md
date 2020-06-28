@@ -5,7 +5,7 @@ tags:
   - gsoc
 ---
 
-![systers logo with gsoc logo](https://user-images.githubusercontent.com/11148726/52602344-2b4e5900-2e5a-11e9-8bc7-66e30120a3db.png)
+![systers logo with gsoc logo](/images/gsoc-week-4-cover.png)
 
 This week — June 4 to June 10— was the fourth week of the coding period of [Google Summer of Code (GSoC)](https://summerofcode.withgoogle.com/) with [Systers Open Source](https://github.com/systers). If you want to know more about this you can read the [introduction to my journey](https://medium.com/isabel-costa-gsoc/intro-to-google-summer-of-code-with-systers-open-source-dbdaa92bd189) , [my latest weekly blog posts](https://medium.com/isabel-costa-gsoc) or [my weekly status report](https://github.com/systers/mentorship-backend/wiki/GSoC-2018-Isabel-Costa#weekly-status-report-for-week-4) for this week.
 

@@ -5,7 +5,7 @@ tags:
   - gsoc
 ---
 
-![gsoc plus systers logos](https://user-images.githubusercontent.com/11148726/52603235-e2000880-2e5d-11e9-9252-c1e1ee53fb7e.png)
+![gsoc plus systers logos](/images/gsoc-week-2-cover.png)
 
 This week — May 21 to May 27 — was the second week of the coding period of [Google Summer of Code (GSoC)](https://summerofcode.withgoogle.com/) with [Systers Open Source](https://github.com/systers). If you want to know more about this you can read the [introduction to my journey](https://medium.com/isabel-costa-gsoc/intro-to-google-summer-of-code-with-systers-open-source-dbdaa92bd189) or [my first weekly blog post](https://medium.com/isabel-costa-gsoc/coding-period-week-1-e8f878f46ad9).
 
