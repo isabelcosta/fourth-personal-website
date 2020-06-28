@@ -1,12 +1,15 @@
 ---
 layout: home
-title: A simple starter kit for Eleventy
+title: Isabel Costa
+metaDesc: Isabel Costa is a Software Engineer from Portugal and this is her website.
 postsHeading: Latest posts
 archiveButtonText: See all posts
-metaDesc: 'Hylia is a lightweight Eleventy starter kit to help you to create your own blog or personal website.'
-socialImage: ''
+socialImage: ""
 ---
+I'm Isabel, a Software Engineer from Portugal, currently working at [Globality](https://www.globality.com/) in London, UK.
+I'm also an admin at [AnitaB.org Open Source](https://github.com/anitab-org) and one of the Community Leaders at AnitaB.org London Community.
+Ocasionally, I enjoy presenting talks and blogging. 
 
-Hylia is a lightweight [Eleventy](https://11ty.io) starter kit with [Netlify CMS](https://www.netlifycms.org/) pre-configured, so that you can one-click install a progressive, accessible blog in minutes. It also gives you a well organised starting point to extend yourself. It’s by [Andy Bell](https://twitter.com/hankchizljaw) and [friends](https://github.com/aarongustafson/hylia/graphs/contributors).
+<!--I founded [Mentorship System project](https://summerofcode.withgoogle.com/archive/2018/projects/6592097335377920/), a project I proposed during Google Summer of Code 2018 with Systers Open Source community. I maintain backend and android repositories.-->
 
-Get started now by [deploying Hylia to Netlify.](https://app.netlify.com/start/deploy?repository=https://github.com/hankchizljaw/hylia&stack=cms)
+[GitHub](https://github.com/isabelcosta) | [LinkedIn](https://www.linkedin.com/in/isabelcmdcosta) | [Twitter](https://twitter.com/isabelcmdcosta) | [Medium](https://medium.com/@isabelcmdcosta) | [DEV](https://dev.to/isabelcmdcosta)
