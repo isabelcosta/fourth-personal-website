@@ -6,6 +6,10 @@
       "external": false
     },
     {
+      "text": "About me",
+      "url": "/about"
+    },
+    {
       "text": "Blog",
       "url": "/posts"
     },
@@ -14,9 +18,8 @@
       "url": "/talks"
     },
     {
-      "text": "GitHub",
-      "url": "https://github.com/hankchizljaw/hylia",
-      "external": true
+      "text": "Work",
+      "url": "/work"
     },
     {
       "text": "Contact",
