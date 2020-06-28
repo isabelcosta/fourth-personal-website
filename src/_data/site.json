@@ -1,13 +1,13 @@
 {
   "showThemeCredit": true,
-  "name": "Hylia Starter Kit",
+  "name": "Isabel Costa Website",
   "shortDesc": "Hylia is a lightweight Eleventy starter kit to help you to create your own blog or personal website.",
-  "url": "https://hylia.website",
-  "authorEmail": "me@andy-bell.design",
-  "authorHandle": "@hankchizljaw",
-  "authorName": "Andy Bell",
+  "url": "https://isabel-website.netlify.app/",
+  "authorEmail": "isabel.monteiro.costa@gmail.com",
+  "authorHandle": "@isabelcmdcosta",
+  "authorName": "Isabel Costa",
   "enableThirdPartyComments": false,
-  "maxPostsPerPage": 5,
-  "paymentPointer": "$ilp.uphold.com/MggmnFEyQqhk",
-  "faviconPath": "/images/favicon.png"
+  "paymentPointer": " ",
+  "faviconPath": "/images/favicon.png",
+  "maxPostsPerPage": 8
 }
