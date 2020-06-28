@@ -7,12 +7,10 @@ postsHeading: Latest posts
 archiveButtonText: See all posts
 socialImage: ""
 ---
-I'm Isabel, a Software Engineer from Portugal, currently working at [Globality](https://www.globality.com/) in London, UK. 
+I'm Isabel, a Software Engineer from Portugal, currently working at [Globality](https://www.globality.com/) in London, UK.
+I'm also an admin at AnitaB.org Open Source and one of the Community Leaders at AnitaB.org London Community.
+Ocasionally, I enjoy presenting talks and blogging. 
 
-I founded [Mentorship System project](https://summerofcode.withgoogle.com/archive/2018/projects/6592097335377920/), a project I proposed during Google Summer of Code 2018 with Systers Open Source community. I maintain backend and android repositories. I am also a Community Leader for AnitaB.org London Community.
+<!--I founded [Mentorship System project](https://summerofcode.withgoogle.com/archive/2018/projects/6592097335377920/), a project I proposed during Google Summer of Code 2018 with Systers Open Source community. I maintain backend and android repositories.-->
 
-I write blog posts [here](/blog/), as well as on [Medium](https://medium.com/@isabelcmdcosta) and [DEV Community](https://dev.to/isabelcmdcosta). During the Google Summer of Code program I documented my journey on ["Isabel Costa GSoC" Medium publication](https://medium.com/isabel-costa-gsoc).
-
-I also do [public speaking](/talks/), mostly about Open Source.
-
-You can find my open source work on [GitHub](https://github.com/isabelcosta) and my professional experience on [LinkedIn](https://www.linkedin.com/in/isabelcmdcosta).
+[GitHub](https://github.com/isabelcosta) | [LinkedIn](https://www.linkedin.com/in/isabelcmdcosta) | [Twitter](https://twitter.com/isabelcmdcosta) | [Medium](https://medium.com/@isabelcmdcosta) | [DEV](https://dev.to/isabelcmdcosta)
