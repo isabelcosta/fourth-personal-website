@@ -5,7 +5,7 @@ tags:
   - gsoc
 ---
 
-![Systers plus Google Summer of Code](https://user-images.githubusercontent.com/11148726/52092991-873ef500-25b1-11e9-8add-4df2c5406178.png)
+![Systers plus Google Summer of Code](/images/intro-to-gsoc-cover.png)
 
 I’m so grateful to be accepted for this year [Google Summer of Code (GSoC)](https://summerofcode.withgoogle.com/) as a student with [Systers Open Source community](http://systers.io/). The results were out April 23rd, and I couldn’t be more excited for this opportunity.
 

@@ -5,7 +5,7 @@ tags:
   - events
 ---
 
-![My team is in the image, try to find us there (Image from [Gulbenkian’s website](https://gulbenkian.pt/project/hack-for-good/))](https://user-images.githubusercontent.com/11148726/54483680-7095ea00-484f-11e9-8224-de96fcc9a949.png)
+![My team is in the image, try to find us there (Image from [Gulbenkian’s website](https://gulbenkian.pt/project/hack-for-good/))](/images/hackforgood-1.png)
 
 On the weekend of 24 and 25 of June 2017, I attended [Hack for Good](http://hackforgood.pt) hackathon. I’ve already participated in one university hackathon in 2016 and loved it. When I saw there was going to be a hackathon with a mission of coding for social good, I had to assemble a team to participate in this.
 
@@ -16,6 +16,8 @@ After some deliberation, we decided to call our project [REFIND](https://github.
 ### The team
 
 The team had four elements: me, [Francisco Machado](https://github.com/CodeFiasco), [Samuel Gomes](https://github.com/samgomes), and [Tiago Almeida](https://twitter.com/talmeida99). Our name was Penguin. We were highly motivated and wanted to take a chance on this challenge.
+
+_My team is in the image above :) This image is taken from [Gulbenkian’s website](https://gulbenkian.pt/project/hack-for-good/)._
 
 ### The tools and technology
 
@@ -41,7 +43,9 @@ After that point, we decided to change the idea of the project in the middle of 
 
 After some thought, we decided to build REFIND, a web platform to host job offers from unbiased companies towards refugees. Our main goal was to approach the problem of inclusion of refugees in new countries and cultures, and avoid prejudice from companies when hiring refugees.
 
-![Our project’s logo](https://user-images.githubusercontent.com/11148726/54483687-89060480-484f-11e9-9324-7d79f43e9c73.png)
+This next image is the logo we designed during the competition.
+
+![Our project’s logo](/images/hackforgood-2.png)
 
 ### The environment
 
@@ -49,7 +53,9 @@ The hackathon was very well organized. It was hosted at the [Calouste Gulbenkian
 
 They provided all the conditions to allow us to focus on the project. Throughout the event, they provided some workshops, massages and stretch sessions. We had plenty of of food and a lounge where we had games to relax and puffs to sleep if we wanted too.
 
-![Hack for Good lounge](https://user-images.githubusercontent.com/11148726/54483689-8d322200-484f-11e9-8780-bffe0642371e.png)
+This next image represents the Hack for Good lounge.
+
+![Hack for Good lounge](/images/hackforgood-3.png)
 
 ### Development and Organization
 
@@ -59,7 +65,9 @@ Despite being the team leader, we wore a lot of hats, from developing the codeba
 
 One of the event mentors, Carolina, taught us a bit about how to sell our idea, how to pitch ourselves to the jury. Therefore we made a short presentation on google slides explaining why our product was suitable to help refugees.
 
-![Slides (in Portuguese) presented during the 1º presentation phase, before the top 10 selection](https://user-images.githubusercontent.com/11148726/54483692-93c09980-484f-11e9-92bb-c5db37ec12c8.png)
+This is a slide from our pitch during the 1º presentation phase, before the top 10 selection.
+
+![Slides (in Portuguese) presented during the 1º presentation phase, before the top 10 selection](/images/hackforgood-4.png)
 
 ### Things we learned
 
@@ -71,6 +79,6 @@ One of the event mentors, Carolina, taught us a bit about how to sell our idea, 
 
 ### Outcome
 
-![Top 10 selected presentations](https://user-images.githubusercontent.com/11148726/54483693-97ecb700-484f-11e9-9c0f-2a8c2579c665.png)
+![Top 10 selected presentations](/images/hackforgood-5.png)
 
 We had a lot of fun during the hackathon. The chemistry within the team was great. We lacked some experience compared to some of the competitors, but we were eager to learn and highly motivated to give our best. Although we didn’t get selected to be at the top 10, this experience was totally worth it!

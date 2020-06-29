@@ -5,13 +5,13 @@ tags:
   - open-source
 ---
 
-![woman on pc emoji](https://user-images.githubusercontent.com/11148726/59983786-959eb380-961b-11e9-853e-9ea4f4a2573d.png)
+![woman on pc emoji](/images/overcoming-blocks-technologist.png)
 
 Contributing to Open Source can be super intimidating. Back in 2016 I already knew about the idea of contributing Open Source software. But never actually got started until November 2017. This is when I did my first contribution. Even though I started then, it was after getting accepted into Google Summer Of Code 2018’s edition, that I learned a lot about contributing to Open Source.
 
 ## My first Open Source contributions
 
-![woman juggling emoji](https://user-images.githubusercontent.com/11148726/59983891-47d67b00-961c-11e9-85cd-cb9dca5808f3.png)
+![woman juggling emoji](/images/overcoming-blocks-juggle.png)
 
 For some time I wanted to contribute to Open Source but never actually took the steps to do it until I saw an initiative called [24 Pull Requests](https://24pullrequests.com/), which is about giving back to open source during the month of December.
 
@@ -27,7 +27,7 @@ So I started with small steps. Then in April 2018, I got into Google Summer of C
 
 ## Blockers to contribute to Open Source
 
-![woman facepalming emoji](https://user-images.githubusercontent.com/11148726/59983797-9cc5c180-961b-11e9-9992-3d07f122d8fe.png)
+![woman facepalming emoji](/images/overcoming-blocks-facepalm.png)
 
 So while I was participating on Google Summer of Code and trying to find ways to involve the community on the [Mentorship System project](https://summerofcode.withgoogle.com/archive/2018/projects/6592097335377920/) I was working on, I remembered about what was keeping me from contributing to Open Source initially.
 
@@ -49,7 +49,7 @@ After reading the answers given and blockers from my personal experience I gathe
 
 ## Overcoming Blockers on contributing
 
-![woman raising hand emoji](https://user-images.githubusercontent.com/11148726/59983801-9f281b80-961b-11e9-9261-e371c2060bba.png)
+![woman raising hand emoji](/images/overcoming-blocks-raise-hand.png)
 
 So after looking into the common blockers gathered, I started thinking about them, and if I could find a way to overcome them. So here is my perspective on these blockers.
 
@@ -103,7 +103,7 @@ If you’re getting initially stuck in the issue you’re trying to solve, it he
 
 If you really feel you have to give up on it, don’t just abandon it. Give notice to projects owners, maintainers and the community, that you won’t be working on it anymore, thus giving the opportunity to someone else to solve it. You can let them know by leaving comments on the issue you committed to. This is totally OK! Also if you already have some work on it that can help the next contributor, share that. By doing this, you’ll make the maintainer’s life easier, because they will know that another issue is available to be assigned to another contributor.
 
-![wave hand emoji](https://user-images.githubusercontent.com/11148726/59983804-a51dfc80-961b-11e9-944f-83d3a11c9006.png)
+![wave hand emoji](/images/overcoming-blocks-wave.png)
 
 Hope you enjoyed this article and find getting started with open source a lot less intimidating!
 
