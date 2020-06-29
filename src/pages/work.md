@@ -61,12 +61,12 @@ Code is available at [inesc-id/Premium](https://github.com/inesc-id/Premium) on 
 
 ### Personal Website
 
-Usually, I use Jekyll based websites, to facilitate the development through using Markdown files and without having to do much frontend work. I'm using [jekyll/minima](https://github.com/jekyll/minima) template on this website.
+Usually, I am currently a [Eleventy](https://www.11ty.dev/) based website for the first time and I am enjoying it so much! I usually use these static code generators to facilitate the development through using Markdown files, without having to do much frontend work. My previous versions (first and second) used [Jekyll](https://jekyllrb.com/) templates.
 
 These are the different versions of my websites until this current one:
 - **1st version:** [Live](http://isabelcosta.github.io/personal-website-first-version) and on [GitHub](http://github.com/isabelcosta/personal-website-first-version);
 - **2nd version:** [Live](http://isabelcosta.github.io/personal-website-second-version) and on [GitHub](https://github.com/isabelcosta/personal-website-second-version);
-- **3rd version:** this website right here :) and on [GitHub](https://github.com/isabelcosta/personal-website-third-version);
+- **3rd version:** Live and on [GitHub](https://github.com/isabelcosta/personal-website-third-version). This uses this [jekyll/minima](https://github.com/jekyll/minima) template;
 - **4th version:** this website right here :) and on [GitHub](https://github.com/isabelcosta/website).
 
 ### Smart Home Android app
