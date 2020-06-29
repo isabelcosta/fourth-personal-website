@@ -9,8 +9,7 @@ tags:
 
 A couple of years ago I saw [this great blog post](https://peopleofcolorintech.com/articles/where-to-find-free-stock-photos-with-people-of-color/) from [peopleofcolorintech.com](https://peopleofcolorintech.com/) about stock photos with people of color in it. I found this amazing! I never thought about using my blog posts or other types of public content to spread more visual representations of people of color.
 
-- [Where To Find Free Stock Photos With People of Color - POCIT]  
-(http://peopleofcolorintech.com/articles/where-to-find-free-stock-photos-with-people-of-color/)
+- [Where To Find Free Stock Photos With People of Color - POCIT](http://peopleofcolorintech.com/articles/where-to-find-free-stock-photos-with-people-of-color/)
 
 After reading this, I became aware of the existence of pictures/illustrations I could use that include people of color in online content such as blogs, presentations, promotion flyers, etc. I understood I could use them as a way to increase the representation of women of color in online content, more specifically related to the Tech industry.
 
