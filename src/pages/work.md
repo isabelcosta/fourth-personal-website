@@ -9,7 +9,8 @@ You can see my **open sourced projects** on [GitHub](https://github.com/isabelco
 
 ## 👩🏾‍💻 Professional
 
-- **Oct, 2019 - Now:** Software Engineer at GeoPhy;
+- **Jun, 2020 - Now:** Software Engineer at Globality;
+- **Oct, 2019 - May, 2020:** Software Engineer at GeoPhy;
 - **Dec, 2018 - Oct, 2019:** Software Developer at Impresa;
 - **Apr, 2018 - Ago, 2018:** Google Summer of Code 2018 student with Systers Community;
 - **Feb, 2016 - Apr, 2018:** Android Developer at Innovation Makers;
@@ -45,7 +46,7 @@ I documented my journey with 1 blog per week on [Isabel Costa GSoC Medium public
 
 Links: [Initial GSoC Proposal]() / [Mentorship System on GSoC website](https://summerofcode.withgoogle.com/archive/2018/projects/6592097335377920/) / [GSoC Journal on Medium](https://medium.com/isabel-costa-gsoc) / [Final Demo of my work](https://www.youtube.com/watch?v=xRZrdR47R-w)
 
-Tech Stack and tools: Kotlin, Python, Flask, git, GitHub, SQLAlchemy, Swagger UI, Android
+**Tech Stack and tools:** Kotlin, Python, Flask, git, GitHub, SQLAlchemy, Swagger UI, Android
 
 ### PREMIUM - Private Reactive Multipath Communication Middleware (MSc Thesis)
 
@@ -54,7 +55,7 @@ I developed my MSc thesis "PREMIUM: Private Reactive Multipath Communication Mid
 To develop the prototype for my thesis, I worked with two previous master thesis' projects - MACHETE, a multipath communication mechanism, and Darshana, route hijacking detection system. I refactored these projects, fixed bugs, implemented new features that were needed for my Dissertation project. I also created documentation for these.
 I used the modified versions of these prototypes and implemented new modules to integrate them.
 
-Tech stack and tools: C, Java, Python, VirtualBox, Google Cloud, git, GitHub, Linux (Debian)
+**Tech stack and tools:** C, Java, Python, VirtualBox, Google Cloud, git, GitHub, Linux (Debian)
 
 Code is available at [inesc-id/Premium](https://github.com/inesc-id/Premium) on GitHub.
 
@@ -65,7 +66,8 @@ Usually, I use Jekyll based websites, to facilitate the development through usin
 These are the different versions of my websites until this current one:
 - **1st version:** [Live](http://isabelcosta.github.io/personal-website-first-version) and on [GitHub](http://github.com/isabelcosta/personal-website-first-version);
 - **2nd version:** [Live](http://isabelcosta.github.io/personal-website-second-version) and on [GitHub](https://github.com/isabelcosta/personal-website-second-version);
-- **3rd version:** this website right here :) and on [GitHub](https://github.com/isabelcosta/isabelcosta.github.io).
+- **3rd version:** this website right here :) and on [GitHub](https://github.com/isabelcosta/personal-website-third-version);
+- **4th version:** this website right here :) and on [GitHub](https://github.com/isabelcosta/website).
 
 ### Smart Home Android app
 
@@ -75,7 +77,7 @@ I developed planned and designed all the features. I used Model View Presenter a
 
 All code and user interface designs can be found at [isabelcosta/smart-home-project](https://github.com/isabelcosta/smart-home-project) GitHub repository.
 
-Tech Stack and tools: Java, Android, git, GitHub
+**Tech Stack and tools:** Java, Android, git, GitHub
 
 ### MoviesApp
 
@@ -83,4 +85,4 @@ MoviesApp was the project I used to to practice my Kotlin knowledge within the A
 
 All code can be found at [isabelcosta/MoviesApp](https://github.com/isabelcosta/MoviesApp) GitHub repository.
 
-Tech Stack and tools: Kotlin, Android, git, GitHub, Retrofit
+**Tech Stack and tools:** Kotlin, Android, git, GitHub, Retrofit
