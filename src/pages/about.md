@@ -5,11 +5,11 @@ permalink: /about/index.html
 metaTitle: About me
 ---
 
-<!--![Isabel in Germany all covered from cold](/assets/images/me-out-in-the-cold.jpg)-->
+![Isabel in Germany all covered from cold](/images/me-out-in-the-cold.jpg)
 
 ### Olá 👋🏾
 
-I'm Isabel, a Software Developer from Portugal.
+I'm Isabel, a Software Engineer from Portugal.
 
 I always try to be open to learning new languages and frameworks depending on the need of the project. I thrive to learning about software development best practices and apply them to my work.
 
@@ -29,9 +29,7 @@ I’ve graduated from Bachelors (2015) and Masters degree (2018) of **Telecommun
 
 ### 💼 Work
 
-I'm currently working as a Software Developer at [Grupo Impresa](http://www.impresa.pt/), a Portuguese group of media products.
-During my master degree, I’ve worked as an Android developer for 2+ years in a consulting agency, [INM](https://inm.pt/).
-On my third year in college, I interned at a startup, [Uniplaces](https://uniplaces.com/), where I contributed mostly to their web platform. 
+I'm currently working as a Software Engineer at Globality, working with Python. Previously, I worked with Scala at GeoPhy, and worked as a full stack developer at Impresa. I was also and an Android Developer for 2 years. You can learn more about my professional history on [LinkedIn](https://www.linkedin.com/in/isabelcmdcosta).
 
 ### ℹ️ More ...
 
