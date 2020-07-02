@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Isabel Costa
+title: Olá 👋🏾
 metaDesc: Isabel Costa is a Software Engineer from Portugal and this is her website.
 postsHeading: Latest posts
 archiveButtonText: See all posts

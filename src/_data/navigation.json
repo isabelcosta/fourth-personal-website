@@ -1,28 +1,28 @@
 {
   "items": [
     {
-      "text": "Home",
+      "text": "~",
       "url": "/",
       "external": false
     },
     {
-      "text": "About me",
+      "text": "~/about",
       "url": "/about"
     },
     {
-      "text": "Posts",
+      "text": "~/posts",
       "url": "/posts"
     },
     {
-      "text": "Talks",
+      "text": "~/talks",
       "url": "/talks"
     },
     {
-      "text": "Work",
+      "text": "~/work",
       "url": "/work"
     },
     {
-      "text": "Contact",
+      "text": "~/contact",
       "url": "/contact",
       "external": false
     }

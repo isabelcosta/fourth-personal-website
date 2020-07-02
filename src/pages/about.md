@@ -2,7 +2,6 @@
 layout: layouts/page.njk
 title: About me
 permalink: /about/index.html
-metaTitle: About me
 ---
 
 ![Isabel in Germany all covered from cold](/images/me-out-in-the-cold.jpg)
