@@ -20,11 +20,6 @@
     {
       "text": "~/work",
       "url": "/work"
-    },
-    {
-      "text": "~/contact",
-      "url": "/contact",
-      "external": false
     }
   ]
 }

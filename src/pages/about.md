@@ -10,8 +10,6 @@ permalink: /about/index.html
 
 I'm Isabel, a Software Engineer from Portugal.
 
-I always try to be open to learning new languages and frameworks depending on the need of the project. I thrive to learning about software development best practices and apply them to my work.
-
 I’m passionate about the process of software development, such as the documentation, testing, code reviews, communicating with peers within teams, thinking about solutions to problems, etc. I thrive to learn about software development best practices and apply them to my work, regardless of the technology I’m working with.
 
 I find very interesting participating in projects since its very beginning to end, and seeing it culminate in a final product while contributing in every aspect of it.
@@ -33,7 +31,10 @@ I'm currently working as a Software Engineer at Globality, working with Python. 
 ### ℹ️ More ...
 
 You can learn more about me through my:
-- **Blog posts** I write on [Medium](https://medium.com/@isabelcmdcosta), [Dev Community](https://dev.to/isabelcmdcosta) or [Blog page](/blog/) (once I migrate everything);
+- **Blog posts** I write on [Blog page](/blog/)! You can also find my posts on [Medium](https://medium.com/@isabelcmdcosta) and [DEV Community](https://dev.to/isabelcmdcosta);
 - **Talks** on [Talks page](/talks/), and [Speaker Deck](https://speakerdeck.com/isabelcmdcosta);
 - **Projects** I develop on [GitHub](https://github.com/isabelcosta);
-- **Work** on [LinkedIn](https://www.linkedin.com/in/isabelcmdcosta).
+- **Work** on [LinkedIn](https://www.linkedin.com/in/isabelcmdcosta);
+
+✉️ Want to send a message? You can reach me at [isabel.monteiro.costa@gmail.com](mailto:isabel.monteiro.costa@gmail.com)
+
