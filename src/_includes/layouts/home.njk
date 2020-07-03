@@ -4,6 +4,7 @@
 {% set introHeading = title %}
 {% set introSummary %}
   {{ content | safe }}
+  {% include "partials/components/social-media-links.njk" %}
 {% endset %}
 
 {# Post list content #}

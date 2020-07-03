@@ -9,5 +9,12 @@
   "enableThirdPartyComments": false,
   "paymentPointer": " ",
   "faviconPath": "/images/favicon.png",
-  "maxPostsPerPage": 8
+  "maxPostsPerPage": 8,
+  "socialMedia": {
+    "github": "https://github.com/isabelcosta",
+    "linkedin": "https://www.linkedin.com/in/isabelcmdcosta",
+    "twitter": "https://twitter.com/isabelcmdcosta",
+    "medium": "https://medium.com/@isabelcmdcosta",
+    "dev": "https://dev.to/isabelcmdcosta"
+  }
 }
