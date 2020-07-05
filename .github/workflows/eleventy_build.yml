@@ -1,18 +1,28 @@
-name: Eleventy Action
-on: [push]
+name: Eleventy Build
+
+on:
+  push:
+    branches:
+      - master
 
 jobs:
-  build_deploy:
+  deploy:
     runs-on: ubuntu-18.04
     steps:
-      - uses: actions/checkout@master
-      - name: Build
-        uses: cagov/actions-eleventy@v1.3.1
+      - uses: actions/checkout@v2
+
+      - name: Setup Node
+        uses: actions/setup-node@v1
         with:
-          args: --formats=html,njk --input ./posts
+          node-version: "14.4"
+
+      - run: npm ci
+
+      - run: npm run production
+
       - name: Deploy
-        uses: peaceiris/actions-gh-pages@v1.1.0
-        env:
-          PUBLISH_DIR: _site 
-          PUBLISH_BRANCH: gh-pages
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
+          publish_dir: ./dist
+          publish_branch: master
