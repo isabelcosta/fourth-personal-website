@@ -26,7 +26,7 @@ You can see my **open sourced projects** on [GitHub](https://github.com/isabelco
 - **May, 2019 - June, 2019:** Hopperx1 London - Track Committee Co Chair for Open Source;
 - **Sep, 2018:** GHC Open Source Day Systers Representative.
 
-I also do [public speaking](/talks/) and [blogging](/blog/).
+I also do [public speaking](/talks/) and [blogging](/posts/).
 
 ## 🚧 Projects
 
