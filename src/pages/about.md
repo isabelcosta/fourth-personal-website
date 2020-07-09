@@ -31,7 +31,7 @@ I'm currently working as a Software Engineer at Globality, working with Python. 
 ### ℹ️ More ...
 
 You can learn more about me through my:
-- **Blog posts** I write on [Blog page](/blog/)! You can also find my posts on [Medium](https://medium.com/@isabelcmdcosta) and [DEV Community](https://dev.to/isabelcmdcosta);
+- **Blog posts** I write on [Blog page](/posts/)! You can also find my posts on [Medium](https://medium.com/@isabelcmdcosta) and [DEV Community](https://dev.to/isabelcmdcosta);
 - **Talks** on [Talks page](/talks/), and [Speaker Deck](https://speakerdeck.com/isabelcmdcosta);
 - **Projects** I develop on [GitHub](https://github.com/isabelcosta);
 - **Work** on [LinkedIn](https://www.linkedin.com/in/isabelcmdcosta);
