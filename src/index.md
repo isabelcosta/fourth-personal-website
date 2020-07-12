@@ -7,7 +7,7 @@ archiveButtonText: See all posts
 socialImage: ""
 ---
 I'm Isabel, a Software Engineer from Portugal, currently working at [Globality](https://www.globality.com/) in London, UK.
-I'm also an admin at [AnitaB.org Open Source](https://github.com/anitab-org) and one of the Community Leaders at AnitaB.org London Community.
+I'm also an admin at [AnitaB.org Open Source](https://github.com/anitab-org) and one of the Community Leaders at [AnitaB.org London Community](https://community.anitab.org/).
 Ocasionally, I enjoy presenting talks and blogging. 
 
-<!-- I founded [Mentorship System project](https://summerofcode.withgoogle.com/archive/2018/projects/6592097335377920/), a project I proposed during Google Summer of Code 2018 with Systers Open Source community. I maintain backend and android repositories. -->
+I founded Mentorship System project during Google Summer of Code 2018. I maintain and build together with [AnitaB.org Open Source](https://github.com/anitab-org) community.
