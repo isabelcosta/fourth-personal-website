@@ -10,7 +10,7 @@ You can see the slides for my talks on [Speaker Deck](https://speakerdeck.com/is
 
 | Title | Where | Date | Resources |
 |-------|-------|------|-------|
-| My journey to contributing to Open Source | [Coding Black Females - Lightning Talks... Take One!](https://www.meetup.com/pt-BR/Coding-Black-Females/events/270991852/)| 8 July '20 | [Slides](https://speakerdeck.com/isabelcmdcosta/my-journey-to-contribute-to-open-source) |
+| My journey to contributing to Open Source | [Coding Black Females - Lightning Talks... Take One!](https://www.meetup.com/pt-BR/Coding-Black-Females/events/270991852/)| 8 July '20 | [Video](https://youtu.be/Wk5DqvY6Eww?t=4540) / [Slides](https://speakerdeck.com/isabelcmdcosta/my-journey-to-contribute-to-open-source) |
 | Why, Where and How to contribute to Open Source | [JNation](https://2020.jnation.pt/) | 2 Jun '20 | [Video](https://youtu.be/-37he61LlDo?t=31704) / [Slides](https://speakerdeck.com/isabelcmdcosta/why-where-and-how-to-contribute-to-open-source-at-jnation) |
 | Intro to Open Source | [AnitaB.org Community Webinar](https://community.anitab.org/event/intro-to-open-source/) | 15 May '20 | --- |
 | Why, Where and How to contribute to Open Source | [GDG DevFest Lisbon](https://devfest.gdglisbon.xyz/) | 7 Dec '19 | [Slides](https://speakerdeck.com/isabelcmdcosta/why-where-and-how-to-contribute-to-open-source) |
