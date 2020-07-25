@@ -1200,6 +1200,30 @@ Besides this, I’m not used to developing backend, although this is something I
 	
   
   <entry>
+    <title>Signal parent process from child thread using C</title>
+    <link href="https://isabel-website.netlify.app//posts/signal-parent-process-from-child-thread/"/>
+    <updated>2018-03-26T00:00:00+00:00</updated>
+    <id>https://isabel-website.netlify.app//posts/signal-parent-process-from-child-thread/</id>
+    <content type="html"><![CDATA[
+      <p>For my master's thesis I had to use signals with C language.</p>
+<p>In my code, I used <code>SIGUSR1</code> as the signal I wait for and the <code>handle_my_custom_signal</code> function which will execute once this signal is received in the parent process.</p>
+<p>This piece of code allows you to put your program listening for a signal.</p>
+<pre><code>signal(SIGUSR1, handle_my_custom_signal);
+</code></pre>
+<p>This is how I trigger the signal:</p>
+<pre><code>raise(SIGUSR1);
+</code></pre>
+<p><code>SIGINT</code> is used by <em>Ctrl+C</em>. So if you for this signal, your function will be triggered, when you do <em>Ctrl+C</em>.</p>
+<p>There are two signals that can be used as we want, without having to waste the <code>SIGINT</code> that is used by <em>Ctrl+C</em>, such as <code>SIGUSR1</code> and <code>SIGUSR2</code>. In <a href="https://www.gnu.org/software/libc/manual/html_node/Miscellaneous-Signals.html#Miscellaneous-Signals">this post</a> you can see these and other miscellaneous signals.</p>
+<p><a href="https://gist.github.com/isabelcosta/597ef4cc585d44879e6084dec00d166b">This GitHub Gist</a> has the main code of an experiment I did to try this out. You can see the full repository, which contains the <code>Makefile</code> for this: <a href="https://github.com/isabelcosta/testing-signals-with-c">isabelcosta/testing-signals-with-c</a>.</p>
+<script src="https://gist.github.com/isabelcosta/597ef4cc585d44879e6084dec00d166b.js"></script>
+<p>I actually used this on <a href="https://github.com/inesc-id/Premium">my Master project</a>, more specifically <a href="https://github.com/inesc-id/Premium/blob/71bcf823853869f36ff27b6c1144375e3415c0a4/MACHETE/SCMultipath/sending_handler.c#L394">this line here</a>.</p>
+
+    ]]></content>
+  </entry>
+	
+  
+  <entry>
     <title>Installing nftables from sources on Debian</title>
     <link href="https://isabel-website.netlify.app//posts/installing-nftables-from-sources-on-debian/"/>
     <updated>2018-03-09T00:00:00+00:00</updated>
@@ -1438,6 +1462,70 @@ root@debian:/home/debian# ldconfig
 root@debian:/home/debian# nft -v
 nftables v0.8.2 (Joe Btfsplk)
 </code></pre>
+
+    ]]></content>
+  </entry>
+	
+  
+  <entry>
+    <title>How to upgrade Linux kernel on Debian</title>
+    <link href="https://isabel-website.netlify.app//posts/upgrade-linux-kernel-on-debian/"/>
+    <updated>2018-02-25T00:00:00+00:00</updated>
+    <id>https://isabel-website.netlify.app//posts/upgrade-linux-kernel-on-debian/</id>
+    <content type="html"><![CDATA[
+      <p>In this post, I'll show how I updated the virtual machines I worked with. I mostly followed the steps in this great blog post on <a href="https://itsfoss.com/kernel-upgrade-debian/">how to update the kernel in Debian</a>. This post is a short version of that.</p>
+<p>I followed the steps in root mode, that's why you won't see <code>sudo</code> here. If you enter in root mode with <code>sudo</code> then add it to the commands.</p>
+<p>First, check your Linux kernel version:</p>
+<pre><code># uname -r
+3.16.0-4-amd64
+</code></pre>
+<p>Then do a search on the available versions of <code>linux-image</code> and <code>linux-headers</code>, like this:</p>
+<pre><code># aptitude search linux-image
+v   linux-image               -                                    
+v   linux-image-2.6           -                                    
+i A linux-image-3.16.0-4-amd6 - Linux 3.16 for 64-bit PCs          
+p   linux-image-3.16.0-4-amd6 - Debugging symbols for Linux 3.16.0-
+p   linux-image-3.16.0-5-amd6 - Linux 3.16 for 64-bit PCs          
+p   linux-image-3.16.0-5-amd6 - Debugging symbols for Linux 3.16.0-
+p   linux-image-4.1.38.mptcp  - Linux kernel, version 4.1.38.mptcp 
+i A linux-image-4.4.70.mptcp  - Linux kernel, version 4.4.70.mptcp 
+p   linux-image-4.4.83.mptcp  - Linux kernel, version 4.4.83.mptcp 
+p   linux-image-4.4.83.mptcp- - Linux kernel debugging symbols for 
+p   linux-image-4.4.88.mptcp  - Linux kernel, version 4.4.88.mptcp 
+p   linux-image-4.9.60.mptcp  - Linux kernel, version 4.9.60.mptcp 
+p   linux-image-4.9.78.mptcp  - Linux kernel, version 4.9.78.mptcp 
+i   linux-image-amd64         - Linux for 64-bit PCs (meta-package)
+p   linux-image-amd64-dbg     - Debugging symbols for Linux amd64 c
+</code></pre>
+<p>Now to search the headers, do:</p>
+<pre><code># aptitude search linux-headers
+v   linux-headers             -                                    
+v   linux-headers-2.6         -                                    
+p   linux-headers-3.16.0-4-al - All header files for Linux 3.16 (me
+p   linux-headers-3.16.0-4-al - All header files for Linux 3.16 (me
+i   linux-headers-3.16.0-4-am - Header files for Linux 3.16.0-4-amd
+i A linux-headers-3.16.0-4-co - Common header files for Linux 3.16.
+p   linux-headers-3.16.0-5-al - All header files for Linux 3.16 (me
+p   linux-headers-3.16.0-5-al - All header files for Linux 3.16 (me
+p   linux-headers-3.16.0-5-am - Header files for Linux 3.16.0-5-amd
+p   linux-headers-3.16.0-5-co - Common header files for Linux 3.16.
+p   linux-headers-4.1.38.mptc - Linux kernel headers for 4.1.38.mpt
+i A linux-headers-4.4.70.mptc - Linux kernel headers for 4.4.70.mpt
+p   linux-headers-4.4.83.mptc - Linux kernel headers for 4.4.83.mpt
+p   linux-headers-4.4.88.mptc - Linux kernel headers for 4.4.88.mpt
+p   linux-headers-4.9.60.mptc - Linux kernel headers for 4.9.60.mpt
+i   linux-headers-4.9.78.mptc - Linux kernel headers for 4.9.78.mpt
+p   linux-headers-amd64       - Header files for Linux amd64 config
+</code></pre>
+<p>I shortened the output just to give an idea of the output. Now with this output, you can see the package name for the <code>linux-image</code> and <code>linux-headers</code>. In my case, I want to install the version 4.9.78.mptcp, so I will install like this:</p>
+<pre><code># aptitude install linux-image-4.9.78.mptcp linux-headers-4.9.78.mptcp
+</code></pre>
+<p>After this I restarted the machine, and checked the kernel release with the first command of the post:</p>
+<pre><code># uname -r
+4.9.78.mptcp
+</code></pre>
+<p>Yey, a new version of the kernel is installed.</p>
+<p>So if this does not work for you, I found <a href="https://itsfoss.com/kernel-upgrade-debian/">this post very helpful</a>.</p>
 
     ]]></content>
   </entry>
