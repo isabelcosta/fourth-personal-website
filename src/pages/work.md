@@ -7,6 +7,15 @@ metaTitle: Work
 
 You can see my **open sourced projects** on [GitHub](https://github.com/isabelcosta) and my **professional experience** on [LinkedIn](https://www.linkedin.com/in/isabelcmdcosta).
 
+- [👩🏾‍💻 Professional](#heading-professional)
+- [👐🏾 Volunteer work](#heading-volunteer-work)
+- [🚧 Projects](#heading-projects)
+    - [Mentorship System](#heading-mentorship-system)
+    - [PREMIUM - Private Reactive Multipath Communication Middleware (MSc Thesis)](#heading-premium-private-reactive-multipath-communication-middleware-(msc-thesis))
+    - [Personal Website](#heading-personal-website)
+    - [Smart Home Android app](#heading-smart-home-android-app)
+    - [Movies Android App](#heading-moviesapp)
+
 ## 👩🏾‍💻 Professional
 
 - **Jun, 2020 - Now:** Software Engineer at Globality;
