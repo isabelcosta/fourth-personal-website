@@ -2,7 +2,6 @@
 layout: layouts/page.njk
 title: Work
 permalink: /work/index.html
-metaTitle: Work
 ---
 
 You can see my **open sourced projects** on [GitHub](https://github.com/isabelcosta) and my **professional experience** on [LinkedIn](https://www.linkedin.com/in/isabelcmdcosta).

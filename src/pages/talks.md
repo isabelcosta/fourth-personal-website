@@ -2,7 +2,6 @@
 layout: layouts/page.njk
 title: Talks
 permalink: /talks/index.html
-metaTitle: Talks
 ---
 I enjoy talking about Open Source.
 
