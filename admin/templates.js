@@ -215,7 +215,9 @@ output += result;
 callback(null);
 });
 env.waterfall(tasks, function(){
-output += "\n  ";
+output += "\n\n  ";
+if(!runtime.memberLookup((runtime.contextOrFrameLookup(context, frame, "site")),"env") == "development") {
+output += "\n    ";
 var tasks = [];
 tasks.push(
 function(callback) {
@@ -235,7 +237,10 @@ output += result;
 callback(null);
 });
 env.waterfall(tasks, function(){
-output += "\n  <script>document.documentElement.classList.remove('no-js');</script>\n  <style>";
+output += "\n  ";
+});
+}
+output += "\n  \n  <script>document.documentElement.classList.remove('no-js');</script>\n  <style>";
 var tasks = [];
 tasks.push(
 function(callback) {
@@ -313,13 +318,13 @@ parentTemplate.rootRenderFunc(env, context, frame, runtime, cb);
 } else {
 cb(null, output);
 }
-})})})})})})})});
+})})})})})})});
 } catch (e) {
   cb(runtime.handleError(e, lineno, colno));
 }
 }
 function b_head(env, context, frame, runtime, cb) {
-var lineno = 12;
+var lineno = 16;
 var colno = 5;
 var output = "";
 try {
@@ -332,7 +337,7 @@ cb(null, output);
 }
 }
 function b_content(env, context, frame, runtime, cb) {
-var lineno = 17;
+var lineno = 21;
 var colno = 5;
 var output = "";
 try {
@@ -345,7 +350,7 @@ cb(null, output);
 }
 }
 function b_foot(env, context, frame, runtime, cb) {
-var lineno = 20;
+var lineno = 24;
 var colno = 5;
 var output = "";
 try {
