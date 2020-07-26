@@ -55,9 +55,9 @@ I developed my MSc thesis "PREMIUM: Private Reactive Multipath Communication Mid
 To develop the prototype for my thesis, I worked with two previous master thesis' projects - MACHETE, a multipath communication mechanism, and Darshana, route hijacking detection system. I refactored these projects, fixed bugs, implemented new features that were needed for my Dissertation project. I also created documentation for these.
 I used the modified versions of these prototypes and implemented new modules to integrate them.
 
-**Tech stack and tools:** C, Java, Python, VirtualBox, Google Cloud, git, GitHub, Linux (Debian)
-
 Code is available at [inesc-id/Premium](https://github.com/inesc-id/Premium) on GitHub.
+
+**Tech stack and tools:** C, Java, Python, VirtualBox, Google Cloud, git, GitHub, Linux (Debian)
 
 ### Personal Website
 
@@ -68,6 +68,8 @@ These are the different versions of my websites until this current one:
 - **2nd version:** [Live](http://isabelcosta.github.io/second-personal-website) and on [GitHub](https://github.com/isabelcosta/second-personal-website);
 - **3rd version:** [Live](http://isabelcosta.github.io/third-personal-website) and on [GitHub](https://github.com/isabelcosta/third-personal-website). This uses this [jekyll/minima](https://github.com/jekyll/minima) template;
 - **4th version:** this website right here :) and on [GitHub](https://github.com/isabelcosta/isabelcosta.github.io) which uses https://hylia.website/ template.
+
+Here's the [issue tracker of this website](https://github.com/isabelcosta/isabelcosta.github.io/issues) where you can see my roadmap of issues planned or submit a bug you find there.
 
 ### Smart Home Android app
 
