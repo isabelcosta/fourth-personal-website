@@ -13,6 +13,7 @@ const parseTransform = require('./src/transforms/parse-transform.js');
 
 // Import data files
 const site = require('./src/_data/site.json');
+site.env = process.env.ELEVENTY_ENV
 
 module.exports = function(config) {
   // Filters
