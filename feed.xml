@@ -2,12 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Isabel Costa</title>
 	<subtitle></subtitle>
-	<link href="https://isabel-website.netlify.app//feed.xml" rel="self"/>
-	<link href="https://isabel-website.netlify.app//"/>
+	<link href="https://isabelcosta.github.io//feed.xml" rel="self"/>
+	<link href="https://isabelcosta.github.io//"/>
 	
 	<updated>2017-11-22T00:00:00+00:00</updated>
 	
-	<id>https://isabel-website.netlify.app/</id>
+	<id>https://isabelcosta.github.io/</id>
 	<author>
   <name>Isabel Costa</name>
   <email>isabel.monteiro.costa@gmail.com</email>
@@ -16,9 +16,9 @@
   
   <entry>
     <title>Deploying Mentorship Backend flask app on Heroku</title>
-    <link href="https://isabel-website.netlify.app//posts/deploy-ms-to-heroku/"/>
+    <link href="https://isabelcosta.github.io//posts/deploy-ms-to-heroku/"/>
     <updated>2020-06-27T00:00:00+00:00</updated>
-    <id>https://isabel-website.netlify.app//posts/deploy-ms-to-heroku/</id>
+    <id>https://isabelcosta.github.io//posts/deploy-ms-to-heroku/</id>
     <content type="html"><![CDATA[
       <p><img src="/images/deploy-ms-heroku-cover.png" alt=""></p>
 <p>At <a href="https://github.com/anitab-org">AnitaB.org Open Source</a> we have a project called Mentorship System, which I started during <a href="https://summerofcode.withgoogle.com/">Google Summer of Code</a> 2018. This project is composed of several repositories: <a href="https://github.com/anitab-org/mentorship-flutter">flutter</a>, <a href="https://github.com/anitab-org/mentorship-android">android</a>, <a href="https://github.com/anitab-org/mentorship-ios">ios</a>, and a <a href="https://github.com/anitab-org/mentorship-backend">backend</a> written in Python (Flask).</p>
@@ -62,9 +62,9 @@
   
   <entry>
     <title>Images of People of Color for content creation</title>
-    <link href="https://isabel-website.netlify.app//posts/images-of-poc-for-content-creation/"/>
+    <link href="https://isabelcosta.github.io//posts/images-of-poc-for-content-creation/"/>
     <updated>2020-05-27T00:00:00+00:00</updated>
-    <id>https://isabel-website.netlify.app//posts/images-of-poc-for-content-creation/</id>
+    <id>https://isabelcosta.github.io//posts/images-of-poc-for-content-creation/</id>
     <content type="html"><![CDATA[
       <p><img src="/images/woc-in-tech-chat-1.jpeg" alt="#WOCinTech Chat"></p>
 <p>A couple of years ago I saw <a href="https://peopleofcolorintech.com/articles/where-to-find-free-stock-photos-with-people-of-color/">this great blog post</a> from <a href="https://peopleofcolorintech.com/">peopleofcolorintech.com</a> about stock photos with people of color in it. I found this amazing! I never thought about using my blog posts or other types of public content to spread more visual representations of people of color.</p>
@@ -88,9 +88,9 @@
   
   <entry>
     <title>Open Source programs and initiatives</title>
-    <link href="https://isabel-website.netlify.app//posts/open-source-initiatives/"/>
+    <link href="https://isabelcosta.github.io//posts/open-source-initiatives/"/>
     <updated>2020-03-12T00:00:00+00:00</updated>
-    <id>https://isabel-website.netlify.app//posts/open-source-initiatives/</id>
+    <id>https://isabelcosta.github.io//posts/open-source-initiatives/</id>
     <content type="html"><![CDATA[
       <p>In this blog post, I will mention some open source initiatives and programs that can help you get started or more involved with Open Source.</p>
 <h2>Google Summer of Code</h2>
@@ -115,9 +115,9 @@
   
   <entry>
     <title>2019 Review</title>
-    <link href="https://isabel-website.netlify.app//posts/2019-review/"/>
+    <link href="https://isabelcosta.github.io//posts/2019-review/"/>
     <updated>2019-12-31T00:00:00+00:00</updated>
-    <id>https://isabel-website.netlify.app//posts/2019-review/</id>
+    <id>https://isabelcosta.github.io//posts/2019-review/</id>
     <content type="html"><![CDATA[
       <p>2019 was a very year full of good surprises for me! So I wanted to write this post so that I can look back to.</p>
 <p>Here’s a summary of my personal and professional achievements (not in order):</p>
@@ -141,9 +141,9 @@
   
   <entry>
     <title>Overcoming blockers about contributing to Open Source</title>
-    <link href="https://isabel-website.netlify.app//posts/overcoming-blockers-about-contributing-to-open-source/"/>
+    <link href="https://isabelcosta.github.io//posts/overcoming-blockers-about-contributing-to-open-source/"/>
     <updated>2019-06-24T00:00:00+00:00</updated>
-    <id>https://isabel-website.netlify.app//posts/overcoming-blockers-about-contributing-to-open-source/</id>
+    <id>https://isabelcosta.github.io//posts/overcoming-blockers-about-contributing-to-open-source/</id>
     <content type="html"><![CDATA[
       <p><img src="/images/overcoming-blocks-technologist.png" alt="woman on pc emoji"></p>
 <p>Contributing to Open Source can be super intimidating. Back in 2016 I already knew about the idea of contributing Open Source software. But never actually got started until November 2017. This is when I did my first contribution. Even though I started then, it was after getting accepted into Google Summer Of Code 2018’s edition, that I learned a lot about contributing to Open Source.</p>
@@ -224,9 +224,9 @@
   
   <entry>
     <title>Resources to motivate yourself to bootstrap products</title>
-    <link href="https://isabel-website.netlify.app//posts/resources-to-motivate-yourself-to-bootstrap-products/"/>
+    <link href="https://isabelcosta.github.io//posts/resources-to-motivate-yourself-to-bootstrap-products/"/>
     <updated>2019-04-03T00:00:00+00:00</updated>
-    <id>https://isabel-website.netlify.app//posts/resources-to-motivate-yourself-to-bootstrap-products/</id>
+    <id>https://isabelcosta.github.io//posts/resources-to-motivate-yourself-to-bootstrap-products/</id>
     <content type="html"><![CDATA[
       <p><img src="/images/woc-in-tech-chat-3.jpeg" alt="Credits to the amazing initiative www.wocintechchat.com"></p>
 <p>One of the things that I’ve been paying attention to is the makers/bootstrappers/solo entrepreneurship movement. I’ve seen this movement taking off more last year. Although, of course, this is not a new thing, it is just something that has gotten more attention recently. This movement is about people who make products which are mainly self-funded. These products may start as a side project by founders and then lead to a profitable business.</p>
@@ -278,9 +278,9 @@
   
   <entry>
     <title>2018 Review</title>
-    <link href="https://isabel-website.netlify.app//posts/2018-review/"/>
+    <link href="https://isabelcosta.github.io//posts/2018-review/"/>
     <updated>2018-12-31T00:00:00+00:00</updated>
-    <id>https://isabel-website.netlify.app//posts/2018-review/</id>
+    <id>https://isabelcosta.github.io//posts/2018-review/</id>
     <content type="html"><![CDATA[
       <p>2018 was a very important year for me! So I wanted to write this post so that I can look back to.</p>
 <p>Here’s a summary of my personal and professional achievements (not in order):</p>
@@ -326,9 +326,9 @@
   
   <entry>
     <title>Coming up with original ideas for Systers Open Source</title>
-    <link href="https://isabel-website.netlify.app//posts/coming-up-with-original-ideas-for-systers-open-source/"/>
+    <link href="https://isabelcosta.github.io//posts/coming-up-with-original-ideas-for-systers-open-source/"/>
     <updated>2018-12-30T00:00:00+00:00</updated>
-    <id>https://isabel-website.netlify.app//posts/coming-up-with-original-ideas-for-systers-open-source/</id>
+    <id>https://isabelcosta.github.io//posts/coming-up-with-original-ideas-for-systers-open-source/</id>
     <content type="html"><![CDATA[
       <p><img src="/images/woc-in-tech-chat-6.jpeg" alt="Source: #WOCinTech Chat photos"></p>
 <p>This post is intended for anyone who wants to propose original ideas for <a href="https://github.com/systers">Systers Open Source</a>. It can be within the <a href="https://summerofcode.withgoogle.com">Google Summer of Code</a> (GSoC) context or not, since this community does not do Open Source only during this program.</p>
@@ -388,9 +388,9 @@
   
   <entry>
     <title>GSoC with Systers Community Closure</title>
-    <link href="https://isabel-website.netlify.app//posts/gsoc-with-systers-closure/"/>
+    <link href="https://isabelcosta.github.io//posts/gsoc-with-systers-closure/"/>
     <updated>2018-12-28T00:00:00+00:00</updated>
-    <id>https://isabel-website.netlify.app//posts/gsoc-with-systers-closure/</id>
+    <id>https://isabelcosta.github.io//posts/gsoc-with-systers-closure/</id>
     <content type="html"><![CDATA[
       <p><img src="/images/gsoc-closure-cover.png" alt="final remarks image representing end of gsoc"></p>
 <p>This year I was a <a href="https://summerofcode.withgoogle.com/">Google Summer of Code</a> student for <a href="http://systers.io/">Systers Community</a>. For a long time, I was interested in Open Source but I never managed to take off and start contributing for projects. This year I decided to apply for the second time and was accepted!</p>
@@ -444,9 +444,9 @@ These are the GitHub repositories I worked with:</p>
   
   <entry>
     <title>How I set up Tinyproxy as a forward proxy and reverse proxy</title>
-    <link href="https://isabel-website.netlify.app//posts/setup-tinyproxy-as-forward-and-reverse-proxy/"/>
+    <link href="https://isabelcosta.github.io//posts/setup-tinyproxy-as-forward-and-reverse-proxy/"/>
     <updated>2018-09-06T00:00:00+00:00</updated>
-    <id>https://isabel-website.netlify.app//posts/setup-tinyproxy-as-forward-and-reverse-proxy/</id>
+    <id>https://isabelcosta.github.io//posts/setup-tinyproxy-as-forward-and-reverse-proxy/</id>
     <content type="html"><![CDATA[
       <p><a href="https://tinyproxy.github.io/">Tinyproxy</a> is a light-weight HTTP/HTTPS proxy daemon for POSIX operating systems, which is <a href="https://github.com/tinyproxy/tinyproxy">open source on Github</a>.</p>
 <p>I tried out this tool to set up a <a href="https://en.wikipedia.org/wiki/Proxy_server">forward proxy</a> on the client side of the communication and a <a href="https://en.wikipedia.org/wiki/Reverse_proxy">reverse proxy</a> on the server side. I wanted to use this so that I could do experiments on the network between the forward proxy and reverse proxy, without the client and server’s involvement.</p>
@@ -626,9 +626,9 @@ ReverseBaseURL &quot;http://10.0.2.36:8888/&quot;
   
   <entry>
     <title>Google Summer of Code | Coding Period | Week 12</title>
-    <link href="https://isabel-website.netlify.app//posts/gsoc-coding-period-week-12/"/>
+    <link href="https://isabelcosta.github.io//posts/gsoc-coding-period-week-12/"/>
     <updated>2018-08-06T00:00:00+00:00</updated>
-    <id>https://isabel-website.netlify.app//posts/gsoc-coding-period-week-12/</id>
+    <id>https://isabelcosta.github.io//posts/gsoc-coding-period-week-12/</id>
     <content type="html"><![CDATA[
       <p><img src="/images/gsoc-week-12-cover.png" alt=""></p>
 <p>This week — July 30 to August 5 — was the 12th week of the coding period of <a href="https://summerofcode.withgoogle.com/">Google Summer of Code (GSoC)</a> with <a href="https://github.com/systers">Systers Open Source</a>. If you want to know more about this you can read the <a href="https://medium.com/isabel-costa-gsoc/intro-to-google-summer-of-code-with-systers-open-source-dbdaa92bd189">introduction to my journey</a>, <a href="https://medium.com/isabel-costa-gsoc">my latest weekly blog posts</a> or <a href="https://github.com/systers/mentorship-backend/wiki/GSoC-2018-Isabel-Costa#weekly-status-report-for-week-12">my weekly status report</a> for this week.</p>
@@ -649,9 +649,9 @@ ReverseBaseURL &quot;http://10.0.2.36:8888/&quot;
   
   <entry>
     <title>Google Summer of Code | Coding Period | Week 11</title>
-    <link href="https://isabel-website.netlify.app//posts/gsoc-coding-period-week-11/"/>
+    <link href="https://isabelcosta.github.io//posts/gsoc-coding-period-week-11/"/>
     <updated>2018-07-30T00:00:00+00:00</updated>
-    <id>https://isabel-website.netlify.app//posts/gsoc-coding-period-week-11/</id>
+    <id>https://isabelcosta.github.io//posts/gsoc-coding-period-week-11/</id>
     <content type="html"><![CDATA[
       <p><img src="/images/gsoc-week-11-cover.png" alt=""></p>
 <p>This week — July 23 to July 29 — was the eleventh week of the coding period of <a href="https://summerofcode.withgoogle.com/">Google Summer of Code (GSoC)</a> with <a href="https://github.com/systers">Systers Open Source</a>. If you want to know more about this you can read the <a href="https://medium.com/isabel-costa-gsoc/intro-to-google-summer-of-code-with-systers-open-source-dbdaa92bd189">introduction to my journey</a>, <a href="https://medium.com/isabel-costa-gsoc">my latest weekly blog posts</a> or <a href="https://github.com/systers/mentorship-backend/wiki/GSoC-2018-Isabel-Costa#weekly-status-report-for-week-11">my weekly status report</a> for this week.</p>
@@ -684,9 +684,9 @@ This made me feel more comfortable about using these layouts and understanding t
   
   <entry>
     <title>Google Summer of Code | Coding Period | Week 10</title>
-    <link href="https://isabel-website.netlify.app//posts/gsoc-coding-period-week-10/"/>
+    <link href="https://isabelcosta.github.io//posts/gsoc-coding-period-week-10/"/>
     <updated>2018-07-23T00:00:00+00:00</updated>
-    <id>https://isabel-website.netlify.app//posts/gsoc-coding-period-week-10/</id>
+    <id>https://isabelcosta.github.io//posts/gsoc-coding-period-week-10/</id>
     <content type="html"><![CDATA[
       <p><img src="/images/gsoc-week-10-cover.png" alt=""></p>
 <p>This week — July 16 to July 22 — was the tenth week of the coding period of <a href="https://summerofcode.withgoogle.com/">Google Summer of Code (GSoC)</a> with <a href="https://github.com/systers">Systers Open Source</a>. If you want to know more about this you can read the <a href="https://medium.com/isabel-costa-gsoc/intro-to-google-summer-of-code-with-systers-open-source-dbdaa92bd189">introduction to my journey</a>, <a href="https://medium.com/isabel-costa-gsoc">my latest weekly blog posts</a> or <a href="https://github.com/systers/mentorship-backend/wiki/GSoC-2018-Isabel-Costa#weekly-status-report-for-week-10">my weekly status report</a> for this week.</p>
@@ -731,9 +731,9 @@ This made me feel more comfortable about using these layouts and understanding t
   
   <entry>
     <title>Google Summer of Code | Coding Period | Week 9</title>
-    <link href="https://isabel-website.netlify.app//posts/gsoc-coding-period-week-9/"/>
+    <link href="https://isabelcosta.github.io//posts/gsoc-coding-period-week-9/"/>
     <updated>2018-07-16T00:00:00+00:00</updated>
-    <id>https://isabel-website.netlify.app//posts/gsoc-coding-period-week-9/</id>
+    <id>https://isabelcosta.github.io//posts/gsoc-coding-period-week-9/</id>
     <content type="html"><![CDATA[
       <p><img src="/images/gsoc-week-9-cover.png" alt=""></p>
 <p>This week — July 9 to July 15— was the fourth week of the coding period of <a href="https://summerofcode.withgoogle.com/">Google Summer of Code (GSoC)</a> with <a href="https://github.com/systers">Systers Open Source</a>. If you want to know more about this you can read the <a href="https://medium.com/isabel-costa-gsoc/intro-to-google-summer-of-code-with-systers-open-source-dbdaa92bd189">introduction to my journey</a>, <a href="https://medium.com/isabel-costa-gsoc">my latest weekly blog posts</a> or <a href="https://github.com/systers/mentorship-backend/wiki/GSoC-2018-Isabel-Costa#weekly-status-report-for-week-9">my weekly status report</a> for this week.</p>
@@ -778,9 +778,9 @@ _Generated by Justinmind on Fri Jul 20 21:51:28 UTC 2018_www.justinmind.com</a><
   
   <entry>
     <title>Google Summer of Code | Coding Period | Week 8</title>
-    <link href="https://isabel-website.netlify.app//posts/gsoc-coding-period-week-8/"/>
+    <link href="https://isabelcosta.github.io//posts/gsoc-coding-period-week-8/"/>
     <updated>2018-07-09T00:00:00+00:00</updated>
-    <id>https://isabel-website.netlify.app//posts/gsoc-coding-period-week-8/</id>
+    <id>https://isabelcosta.github.io//posts/gsoc-coding-period-week-8/</id>
     <content type="html"><![CDATA[
       <p><img src="/images/gsoc-week-8-cover.png" alt=""></p>
 <p>This week — July 2 to July 8— was the fourth week of the coding period of <a href="https://summerofcode.withgoogle.com/">Google Summer of Code (GSoC)</a> with <a href="https://github.com/systers">Systers Open Source</a>. If you want to know more about this you can read the <a href="https://medium.com/isabel-costa-gsoc/intro-to-google-summer-of-code-with-systers-open-source-dbdaa92bd189">introduction to my journey</a>, <a href="https://medium.com/isabel-costa-gsoc">my latest weekly blog posts</a> or <a href="https://github.com/systers/mentorship-backend/wiki/GSoC-2018-Isabel-Costa#weekly-status-report-for-week-8">my weekly status report</a> for this week.</p>
@@ -809,9 +809,9 @@ _Generated by Justinmind on Fri Jul 20 21:51:28 UTC 2018_www.justinmind.com</a><
   
   <entry>
     <title>Introducing Mentorship System</title>
-    <link href="https://isabel-website.netlify.app//posts/introducing-mentorship-system/"/>
+    <link href="https://isabelcosta.github.io//posts/introducing-mentorship-system/"/>
     <updated>2018-07-05T00:00:00+00:00</updated>
-    <id>https://isabel-website.netlify.app//posts/introducing-mentorship-system/</id>
+    <id>https://isabelcosta.github.io//posts/introducing-mentorship-system/</id>
     <content type="html"><![CDATA[
       <p><img src="/images/mentorship-system-initial-logo.png" alt=""></p>
 <p>Mentorship System is an open source project I proposed for <a href="https://summerofcode.withgoogle.com/">Google Summer of Code</a> 2018 with <a href="https://github.com/systers">Systers Open Source</a>, where women mentor each other for a certain period of time on career development topics. A support system for women to advance their careers and count on each other.</p>
@@ -872,9 +872,9 @@ _Generated by Justinmind on Fri Jul 20 21:51:28 UTC 2018_www.justinmind.com</a><
   
   <entry>
     <title>Google Summer of Code | Coding Period | Week 7</title>
-    <link href="https://isabel-website.netlify.app//posts/gsoc-coding-period-week-7/"/>
+    <link href="https://isabelcosta.github.io//posts/gsoc-coding-period-week-7/"/>
     <updated>2018-07-02T00:00:00+00:00</updated>
-    <id>https://isabel-website.netlify.app//posts/gsoc-coding-period-week-7/</id>
+    <id>https://isabelcosta.github.io//posts/gsoc-coding-period-week-7/</id>
     <content type="html"><![CDATA[
       <p><img src="/images/gsoc-week-7-cover.png" alt=""></p>
 <p>This week — June 25 to July 1— was the fourth week of the coding period of <a href="https://summerofcode.withgoogle.com/">Google Summer of Code (GSoC)</a> with <a href="https://github.com/systers">Systers Open Source</a>. If you want to know more about this you can read the <a href="https://medium.com/isabel-costa-gsoc/intro-to-google-summer-of-code-with-systers-open-source-dbdaa92bd189">introduction to my journey</a>, <a href="https://medium.com/isabel-costa-gsoc">my latest weekly blog posts</a> or <a href="https://github.com/systers/mentorship-backend/wiki/GSoC-2018-Isabel-Costa#weekly-status-report-for-week-7">my weekly status report</a> for this week.</p>
@@ -932,9 +932,9 @@ _Generated by Justinmind on Fri Jul 20 21:51:28 UTC 2018_www.justinmind.com</a><
   
   <entry>
     <title>Google Summer of Code | Coding Period | Week 6</title>
-    <link href="https://isabel-website.netlify.app//posts/gsoc-coding-period-week-6/"/>
+    <link href="https://isabelcosta.github.io//posts/gsoc-coding-period-week-6/"/>
     <updated>2018-06-25T00:00:00+00:00</updated>
-    <id>https://isabel-website.netlify.app//posts/gsoc-coding-period-week-6/</id>
+    <id>https://isabelcosta.github.io//posts/gsoc-coding-period-week-6/</id>
     <content type="html"><![CDATA[
       <p><img src="/images/gsoc-week-6-cover.png" alt=""></p>
 <p>This week — June 18 to June 24 — was the fourth week of the coding period of <a href="https://summerofcode.withgoogle.com/">Google Summer of Code (GSoC)</a> with <a href="https://github.com/systers">Systers Open Source</a>. If you want to know more about this you can read the <a href="https://medium.com/isabel-costa-gsoc/intro-to-google-summer-of-code-with-systers-open-source-dbdaa92bd189">introduction to my journey</a> , <a href="https://medium.com/isabel-costa-gsoc">my latest weekly blog posts</a> or <a href="https://github.com/systers/mentorship-backend/wiki/GSoC-2018-Isabel-Costa#weekly-status-report-for-week-6">my weekly status report</a> for this week.</p>
@@ -982,9 +982,9 @@ secret_key = os.getenv(‘SECRET_KEY’)
   
   <entry>
     <title>Google Summer of Code | Coding Period | Week 5</title>
-    <link href="https://isabel-website.netlify.app//posts/gsoc-coding-period-week-5/"/>
+    <link href="https://isabelcosta.github.io//posts/gsoc-coding-period-week-5/"/>
     <updated>2018-06-18T00:00:00+00:00</updated>
-    <id>https://isabel-website.netlify.app//posts/gsoc-coding-period-week-5/</id>
+    <id>https://isabelcosta.github.io//posts/gsoc-coding-period-week-5/</id>
     <content type="html"><![CDATA[
       <p><img src="/images/gsoc-week-5-cover.png" alt="gsoc and systers logos"></p>
 <p>This week — June 11 to June 17— was the fourth week of the coding period of <a href="https://summerofcode.withgoogle.com/">Google Summer of Code (GSoC)</a> with <a href="https://github.com/systers">Systers Open Source</a>. If you want to know more about this you can read the <a href="https://medium.com/isabel-costa-gsoc/intro-to-google-summer-of-code-with-systers-open-source-dbdaa92bd189">introduction to my journey</a> , <a href="https://medium.com/isabel-costa-gsoc">my latest weekly blog posts</a> or <a href="https://github.com/systers/mentorship-backend/wiki/GSoC-2018-Isabel-Costa#weekly-status-report-for-week-5">my weekly status report</a> for this week.</p>
@@ -1021,9 +1021,9 @@ secret_key = os.getenv(‘SECRET_KEY’)
   
   <entry>
     <title>Google Summer of Code | Coding Period | Week 4</title>
-    <link href="https://isabel-website.netlify.app//posts/gsoc-coding-period-week-4/"/>
+    <link href="https://isabelcosta.github.io//posts/gsoc-coding-period-week-4/"/>
     <updated>2018-06-11T00:00:00+00:00</updated>
-    <id>https://isabel-website.netlify.app//posts/gsoc-coding-period-week-4/</id>
+    <id>https://isabelcosta.github.io//posts/gsoc-coding-period-week-4/</id>
     <content type="html"><![CDATA[
       <p><img src="/images/gsoc-week-4-cover.png" alt="systers logo with gsoc logo"></p>
 <p>This week — June 4 to June 10— was the fourth week of the coding period of <a href="https://summerofcode.withgoogle.com/">Google Summer of Code (GSoC)</a> with <a href="https://github.com/systers">Systers Open Source</a>. If you want to know more about this you can read the <a href="https://medium.com/isabel-costa-gsoc/intro-to-google-summer-of-code-with-systers-open-source-dbdaa92bd189">introduction to my journey</a> , <a href="https://medium.com/isabel-costa-gsoc">my latest weekly blog posts</a> or <a href="https://github.com/systers/mentorship-backend/wiki/GSoC-2018-Isabel-Costa#weekly-status-report-for-week-4">my weekly status report</a> for this week.</p>
@@ -1059,9 +1059,9 @@ secret_key = os.getenv(‘SECRET_KEY’)
   
   <entry>
     <title>Google Summer of Code | Coding Period | Week 3</title>
-    <link href="https://isabel-website.netlify.app//posts/gsoc-coding-period-week-3/"/>
+    <link href="https://isabelcosta.github.io//posts/gsoc-coding-period-week-3/"/>
     <updated>2018-06-03T00:00:00+00:00</updated>
-    <id>https://isabel-website.netlify.app//posts/gsoc-coding-period-week-3/</id>
+    <id>https://isabelcosta.github.io//posts/gsoc-coding-period-week-3/</id>
     <content type="html"><![CDATA[
       <p><img src="/images/gsoc-week-3-cover.png" alt=""></p>
 <p>This week — May 28 to June 3 — was the third week of the coding period of <a href="https://summerofcode.withgoogle.com/">Google Summer of Code (GSoC)</a> with <a href="https://github.com/systers">Systers Open Source</a>. If you want to know more about this you can read the <a href="https://medium.com/isabel-costa-gsoc/intro-to-google-summer-of-code-with-systers-open-source-dbdaa92bd189">introduction to my journey</a> , <a href="https://medium.com/isabel-costa-gsoc">my latest weekly blog posts</a> or <a href="https://github.com/systers/mentorship-backend/wiki/GSoC-2018-Isabel-Costa#weekly-status-report-for-week-3">my weekly status report</a> for this week.</p>
@@ -1095,9 +1095,9 @@ secret_key = os.getenv(‘SECRET_KEY’)
   
   <entry>
     <title>Google Summer of Code | Coding Period | Week 2</title>
-    <link href="https://isabel-website.netlify.app//posts/gsoc-coding-period-week-2/"/>
+    <link href="https://isabelcosta.github.io//posts/gsoc-coding-period-week-2/"/>
     <updated>2018-05-27T00:00:00+00:00</updated>
-    <id>https://isabel-website.netlify.app//posts/gsoc-coding-period-week-2/</id>
+    <id>https://isabelcosta.github.io//posts/gsoc-coding-period-week-2/</id>
     <content type="html"><![CDATA[
       <p><img src="/images/gsoc-week-2-cover.png" alt="gsoc plus systers logos"></p>
 <p>This week — May 21 to May 27 — was the second week of the coding period of <a href="https://summerofcode.withgoogle.com/">Google Summer of Code (GSoC)</a> with <a href="https://github.com/systers">Systers Open Source</a>. If you want to know more about this you can read the <a href="https://medium.com/isabel-costa-gsoc/intro-to-google-summer-of-code-with-systers-open-source-dbdaa92bd189">introduction to my journey</a> or <a href="https://medium.com/isabel-costa-gsoc/coding-period-week-1-e8f878f46ad9">my first weekly blog post</a>.</p>
@@ -1134,9 +1134,9 @@ This weekend, I also fixed some <a href="https://www.codacy.com/">Codacy</a> war
   
   <entry>
     <title>Google Summer of Code | Coding Period | Week 1</title>
-    <link href="https://isabel-website.netlify.app//posts/gsoc-coding-period-week-1/"/>
+    <link href="https://isabelcosta.github.io//posts/gsoc-coding-period-week-1/"/>
     <updated>2018-05-20T00:00:00+00:00</updated>
-    <id>https://isabel-website.netlify.app//posts/gsoc-coding-period-week-1/</id>
+    <id>https://isabelcosta.github.io//posts/gsoc-coding-period-week-1/</id>
     <content type="html"><![CDATA[
       <p><img src="/images/gsoc-week-1-cover.png" alt="gsoc and systers logos"></p>
 <p>This week — May 14 to May 20 — was the first week of the coding period of <a href="https://summerofcode.withgoogle.com/">Google Summer of Code (GSoC)</a> with <a href="https://github.com/systers">Systers Open Source</a>. If you want to know more about this you can read the <a href="https://medium.com/isabel-costa-gsoc/intro-to-google-summer-of-code-with-systers-open-source-dbdaa92bd189">introduction to my journey here</a>.</p>
@@ -1180,9 +1180,9 @@ Besides this, I’m not used to developing backend, although this is something I
   
   <entry>
     <title>Intro to Google Summer of Code with Systers Open Source</title>
-    <link href="https://isabel-website.netlify.app//posts/intro-gsoc-with-systers-open-source/"/>
+    <link href="https://isabelcosta.github.io//posts/intro-gsoc-with-systers-open-source/"/>
     <updated>2018-05-05T00:00:00+00:00</updated>
-    <id>https://isabel-website.netlify.app//posts/intro-gsoc-with-systers-open-source/</id>
+    <id>https://isabelcosta.github.io//posts/intro-gsoc-with-systers-open-source/</id>
     <content type="html"><![CDATA[
       <p><img src="/images/intro-to-gsoc-cover.png" alt="Systers plus Google Summer of Code"></p>
 <p>I’m so grateful to be accepted for this year <a href="https://summerofcode.withgoogle.com/">Google Summer of Code (GSoC)</a> as a student with <a href="http://systers.io/">Systers Open Source community</a>. The results were out April 23rd, and I couldn’t be more excited for this opportunity.</p>
@@ -1201,9 +1201,9 @@ Besides this, I’m not used to developing backend, although this is something I
   
   <entry>
     <title>Signal parent process from child thread using C</title>
-    <link href="https://isabel-website.netlify.app//posts/signal-parent-process-from-child-thread/"/>
+    <link href="https://isabelcosta.github.io//posts/signal-parent-process-from-child-thread/"/>
     <updated>2018-03-26T00:00:00+00:00</updated>
-    <id>https://isabel-website.netlify.app//posts/signal-parent-process-from-child-thread/</id>
+    <id>https://isabelcosta.github.io//posts/signal-parent-process-from-child-thread/</id>
     <content type="html"><![CDATA[
       <p>For my master's thesis I had to use signals with C language.</p>
 <p>In my code, I used <code>SIGUSR1</code> as the signal I wait for and the <code>handle_my_custom_signal</code> function which will execute once this signal is received in the parent process.</p>
@@ -1225,9 +1225,9 @@ Besides this, I’m not used to developing backend, although this is something I
   
   <entry>
     <title>Installing nftables from sources on Debian</title>
-    <link href="https://isabel-website.netlify.app//posts/installing-nftables-from-sources-on-debian/"/>
+    <link href="https://isabelcosta.github.io//posts/installing-nftables-from-sources-on-debian/"/>
     <updated>2018-03-09T00:00:00+00:00</updated>
-    <id>https://isabel-website.netlify.app//posts/installing-nftables-from-sources-on-debian/</id>
+    <id>https://isabelcosta.github.io//posts/installing-nftables-from-sources-on-debian/</id>
     <content type="html"><![CDATA[
       <p>In this post, I’ll show you how I installed <em>nftables</em> from sources. I needed to do this from the sources to have the latest version of <em>nftables</em>.</p>
 <p>I needed to work with <a href="https://www.netfilter.org/projects/iptables/index.html">iptables</a> to perform stateless Network Address Translation (NAT) but then I discovered that didn’t appear to be possible by using <em>iptables</em>. So I found <a href="https://netfilter.org/projects/nftables/">nftables</a>, which allows me to do it.</p>
@@ -1469,9 +1469,9 @@ nftables v0.8.2 (Joe Btfsplk)
   
   <entry>
     <title>How to upgrade Linux kernel on Debian</title>
-    <link href="https://isabel-website.netlify.app//posts/upgrade-linux-kernel-on-debian/"/>
+    <link href="https://isabelcosta.github.io//posts/upgrade-linux-kernel-on-debian/"/>
     <updated>2018-02-25T00:00:00+00:00</updated>
-    <id>https://isabel-website.netlify.app//posts/upgrade-linux-kernel-on-debian/</id>
+    <id>https://isabelcosta.github.io//posts/upgrade-linux-kernel-on-debian/</id>
     <content type="html"><![CDATA[
       <p>In this post, I'll show how I updated the virtual machines I worked with. I mostly followed the steps in this great blog post on <a href="https://itsfoss.com/kernel-upgrade-debian/">how to update the kernel in Debian</a>. This post is a short version of that.</p>
 <p>I followed the steps in root mode, that's why you won't see <code>sudo</code> here. If you enter in root mode with <code>sudo</code> then add it to the commands.</p>
@@ -1533,9 +1533,9 @@ p   linux-headers-amd64       - Header files for Linux amd64 config
   
   <entry>
     <title>How to Undo the Last Commit</title>
-    <link href="https://isabel-website.netlify.app//posts/how-to-undo-the-last-commit/"/>
+    <link href="https://isabelcosta.github.io//posts/how-to-undo-the-last-commit/"/>
     <updated>2018-02-20T00:00:00+00:00</updated>
-    <id>https://isabel-website.netlify.app//posts/how-to-undo-the-last-commit/</id>
+    <id>https://isabelcosta.github.io//posts/how-to-undo-the-last-commit/</id>
     <content type="html"><![CDATA[
       <p><img src="https://cdn-images-1.medium.com/max/2000/1*uc89vQwNgfqctnZg9PMfxA.png" alt="Image from Altassian tutorial"></p>
 <p>In this post I will show how I sometimes recover wrong changes (commits) in a coding project, using <a href="https://git-scm.com/">git</a> on the command line.</p>
@@ -1615,9 +1615,9 @@ HEAD detached at 69d885e
   
   <entry>
     <title>My Hack for Good 2017 hackathon experience</title>
-    <link href="https://isabel-website.netlify.app//posts/hack-for-good-2017-experience/"/>
+    <link href="https://isabelcosta.github.io//posts/hack-for-good-2017-experience/"/>
     <updated>2018-02-15T00:00:00+00:00</updated>
-    <id>https://isabel-website.netlify.app//posts/hack-for-good-2017-experience/</id>
+    <id>https://isabelcosta.github.io//posts/hack-for-good-2017-experience/</id>
     <content type="html"><![CDATA[
       <p><img src="/images/hackforgood-1.png" alt="My team is in the image, try to find us there (Image from Gulbenkian’s website)"></p>
 <p>On the weekend of 24 and 25 of June 2017, I attended <a href="http://hackforgood.pt">Hack for Good</a> hackathon. I’ve already participated in one university hackathon in 2016 and loved it. When I saw there was going to be a hackathon with a mission of coding for social good, I had to assemble a team to participate in this.</p>
@@ -1673,9 +1673,9 @@ HEAD detached at 69d885e
   
   <entry>
     <title>Inspirational tweets for Blogging</title>
-    <link href="https://isabel-website.netlify.app//posts/inspirational-tweets-for-blogging/"/>
+    <link href="https://isabelcosta.github.io//posts/inspirational-tweets-for-blogging/"/>
     <updated>2018-02-06T00:00:00+00:00</updated>
-    <id>https://isabel-website.netlify.app//posts/inspirational-tweets-for-blogging/</id>
+    <id>https://isabelcosta.github.io//posts/inspirational-tweets-for-blogging/</id>
     <content type="html"><![CDATA[
       <p><img src="/images/woc-in-tech-chat-2.jpeg" alt="Credits to #WOCinTech Chat photos — wocnintechchat.com"></p>
 <p>These are some motivational tweets I saved to motivate me to blog and ease up my insecurities about blogging. Hope this helps other newbies at blogging!</p>
@@ -1709,9 +1709,9 @@ HEAD detached at 69d885e
   
   <entry>
     <title>Tools I use for my Master’s thesis</title>
-    <link href="https://isabel-website.netlify.app//posts/tools-i-use-for-my-masters-thesis/"/>
+    <link href="https://isabelcosta.github.io//posts/tools-i-use-for-my-masters-thesis/"/>
     <updated>2018-01-16T00:00:00+00:00</updated>
-    <id>https://isabel-website.netlify.app//posts/tools-i-use-for-my-masters-thesis/</id>
+    <id>https://isabelcosta.github.io//posts/tools-i-use-for-my-masters-thesis/</id>
     <content type="html"><![CDATA[
       <p><img src="/images/thesis-onenote-tool.png" alt="Example of my organization on OneNote"></p>
 <p>During Master’s thesis, I use a lot of tools to organize my thoughts, relevant information and resources related to my research. These do not include tools that I use for development/coding, it is only refers to things related with writing of the Dissertation and notes I take.</p>
@@ -1734,9 +1734,9 @@ HEAD detached at 69d885e
   
   <entry>
     <title>Overcoming shyness at my first meetup alone</title>
-    <link href="https://isabel-website.netlify.app//posts/overcoming-shyness-at-my-first-meetup-alone/"/>
+    <link href="https://isabelcosta.github.io//posts/overcoming-shyness-at-my-first-meetup-alone/"/>
     <updated>2017-11-22T00:00:00+00:00</updated>
-    <id>https://isabel-website.netlify.app//posts/overcoming-shyness-at-my-first-meetup-alone/</id>
+    <id>https://isabelcosta.github.io//posts/overcoming-shyness-at-my-first-meetup-alone/</id>
     <content type="html"><![CDATA[
       <p><img src="/images/shy-dog.jpeg" alt=""></p>
 <p>A few days ago I went to a meetup about women in tech, organized by <a href="https://www.small-improvements.com/">Small Improvements</a>, in the week of WebSummit. The objective was to get as many points of view as possible on why there are few women in tech and discuss possible solutions to overcome it.</p>
