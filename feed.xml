@@ -15,6 +15,27 @@
 	
   
   <entry>
+    <title>My First Open Source Contribution</title>
+    <link href="https://isabelcosta.github.io//posts/my-first-open-source-contribution/"/>
+    <updated>2020-07-27T00:00:00+00:00</updated>
+    <id>https://isabelcosta.github.io//posts/my-first-open-source-contribution/</id>
+    <content type="html"><![CDATA[
+      <!-- ![first contribution illustrative image](/images/my-first-contribution-promo.png) -->
+<p>For a long time, I thought about contributing to Open Source, but I felt I did not know where to start. As a software engineer, I wanted to learn and build a portfolio of work through contributing to Open Source.</p>
+<p>Back in December 2017, I got the word of <a href="https://24pullrequests.com/">24 Pull Requests</a>, an initiative with a Christmas feel to it, where you can contribute to open source projects during the month of December.</p>
+<p><img src="/images/24-pull-requests.png" alt="24 Pull Requests website image)"></p>
+<p>When I found about this, I decided to look into it and see if I could contribute. To start I thought about contributing with a “low hanging fruit” sort of issue. Even though my main interest was in coding, I wanted to start with the documentation type of contribution. So I looked into projects made of markdown files and found <a href="https://github.com/fvcproductions/hire-me/pull/9">fvcproductions/hire-me</a> which is about providing resources and advice for people looking for jobs, such as interview tips, job boards, and other types of resources.</p>
+<p>So after looking into this project I noticed that there was a job board that I knew that was not there so I saw an opportunity to contribute.</p>
+<p>Next, I read the <a href="https://github.com/fvcproductions/hire-me#contributing">contribution guidelines which were very simple</a>. The steps provided in this project guidelines were: 1. fork repository; 2. read contribution guidelines; 3. add my name to the credits section; 4. Open Pull Request; 5. Get pull request approved 🎉</p>
+<p>So after I forked the repository, I added my changes and my name to the credits in the README, and submitted a Pull Request. Here’s <a href="https://github.com/fvcproductions/hire-me/pull/9">my pull request #9</a>!</p>
+<p>Some days after the maintainer of the repository merged my PR and thanked me for my contribution! I was so happy that I finally managed to do my first open source contribution after so much time delaying it. After this moment, I knew the basics of an open source workflow and I could apply to other contributions.</p>
+<p>Have you ever contributed to Open Source? If not, I hope this inspires you to get started :)</p>
+
+    ]]></content>
+  </entry>
+	
+  
+  <entry>
     <title>Deploying Mentorship Backend flask app on Heroku</title>
     <link href="https://isabelcosta.github.io//posts/deploy-ms-to-heroku/"/>
     <updated>2020-06-27T00:00:00+00:00</updated>
