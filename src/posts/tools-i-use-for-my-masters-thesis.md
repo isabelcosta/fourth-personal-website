@@ -1,6 +1,8 @@
 ---
 title: Tools I use for my Master’s thesis
 date: '2018-01-16'
+tags:
+    - college
 ---
 
 ![Example of my organization on OneNote](/images/thesis-onenote-tool.png)
