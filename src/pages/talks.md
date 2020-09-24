@@ -9,7 +9,7 @@ You can see the slides for my talks on [Speaker Deck](https://speakerdeck.com/is
 
 | Title | Where | Date | Resources |
 |-------|-------|------|-------|
-| How documentation and open communication leads to better collaboration | [Ladies of Code (London)](https://www.meetup.com/pt-BR/Ladies-of-Code-UK/)| 17 Aug '20 | [Video](https://youtu.be/KGG3PXYwKIE?t=1491) |
+| How documentation and open communication leads to better collaboration | [Ladies of Code (London) - Get Heard! Summer Short Talks](https://www.meetup.com/Ladies-of-Code-UK/events/272472641/)| 17 Aug '20 | [Video](https://youtu.be/KGG3PXYwKIE?t=1491) / [Slides](https://speakerdeck.com/isabelcmdcosta/how-documentation-and-open-communication-leads-to-better-collaboration) |
 | Interview about Open Source | [Coding Black Females Podcast](https://codingblackfemales.com/podcast)| 16 Aug '20 | [Audio](https://anchor.fm/codingblackfemales/episodes/Isabel-Costa---Contributing-to-Open-Source-eiavh6) |
 | My journey to contributing to Open Source | [Coding Black Females - Lightning Talks... Take One!](https://www.meetup.com/pt-BR/Coding-Black-Females/events/270991852/)| 8 July '20 | [Video](https://youtu.be/Wk5DqvY6Eww?t=4540) / [Slides](https://speakerdeck.com/isabelcmdcosta/my-journey-to-contribute-to-open-source) |
 | Why, Where and How to contribute to Open Source | [JNation](https://2020.jnation.pt/) | 2 Jun '20 | [Video](https://youtu.be/-37he61LlDo?t=31704) / [Slides](https://speakerdeck.com/isabelcmdcosta/why-where-and-how-to-contribute-to-open-source-at-jnation) |
@@ -24,6 +24,12 @@ You can see the slides for my talks on [Speaker Deck](https://speakerdeck.com/is
 | Google Summer of Code Final Demo (Mentorship System) | [Systers GSoC 2018 Final Demos](https://www.youtube.com/playlist?list=PLhVJyXjT75i_T-F70O0DGfz_Fu9aBpnI6) | 12 Aug '18 | [Video](https://www.youtube.com/watch?v=xRZrdR47R-w) / [Slides](https://speakerdeck.com/isabelcmdcosta/mentorship-system-gsoc-2018) |
 
 ⬆️ Talks are ordered from the most recent to the oldest one.
+
+### How documentation and open communication leads to better collaboration
+
+**[Ladies of Code (London)](https://www.meetup.com/Ladies-of-Code-UK/) / Remote / August 17th, 2020 / [Video](https://youtu.be/KGG3PXYwKIE?t=1491) / [Slides](https://speakerdeck.com/isabelcmdcosta/how-documentation-and-open-communication-leads-to-better-collaboration) / lightning talk**
+
+It's a known issue that developers often not prioritize documentation at work. Documentation and open communication are often related and critical in an open-source project environment. By the end of this talk audience members will be enlightened about how accessible documentation and open communication leads to a more productive, autonomous, and inclusive team. Also how we can apply these concepts at work having in mind open-source environment context.
 
 ### Why, Where and How to contribute to Open Source 
 
