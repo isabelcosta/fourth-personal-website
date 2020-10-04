@@ -9,6 +9,7 @@ You can see the slides for my talks on [Speaker Deck](https://speakerdeck.com/is
 
 | Title | Where | Date | Resources |
 |-------|-------|------|-------|
+| [Contributing to open source as a contributor and a maintainer](https://www.meetup.com/virtualJUG/events/273369987/) | [vJUG](https://www.virtualjug.com) (Virtual Java User Group) | 15 Oct' 20 | --- |
 | How documentation and open communication leads to better collaboration | [Ladies of Code (London) - Get Heard! Summer Short Talks](https://www.meetup.com/Ladies-of-Code-UK/events/272472641/)| 17 Aug '20 | [Video](https://youtu.be/KGG3PXYwKIE?t=1491) / [Slides](https://speakerdeck.com/isabelcmdcosta/how-documentation-and-open-communication-leads-to-better-collaboration) |
 | Interview about Open Source | [Coding Black Females Podcast](https://codingblackfemales.com/podcast)| 16 Aug '20 | [Audio](https://anchor.fm/codingblackfemales/episodes/Isabel-Costa---Contributing-to-Open-Source-eiavh6) |
 | My journey to contributing to Open Source | [Coding Black Females - Lightning Talks... Take One!](https://www.meetup.com/pt-BR/Coding-Black-Females/events/270991852/)| 8 July '20 | [Video](https://youtu.be/Wk5DqvY6Eww?t=4540) / [Slides](https://speakerdeck.com/isabelcmdcosta/my-journey-to-contribute-to-open-source) |
