@@ -26,9 +26,10 @@ You can see my **open sourced projects** on [GitHub](https://github.com/isabelco
 
 ## 👐🏾 Volunteer work
 
-- **Feb, 2020 - Now:** Google Summer of Code admin at AnitaB.org Open Source;
+- **Aug, 2020 - Now:** Mentor at [Black Codher](https://blackcodher.com/) bootcamp;
 - **Jul, 2019 - Now:** Community Leader for AnitaB.org London chapter;
 - **Mar, 2018 - Now:** Contributor and Maintainer at Systers Open Source Community;
+- **Feb, 2020 - Aug, 2020:** Google Summer of Code admin at AnitaB.org Open Source;
 - **Nov, 2019 - Jan, 2020:** Google Code-in mentor at Systers Community;
 - **Oct, 2019:** GHC Open Source Day remote mentor;
 - **May, 2019 - June, 2019:** Hopperx1 London - Track Committee Co Chair for Open Source;
