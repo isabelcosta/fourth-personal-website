@@ -7,9 +7,10 @@ I enjoy talking about Open Source.
 
 You can see the slides for my talks on [Speaker Deck](https://speakerdeck.com/isabelcmdcosta).
 
-| Title | Where | Date | Resources |
+| Title | Where | Date | Notes |
 |-------|-------|------|-------|
-| [Contribuir para Open Source como colaborador e maintainer](https://www.meetup.com/gdglisbon/events/273746185/) | [Devfest Portugal](https://devfest.gdgportugal.xyz/) | 17 Oct '20 | [Video](https://youtu.be/-EFVDjDdeXw?t=6766) / [Slides](https://speakerdeck.com/isabelcmdcosta/contribuir-para-open-source-como-colaborador-e-maintainer) |
+| Dicas para manutenção de projetos open source | [Interruptor x Hacktoberfest](https://interruptor.pt/artigos/interruptor-x-hacktoberfest) | 24 Oct '20 | [Video](https://youtu.be/MQoZTcUsnlw?t=7413) / [Slides](https://speakerdeck.com/isabelcmdcosta/dicas-para-manutencao-de-projetos-open-source) / PT language |
+| [Contribuir para Open Source como colaborador e maintainer](https://www.meetup.com/gdglisbon/events/273746185/) | [Devfest Portugal](https://devfest.gdgportugal.xyz/) | 17 Oct '20 | [Video](https://youtu.be/-EFVDjDdeXw?t=6766) / [Slides](https://speakerdeck.com/isabelcmdcosta/contribuir-para-open-source-como-colaborador-e-maintainer) / PT language |
 | [Contributing to open source as a contributor and a maintainer](https://www.meetup.com/virtualJUG/events/273369987/) | [vJUG](https://www.virtualjug.com) (Virtual Java User Group) | 15 Oct '20 | [Video](https://www.youtube.com/watch?v=FTL7kahHHBk) / [Slides](https://speakerdeck.com/isabelcmdcosta/contributing-to-open-source-as-a-contributor-and-maintainer) |
 | À Conversa Com... Isabel Costa | [IEEE IST Student Branch](https://www.facebook.com/ieeeist/) | 8 Oct '20 | [Video](https://www.facebook.com/212991678724583/videos/367308757723629/?__so__=channel_tab&__rv__=all_videos_card) in Português :) |
 | How documentation and open communication leads to better collaboration | [Ladies of Code (London) - Get Heard! Summer Short Talks](https://www.meetup.com/Ladies-of-Code-UK/events/272472641/)| 17 Aug '20 | [Video](https://youtu.be/KGG3PXYwKIE?t=1491) / [Slides](https://speakerdeck.com/isabelcmdcosta/how-documentation-and-open-communication-leads-to-better-collaboration) |
