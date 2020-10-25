@@ -2108,7 +2108,7 @@ frame.set("loop.length", t_2);
 output += "\n        ";
 output += "\n        <li class=\"post-list__item\">\n            <h3 class=\"font-base leading-tight text-600 weight-mid\">\n                ";
 output += runtime.suppressValue(runtime.memberLookup((t_4),"title"), env.opts.autoescape);
-output += "\n            </h3>\n            <p class=\"text-500 gap-top-300 weight-mid\">\n                ";
+output += "\n            </h3>\n            <p class=\"text-400 gap-top-300 weight-mid\">\n                ";
 output += "\n                <time datetime=\"";
 output += runtime.suppressValue(env.getFilter("w3DateFilter").call(context, runtime.memberLookup((t_4),"date")), env.opts.autoescape);
 output += "\">";

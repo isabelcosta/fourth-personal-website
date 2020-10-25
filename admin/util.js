@@ -24,8 +24,9 @@ var previewUtil = (function (exports) {
 
     const months = ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December'];
     const dayWithSuffix = appendSuffix(dateObject.getDate());
+    const dayWithoutSuffix = dateObject.getDate();
 
-    return `${dayWithSuffix} ${months[dateObject.getMonth()]} ${dateObject.getFullYear()}`;
+    return `${dayWithoutSuffix} ${months[dateObject.getMonth()]} ${dateObject.getFullYear()}`;
   };
 
   function createCommonjsModule(fn, module) {
