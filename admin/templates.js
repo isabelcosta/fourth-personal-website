@@ -558,9 +558,50 @@ output += "\n";
 ;
 }
 output += "\n\n";
-(parentTemplate ? function(e, c, f, r, cb) { cb(""); } : context.getBlock("content"))(env, context, frame, runtime, function(t_15,t_14) {
-if(t_15) { cb(t_15); return; }
-output += t_14;
+output += "\n";
+var t_14;
+t_14 = "See all talks";
+frame.set("featuredTalksText", t_14, true);
+if(frame.topLevel) {
+context.setVariable("featuredTalksText", t_14);
+}
+if(frame.topLevel) {
+context.addExport("featuredTalksText", t_14);
+}
+output += "\n";
+var t_15;
+t_15 = "/talks";
+frame.set("featuredTalksUrl", t_15, true);
+if(frame.topLevel) {
+context.setVariable("featuredTalksUrl", t_15);
+}
+if(frame.topLevel) {
+context.addExport("featuredTalksUrl", t_15);
+}
+output += "\n";
+var t_16;
+t_16 = "Featured Talks";
+frame.set("featuredTalksHeading", t_16, true);
+if(frame.topLevel) {
+context.setVariable("featuredTalksHeading", t_16);
+}
+if(frame.topLevel) {
+context.addExport("featuredTalksHeading", t_16);
+}
+output += "\n";
+var t_17;
+t_17 = runtime.memberLookup((runtime.contextOrFrameLookup(context, frame, "collections")),"featuredTalks");
+frame.set("featuredTalksItems", t_17, true);
+if(frame.topLevel) {
+context.setVariable("featuredTalksItems", t_17);
+}
+if(frame.topLevel) {
+context.addExport("featuredTalksItems", t_17);
+}
+output += "\n\n";
+(parentTemplate ? function(e, c, f, r, cb) { cb(""); } : context.getBlock("content"))(env, context, frame, runtime, function(t_19,t_18) {
+if(t_19) { cb(t_19); return; }
+output += t_18;
 output += "\n";
 if(parentTemplate) {
 parentTemplate.rootRenderFunc(env, context, frame, runtime, cb);
@@ -573,7 +614,7 @@ cb(null, output);
 }
 }
 function b_content(env, context, frame, runtime, cb) {
-var lineno = 19;
+var lineno = 25;
 var colno = 3;
 var output = "";
 try {
@@ -582,27 +623,7 @@ output += "\n  <main id=\"main-content\" tabindex=\"-1\">\n    ";
 var tasks = [];
 tasks.push(
 function(callback) {
-env.getTemplate("partials/components/intro.njk", false, "layouts/home.njk", false, function(t_17,t_16) {
-if(t_17) { cb(t_17); return; }
-callback(null,t_16);});
-});
-tasks.push(
-function(template, callback){
-template.render(context.getVariables(), frame, function(t_19,t_18) {
-if(t_19) { cb(t_19); return; }
-callback(null,t_18);});
-});
-tasks.push(
-function(result, callback){
-output += result;
-callback(null);
-});
-env.waterfall(tasks, function(){
-output += "\n    ";
-var tasks = [];
-tasks.push(
-function(callback) {
-env.getTemplate("partials/components/post-list.njk", false, "layouts/home.njk", false, function(t_21,t_20) {
+env.getTemplate("partials/components/intro.njk", false, "layouts/home.njk", false, function(t_21,t_20) {
 if(t_21) { cb(t_21); return; }
 callback(null,t_20);});
 });
@@ -622,7 +643,7 @@ output += "\n    ";
 var tasks = [];
 tasks.push(
 function(callback) {
-env.getTemplate("partials/components/pagination.njk", false, "layouts/home.njk", false, function(t_25,t_24) {
+env.getTemplate("partials/components/post-list.njk", false, "layouts/home.njk", false, function(t_25,t_24) {
 if(t_25) { cb(t_25); return; }
 callback(null,t_24);});
 });
@@ -638,9 +659,49 @@ output += result;
 callback(null);
 });
 env.waterfall(tasks, function(){
+output += "\n    ";
+var tasks = [];
+tasks.push(
+function(callback) {
+env.getTemplate("partials/components/pagination.njk", false, "layouts/home.njk", false, function(t_29,t_28) {
+if(t_29) { cb(t_29); return; }
+callback(null,t_28);});
+});
+tasks.push(
+function(template, callback){
+template.render(context.getVariables(), frame, function(t_31,t_30) {
+if(t_31) { cb(t_31); return; }
+callback(null,t_30);});
+});
+tasks.push(
+function(result, callback){
+output += result;
+callback(null);
+});
+env.waterfall(tasks, function(){
+output += "\n\n    <hr />\n\n    ";
+var tasks = [];
+tasks.push(
+function(callback) {
+env.getTemplate("partials/components/talks-list.njk", false, "layouts/home.njk", false, function(t_33,t_32) {
+if(t_33) { cb(t_33); return; }
+callback(null,t_32);});
+});
+tasks.push(
+function(template, callback){
+template.render(context.getVariables(), frame, function(t_35,t_34) {
+if(t_35) { cb(t_35); return; }
+callback(null,t_34);});
+});
+tasks.push(
+function(result, callback){
+output += result;
+callback(null);
+});
+env.waterfall(tasks, function(){
 output += "\n  </main>\n";
 cb(null, output);
-})})});
+})})})});
 } catch (e) {
   cb(runtime.handleError(e, lineno, colno));
 }
@@ -1841,7 +1902,7 @@ context.addExport("paginationLinkTokens", t_1);
 }
 output += "\n\n";
 if(runtime.contextOrFrameLookup(context, frame, "paginationNextUrl") || runtime.contextOrFrameLookup(context, frame, "paginationPrevUrl")) {
-output += "\n  <hr />\n  <div class=\"inner-wrapper\">\n    <footer class=\"[ pagination ] [ pad-bottom-900 ]\">\n      <nav class=\"[ pagination__nav ] [ box-flex space-between align-center ]\">\n        ";
+output += "\n  <div class=\"inner-wrapper\">\n    <footer class=\"[ pagination ] [ pad-bottom-900 ]\">\n      <nav class=\"[ pagination__nav ] [ box-flex space-between align-center ]\">\n        ";
 if(runtime.contextOrFrameLookup(context, frame, "paginationPrevUrl")) {
 output += "\n          <a href=\"";
 output += runtime.suppressValue(runtime.contextOrFrameLookup(context, frame, "paginationPrevUrl"), env.opts.autoescape);
@@ -2004,6 +2065,106 @@ output += runtime.suppressValue(runtime.memberLookup((runtime.memberLookup((runt
 output += "\">Medium</a> |\n    <a href=\"";
 output += runtime.suppressValue(runtime.memberLookup((runtime.memberLookup((runtime.contextOrFrameLookup(context, frame, "site")),"socialMedia")),"dev"), env.opts.autoescape);
 output += "\">DEV</a>\n</p>";
+if(parentTemplate) {
+parentTemplate.rootRenderFunc(env, context, frame, runtime, cb);
+} else {
+cb(null, output);
+}
+;
+} catch (e) {
+  cb(runtime.handleError(e, lineno, colno));
+}
+}
+return {
+root: root
+};
+
+})();
+})();
+(function() {(window.nunjucksPrecompiled = window.nunjucksPrecompiled || {})["partials/components/talks-list.njk"] = (function() {
+function root(env, context, frame, runtime, cb) {
+var lineno = 0;
+var colno = 0;
+var output = "";
+try {
+var parentTemplate = null;
+output += "<section class=\"[ post-list ] [ pad-top-700 gap-bottom-900 ]\">\n<div class=\"[ inner-wrapper ] [ sf-flow ]\">\n    <h2 class=\"[ post-list__heading ] [ text-700 md:text-800 ]\">";
+output += runtime.suppressValue(runtime.contextOrFrameLookup(context, frame, "featuredTalksHeading"), env.opts.autoescape);
+output += "</h2>\n    <ol class=\"[ post-list__items ] [ sf-flow ] [ pad-top-300 ]\" reversed>\n    ";
+frame = frame.push();
+var t_3 = runtime.memberLookup((runtime.contextOrFrameLookup(context, frame, "featured_talks")),"items");
+if(t_3) {t_3 = runtime.fromIterator(t_3);
+var t_2 = t_3.length;
+for(var t_1=0; t_1 < t_3.length; t_1++) {
+var t_4 = t_3[t_1];
+frame.set("item", t_4);
+frame.set("loop.index", t_1 + 1);
+frame.set("loop.index0", t_1);
+frame.set("loop.revindex", t_2 - t_1);
+frame.set("loop.revindex0", t_2 - t_1 - 1);
+frame.set("loop.first", t_1 === 0);
+frame.set("loop.last", t_1 === t_2 - 1);
+frame.set("loop.length", t_2);
+output += "\n        ";
+output += "\n        <li class=\"post-list__item\">\n            <h3 class=\"font-base leading-tight text-600 weight-mid\">\n                ";
+output += runtime.suppressValue(runtime.memberLookup((t_4),"title"), env.opts.autoescape);
+output += "\n            </h3>\n            <p class=\"text-500 gap-top-300 weight-mid\">\n                ";
+output += "\n                <time datetime=\"";
+output += runtime.suppressValue(env.getFilter("w3DateFilter").call(context, runtime.memberLookup((t_4),"date")), env.opts.autoescape);
+output += "\">";
+output += runtime.suppressValue(env.getFilter("dateFilter").call(context, runtime.memberLookup((t_4),"date")), env.opts.autoescape);
+output += "</time> | \n                <a href=\"";
+output += runtime.suppressValue(runtime.memberLookup((t_4),"video"), env.opts.autoescape);
+output += "\" class=\"post-list__link\" rel=\"bookmark\">Video</a> |\n                    <a href=\"";
+output += runtime.suppressValue(runtime.memberLookup((t_4),"slides"), env.opts.autoescape);
+output += "\" class=\"post-list__link\" rel=\"bookmark\">Slides</a>\n            </p>\n        </li>\n        ";
+output += "\n    ";
+;
+}
+}
+frame = frame.pop();
+output += "\n    </ol>\n</div>\n</section>\n\n";
+var t_5;
+t_5 = "leading-tight text-500 weight-mid box-inline-flex align-center pad-bottom-300";
+frame.set("featuredTalksLinkTokens", t_5, true);
+if(frame.topLevel) {
+context.setVariable("featuredTalksLinkTokens", t_5);
+}
+if(frame.topLevel) {
+context.addExport("featuredTalksLinkTokens", t_5);
+}
+output += "\n\n<div class=\"inner-wrapper\">\n<footer class=\"[ pagination ] [ pad-bottom-900 ]\">\n    <nav class=\"[ pagination__nav ] [ box-flex space-between align-center ]\">\n    ";
+if(runtime.contextOrFrameLookup(context, frame, "featuredTalksUrl")) {
+output += "\n        <a href=\"";
+output += runtime.suppressValue(runtime.contextOrFrameLookup(context, frame, "featuredTalksUrl"), env.opts.autoescape);
+output += "\" class=\"";
+output += runtime.suppressValue(runtime.contextOrFrameLookup(context, frame, "featuredTalksLinkTokens"), env.opts.autoescape);
+output += "\" data-direction=\"forwards\">\n        <span>";
+output += runtime.suppressValue((runtime.contextOrFrameLookup(context, frame, "featuredTalksText")?runtime.contextOrFrameLookup(context, frame, "featuredTalksText"):"Next"), env.opts.autoescape);
+output += "</span>\n        ";
+var tasks = [];
+tasks.push(
+function(callback) {
+env.getTemplate("icons/arrow.svg", false, "partials/components/talks-list.njk", false, function(t_7,t_6) {
+if(t_7) { cb(t_7); return; }
+callback(null,t_6);});
+});
+tasks.push(
+function(template, callback){
+template.render(context.getVariables(), frame, function(t_9,t_8) {
+if(t_9) { cb(t_9); return; }
+callback(null,t_8);});
+});
+tasks.push(
+function(result, callback){
+output += result;
+callback(null);
+});
+env.waterfall(tasks, function(){
+output += "\n        </a>\n    ";
+});
+}
+output += "\n    </nav>\n</footer>\n</div>";
 if(parentTemplate) {
 parentTemplate.rootRenderFunc(env, context, frame, runtime, cb);
 } else {
