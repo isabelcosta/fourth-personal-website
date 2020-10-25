@@ -17,10 +17,21 @@
   {% set paginationNextUrl = '/archive' %}
 {% endif %}
 
+{# Featured Talks list content #}
+{% set featuredTalksText = 'See all talks' %}
+{% set featuredTalksUrl = '/talks' %}
+{% set featuredTalksHeading = 'Featured Talks' %}
+{% set featuredTalksItems = collections.featuredTalks %}
+
 {% block content %}
   <main id="main-content" tabindex="-1">
     {% include "partials/components/intro.njk" %}
     {% include "partials/components/post-list.njk" %}
     {% include "partials/components/pagination.njk" %}
+
+    <hr />
+
+    {% include "partials/components/talks-list.njk" %}
+
   </main>
 {% endblock %}
