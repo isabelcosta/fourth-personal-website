@@ -215,11 +215,11 @@ output += result;
 callback(null);
 });
 env.waterfall(tasks, function(){
-output += "\n  ";
+output += "\n  \n  <script>document.documentElement.classList.remove('no-js');</script>\n  <style>";
 var tasks = [];
 tasks.push(
 function(callback) {
-env.getTemplate("partials/global/google-analytics.njk", false, "layouts/base.njk", false, function(t_6,t_5) {
+env.getTemplate("assets/css/global.css", false, "layouts/base.njk", false, function(t_6,t_5) {
 if(t_6) { cb(t_6); return; }
 callback(null,t_5);});
 });
@@ -235,43 +235,23 @@ output += result;
 callback(null);
 });
 env.waterfall(tasks, function(){
-output += "\n  \n  <script>document.documentElement.classList.remove('no-js');</script>\n  <style>";
-var tasks = [];
-tasks.push(
-function(callback) {
-env.getTemplate("assets/css/global.css", false, "layouts/base.njk", false, function(t_10,t_9) {
-if(t_10) { cb(t_10); return; }
-callback(null,t_9);});
-});
-tasks.push(
-function(template, callback){
-template.render(context.getVariables(), frame, function(t_12,t_11) {
-if(t_12) { cb(t_12); return; }
-callback(null,t_11);});
-});
-tasks.push(
-function(result, callback){
-output += result;
-callback(null);
-});
-env.waterfall(tasks, function(){
 output += "</style>\n  ";
-(parentTemplate ? function(e, c, f, r, cb) { cb(""); } : context.getBlock("head"))(env, context, frame, runtime, function(t_14,t_13) {
-if(t_14) { cb(t_14); return; }
-output += t_13;
+(parentTemplate ? function(e, c, f, r, cb) { cb(""); } : context.getBlock("head"))(env, context, frame, runtime, function(t_10,t_9) {
+if(t_10) { cb(t_10); return; }
+output += t_9;
 output += "\n</head>\n<body>\n  ";
 var tasks = [];
 tasks.push(
 function(callback) {
-env.getTemplate("partials/global/site-head.njk", false, "layouts/base.njk", false, function(t_16,t_15) {
-if(t_16) { cb(t_16); return; }
-callback(null,t_15);});
+env.getTemplate("partials/global/site-head.njk", false, "layouts/base.njk", false, function(t_12,t_11) {
+if(t_12) { cb(t_12); return; }
+callback(null,t_11);});
 });
 tasks.push(
 function(template, callback){
-template.render(context.getVariables(), frame, function(t_18,t_17) {
-if(t_18) { cb(t_18); return; }
-callback(null,t_17);});
+template.render(context.getVariables(), frame, function(t_14,t_13) {
+if(t_14) { cb(t_14); return; }
+callback(null,t_13);});
 });
 tasks.push(
 function(result, callback){
@@ -280,22 +260,22 @@ callback(null);
 });
 env.waterfall(tasks, function(){
 output += "\n  ";
-(parentTemplate ? function(e, c, f, r, cb) { cb(""); } : context.getBlock("content"))(env, context, frame, runtime, function(t_20,t_19) {
-if(t_20) { cb(t_20); return; }
-output += t_19;
+(parentTemplate ? function(e, c, f, r, cb) { cb(""); } : context.getBlock("content"))(env, context, frame, runtime, function(t_16,t_15) {
+if(t_16) { cb(t_16); return; }
+output += t_15;
 output += "\n  ";
 var tasks = [];
 tasks.push(
 function(callback) {
-env.getTemplate("partials/global/site-foot.njk", false, "layouts/base.njk", false, function(t_22,t_21) {
-if(t_22) { cb(t_22); return; }
-callback(null,t_21);});
+env.getTemplate("partials/global/site-foot.njk", false, "layouts/base.njk", false, function(t_18,t_17) {
+if(t_18) { cb(t_18); return; }
+callback(null,t_17);});
 });
 tasks.push(
 function(template, callback){
-template.render(context.getVariables(), frame, function(t_24,t_23) {
-if(t_24) { cb(t_24); return; }
-callback(null,t_23);});
+template.render(context.getVariables(), frame, function(t_20,t_19) {
+if(t_20) { cb(t_20); return; }
+callback(null,t_19);});
 });
 tasks.push(
 function(result, callback){
@@ -304,22 +284,22 @@ callback(null);
 });
 env.waterfall(tasks, function(){
 output += "\n  ";
-(parentTemplate ? function(e, c, f, r, cb) { cb(""); } : context.getBlock("foot"))(env, context, frame, runtime, function(t_26,t_25) {
-if(t_26) { cb(t_26); return; }
-output += t_25;
+(parentTemplate ? function(e, c, f, r, cb) { cb(""); } : context.getBlock("foot"))(env, context, frame, runtime, function(t_22,t_21) {
+if(t_22) { cb(t_22); return; }
+output += t_21;
 output += "\n  <script type=\"module\" src=\"/js/components/theme-toggle.js\" async defer></script>\n  <script>\n    if ('serviceWorker' in navigator) {\n      window.addEventListener('load', () => {\n        navigator.serviceWorker.register('/service-worker.js');\n      });\n    }\n  </script>\n  <script src=\"https://identity.netlify.com/v1/netlify-identity-widget.js\" defer></script>\n</body>\n</html>\n";
 if(parentTemplate) {
 parentTemplate.rootRenderFunc(env, context, frame, runtime, cb);
 } else {
 cb(null, output);
 }
-})})})})})})})});
+})})})})})})});
 } catch (e) {
   cb(runtime.handleError(e, lineno, colno));
 }
 }
 function b_head(env, context, frame, runtime, cb) {
-var lineno = 13;
+var lineno = 12;
 var colno = 5;
 var output = "";
 try {
@@ -332,7 +312,7 @@ cb(null, output);
 }
 }
 function b_content(env, context, frame, runtime, cb) {
-var lineno = 18;
+var lineno = 17;
 var colno = 5;
 var output = "";
 try {
@@ -345,7 +325,7 @@ cb(null, output);
 }
 }
 function b_foot(env, context, frame, runtime, cb) {
-var lineno = 21;
+var lineno = 20;
 var colno = 5;
 var output = "";
 try {
