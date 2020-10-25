@@ -2,17 +2,20 @@
 <div class="[ inner-wrapper ] [ sf-flow ]">
     <h2 class="[ post-list__heading ] [ text-700 md:text-800 ]">{{ featuredTalksHeading }}</h2>
     <ol class="[ post-list__items ] [ sf-flow ] [ pad-top-300 ]" reversed>
-    {% for item in featuredTalksItems %}
-        {% if item.date.getTime() <= global.now %}
+    {% for item in featured_talks.items %}
+        {# {% if item.date.getTime() <= global.now %} #}
         <li class="post-list__item">
             <h3 class="font-base leading-tight text-600 weight-mid">
-            <a href="{{ item.url }}" class="post-list__link" rel="bookmark">{{ item.data.title }}</a>
+                {{ item.title }}
             </h3>
             <p class="text-500 gap-top-300 weight-mid">
-            <time datetime="{{ item.date | w3DateFilter }}">{{ item.date | dateFilter }}</time>
+                {# <p>{{ item.date | dateFilter }}</p> #}
+                <time datetime="{{ item.date | w3DateFilter }}">{{ item.date | dateFilter }}</time> | 
+                <a href="{{ item.video }}" class="post-list__link" rel="bookmark">Video</a> |
+                    <a href="{{ item.slides }}" class="post-list__link" rel="bookmark">Slides</a>
             </p>
         </li>
-        {% endif %}
+        {# {% endif %} #}
     {% endfor %}
     </ol>
 </div>
@@ -24,7 +27,7 @@
 <footer class="[ pagination ] [ pad-bottom-900 ]">
     <nav class="[ pagination__nav ] [ box-flex space-between align-center ]">
     {% if featuredTalksUrl %}
-        <a href="{{ featuredTalksText }}" class="{{ featuredTalksLinkTokens }}" data-direction="forwards">
+        <a href="{{ featuredTalksUrl }}" class="{{ featuredTalksLinkTokens }}" data-direction="forwards">
         <span>{{ featuredTalksText if featuredTalksText else 'Next' }}</span>
         {% include "icons/arrow.svg" %}
         </a>
