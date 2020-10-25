@@ -2,6 +2,7 @@
     "items": [
       {
         "title": "Contribuir para Open Source como colaborador e maintainer",
+        "conf": "DevFest Portugal",
         "video": "https://youtu.be/-EFVDjDdeXw?t=6766",
         "slides": "https://speakerdeck.com/isabelcmdcosta/contribuir-para-open-source-como-colaborador-e-maintainer",
         "date": "17 Oct 2020",
@@ -9,6 +10,7 @@
       },
       {
         "title": "Why, Where and How to contribute to Open Source",
+        "conf": "JNation",
         "video": "https://youtu.be/-37he61LlDo?t=31704",
         "slides": "https://speakerdeck.com/isabelcmdcosta/why-where-and-how-to-contribute-to-open-source-at-jnation",
         "date": "2 Jun 2020",
@@ -16,6 +18,7 @@
       },
       {
         "title": "How documentation and open communication leads to better collaboration",
+        "conf": "Ladies of Code London",
         "video": "https://youtu.be/KGG3PXYwKIE?t=1491",
         "slides": "https://speakerdeck.com/isabelcmdcosta/how-documentation-and-open-communication-leads-to-better-collaboration",
         "date": "17 Aug 2020",

@@ -10,9 +10,10 @@
             </h3>
             <p class="text-500 gap-top-300 weight-mid">
                 {# <p>{{ item.date | dateFilter }}</p> #}
-                <time datetime="{{ item.date | w3DateFilter }}">{{ item.date | dateFilter }}</time> | 
+                <time datetime="{{ item.date | w3DateFilter }}">{{ item.date | dateFilter }}</time> |
+                {{ item.conf }} |
                 <a href="{{ item.video }}" class="post-list__link" rel="bookmark">Video</a> |
-                    <a href="{{ item.slides }}" class="post-list__link" rel="bookmark">Slides</a>
+                <a href="{{ item.slides }}" class="post-list__link" rel="bookmark">Slides</a>
             </p>
         </li>
         {# {% endif %} #}
