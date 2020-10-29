@@ -2011,15 +2011,15 @@ frame.set("loop.last", t_1 === t_2 - 1);
 frame.set("loop.length", t_2);
 output += "\n          ";
 if((lineno = 6, colno = 33, runtime.callWrap(runtime.memberLookup((runtime.memberLookup((t_4),"date")),"getTime"), "item[\"date\"][\"getTime\"]", context, [])) <= runtime.memberLookup((runtime.contextOrFrameLookup(context, frame, "global")),"now")) {
-output += "\n            <li class=\"post-list__item\">\n              <h3 class=\"font-base leading-tight text-600 weight-mid\">\n                <a href=\"";
-output += runtime.suppressValue(runtime.memberLookup((t_4),"url"), env.opts.autoescape);
-output += "\" class=\"post-list__link\" rel=\"bookmark\">";
-output += runtime.suppressValue(runtime.memberLookup((runtime.memberLookup((t_4),"data")),"title"), env.opts.autoescape);
-output += "</a>\n              </h3>\n              <p class=\"text-400 gap-top-300 weight-mid\">\n                <time datetime=\"";
+output += "\n            <li class=\"post-list__item\">\n              <h3 class=\"font-base leading-tight text-500 weight-mid\">\n                <time datetime=\"";
 output += runtime.suppressValue(env.getFilter("w3DateFilter").call(context, runtime.memberLookup((t_4),"date")), env.opts.autoescape);
 output += "\">";
 output += runtime.suppressValue(env.getFilter("dateFilter").call(context, runtime.memberLookup((t_4),"date")), env.opts.autoescape);
-output += "</time>\n              </p>\n            </li>\n          ";
+output += "</time> - \n                <a href=\"";
+output += runtime.suppressValue(runtime.memberLookup((t_4),"url"), env.opts.autoescape);
+output += "\" class=\"post-list__link\" rel=\"bookmark\">";
+output += runtime.suppressValue(runtime.memberLookup((runtime.memberLookup((t_4),"data")),"title"), env.opts.autoescape);
+output += "</a>\n              </h3>\n            </li>\n          ";
 ;
 }
 output += "\n        ";

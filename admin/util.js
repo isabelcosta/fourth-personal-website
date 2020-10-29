@@ -21,12 +21,13 @@ var previewUtil = (function (exports) {
 
   var dateFilter = function dateFilter(value) {
     const dateObject = new Date(value);
-
-    const months = ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December'];
     const dayWithSuffix = appendSuffix(dateObject.getDate());
+    
+    // custom style
+    const customMonths = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
     const dayWithoutSuffix = dateObject.getDate();
 
-    return `${dayWithoutSuffix} ${months[dateObject.getMonth()]} ${dateObject.getFullYear()}`;
+    return `${dayWithoutSuffix} ${customMonths[dateObject.getMonth()]} ${dateObject.getFullYear()}`;
   };
 
   function createCommonjsModule(fn, module) {
