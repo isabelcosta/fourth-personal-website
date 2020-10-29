@@ -679,7 +679,7 @@ output += result;
 callback(null);
 });
 env.waterfall(tasks, function(){
-output += "\n\n    <hr />\n\n    ";
+output += "\n    ";
 var tasks = [];
 tasks.push(
 function(callback) {
@@ -2106,7 +2106,7 @@ frame.set("loop.first", t_1 === 0);
 frame.set("loop.last", t_1 === t_2 - 1);
 frame.set("loop.length", t_2);
 output += "\n        ";
-output += "\n        <li class=\"post-list__item\">\n            <h3 class=\"font-base leading-tight text-600 weight-mid\">\n                ";
+output += "\n        <li class=\"post-list__item\">\n            <h3 class=\"font-base leading-tight text-500 weight-mid\">\n                ";
 output += runtime.suppressValue(runtime.memberLookup((t_4),"title"), env.opts.autoescape);
 output += "\n            </h3>\n            <p class=\"text-400 gap-top-300 weight-mid\">\n                ";
 output += "\n                <time datetime=\"";
