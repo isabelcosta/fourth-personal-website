@@ -6,12 +6,10 @@
         {% for item in postListItems %}
           {% if item.date.getTime() <= global.now %}
             <li class="post-list__item">
-              <h3 class="font-base leading-tight text-600 weight-mid">
+              <h3 class="font-base leading-tight text-500 weight-mid">
+                <time datetime="{{ item.date | w3DateFilter }}">{{ item.date | dateFilter }}</time> - 
                 <a href="{{ item.url }}" class="post-list__link" rel="bookmark">{{ item.data.title }}</a>
               </h3>
-              <p class="text-400 gap-top-300 weight-mid">
-                <time datetime="{{ item.date | w3DateFilter }}">{{ item.date | dateFilter }}</time>
-              </p>
             </li>
           {% endif %}
         {% endfor %}
