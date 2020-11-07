@@ -20,7 +20,7 @@ Há um website que explica diferentes tipos de licenças - [choosealicense.com](
 
 É muito importante ter um código de conduta num projeto open source. Isto permite aos colaboradores saberem que tipo de conduta é a adequada e a que não é aceitável na comunidade a volta de um projeto de modo a manter o conjunto de interações, na comunidade, segura e amigável para todos. Este ficheiro, também deve conter informações de como reportar violações deste código de conduta por parte de membros da comunidade, para que o ou a maintainer possa tomar as devidas ações.
 
-Se quiseres saber de exemplos de código de conduta, podes encontrar um bom exemplo, já adotado por vários projetos, em [www.contributor-covenant.org](https://www.contributor-covenant.org/)s. Este modelo de código de conduta tem traduções em várias linguas, incluindo [versão em português](https://www.contributor-covenant.org/pt/version/1/4/code-of-conduct/).
+Se quiseres saber de exemplos de código de conduta, podes encontrar um bom exemplo, já adotado por vários projetos, em [www.contributor-covenant.org](https://www.contributor-covenant.org/). Este modelo de código de conduta tem traduções em várias linguas, incluindo [versão em português](https://www.contributor-covenant.org/pt/version/1/4/code-of-conduct/).
 
 ## README.md
 
