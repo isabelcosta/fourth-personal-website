@@ -15,6 +15,38 @@
 	
   
   <entry>
+    <title>Ficheiros base num projeto Open Source</title>
+    <link href="https://isabelcosta.github.io//posts/ficheiros-base-num-projeto-open-source/"/>
+    <updated>2020-11-07T00:00:00+00:00</updated>
+    <id>https://isabelcosta.github.io//posts/ficheiros-base-num-projeto-open-source/</id>
+    <content type="html"><![CDATA[
+      <p>Um projecto Open Source costuma ter uma base de ficheiros, que permite colaboradores perceber como devem interagir com o projecto e quais as expectativas de quem mantém o projecto (maintainer). Estes são os ficheiros base que projetos open source costumam ter.</p>
+<h2>Licença</h2>
+<p>A Licença de um projeto open source é importante para os colaboradores saberem em que condições podem usar o projeto. No que diz respeito ao tipo de licença que se deve escolher, isso depende do projeto. Eu sei que há umas licenças mais permissivas que outras. Há licenças que permite a modificação e reutilização, etc, desde que o crédito seja devidamente atribuído aos criadores do projeto.</p>
+<p>Este ficheiro costuma estar na raiz do projeto. E normalmente tem o seguinte nome: <code>LICENSE.md</code> ou <code>LICENSE.txt</code>.</p>
+<p>Há um website que explica diferentes tipos de licenças - <a href="https://choosealicense.com/">choosealicense.com</a>. Aqui podes tentar perceber qual o que se adequa melhor ao teu projeto open source.</p>
+<h2>Código de conduta</h2>
+<p>É muito importante ter um código de conduta num projeto open source. Isto permite aos colaboradores saberem que tipo de conduta é a adequada e a que não é aceitável na comunidade a volta de um projeto de modo a manter o conjunto de interações, na comunidade, segura e amigável para todos. Este ficheiro, também deve conter informações de como reportar violações deste código de conduta por parte de membros da comunidade, para que o ou a maintainer possa tomar as devidas ações.</p>
+<p>Se quiseres saber de exemplos de código de conduta, podes encontrar um bom exemplo, já adotado por vários projetos, em <a href="https://www.contributor-covenant.org/">www.contributor-covenant.org</a>. Este modelo de código de conduta tem traduções em várias linguas, incluindo <a href="https://www.contributor-covenant.org/pt/version/1/4/code-of-conduct/">versão em português</a>.</p>
+<h2>README.md</h2>
+<p>O <code>README</code> é o ponto de partida de um colaborador num projeto Open Source. É neste ficheiro que se espera aprender mais sobre o projeto, como a sua missão e descrição, instruções para ter o projeto a funcionar, etc... Por isso é super importante que haja informação relevante para colaboradores sobre o projeto e links para o resto da documentação. O formato e o conteúdo deste ficheiro pode variar de projeto para projeto, o que interessa é que novos potenciais colaboradores, encontrem informação necessária para explorar mais sobre o projeto. Há projetos em que o <code>README</code> representa a maior parte do projeto em si, por exemplo se o repositório for apenas conteúdo informativo como awesome lists (ex.: <a href="https://github.com/vinta/awesome-python">vinta/awesome-python</a> no GitHub). Este ficheiro, encontra-se na raiz do projeto. Por vezes, podem haver outros tipos de <code>README</code> presentes em pastas do repositório, que podem explicar em detalhe informações relevantes sobre o conteúdo específico da pasta.</p>
+<h2>Guia de contribuição</h2>
+<p>O guia de contribuição, <code>CONTRIBUTING.md</code>, ajuda colaboradores a perceber o tipo de e os passos para uma contribuição bem sucedida. Os passos de contribuição para um projeto podem diferir de projeto para projeto. Na comunidade onde estou, <a href="https://github.com/anitab-org">AnitaB.org Open Source</a>, nós pedimos aos colaboradores para criar uma <em>issue</em> antes de submeter uma pull request (caso a issue não exista). Isto pode ser útil para nós que por vezes temos muitas contribuições, e podemos assim validar rapidamente <em>Pull Requests</em> que são spam ou inválidas, e fechá-las. No entanto, já contribui para projetos, como na <a href="/posts/my-first-open-source-contribution">minha primeira contribuição para Open Source</a>, no qual podia simplesmente criar PRs com as minhas sugestões de melhoria do projeto, sem necessidade de criar uma issue antes. Como <em>maintainer</em>, é neste ficheiro que se deve definir as expectativas que temos para com e dos colaboradores.</p>
+<p>Dependendo do projeto, podes encontrar este ficheiro na raiz do projeto, ou em pastas específicas (exemplos de pastas são <code>.github</code> no GitHub, <code>.gitlab</code> no GitLab ou docs).</p>
+<h2>Modelos de Issue e PRs</h2>
+<p>Modelos de <em>issues</em> e de <em>Pull Requests</em> (PRs) pode ser útil para fazer com que haja consistência nas descrições das mesmas. Estes ficheiros, servem de exemplo e são usados no ato de criação das mesmas. No GitHub e no GitLab podes tê-las numas pastas especificas <code>.github</code> ou <code>.gitlab</code>, respectivamente, para as issues e PRs serem automaticamente preenchidas com os modelos, que depois os colaboradores apenas terão de editar. Como <em>maintainer</em>, isto será útil para que colaboradores prestem especial atenção às expectativas dos maintainers para contribuições. Nestes modelos podes ter uma lista de pré-requisitos de uma contribuição, que pode facilitar o trabalho de triagem das <em>issues</em> e PRs (exemplo: link para documentação regras de estilo de código, secção para descrever testes manuais feitos para uma nova funcionalidade adicionada, seção para incluir imagens tiradas das modificações a interface de utilizador como ecrã da aplicação, etc...).</p>
+<p>Se quiseres um exemplo de modelos de issues, um dos projectos que mantenho tem <a href="https://github.com/anitab-org/mentorship-backend/tree/develop/.github/ISSUE_TEMPLATE">diferentes tipos de modelos para issues</a> e exemplo de <a href="https://github.com/anitab-org/mentorship-backend/blob/develop/.github/PULL_REQUEST_TEMPLATE.md">modelo de descrição de PRs</a>. Também podes encontrar diferentes modelos neste repositorio - <a href="https://github.com/devspace/awesome-github-templates">devspace/awesome-github-templates</a>.</p>
+<h2>Descrição e Tópicos</h2>
+<p>Descrição e Tópicos não são representados em forma de ficheiros, mas são igualmente importantes para a base de um projeto open source. Estes no GitHub, como dois campos que podes preencher sobre um repositório. Ambos os campos são das primeiras informações que um colaborador pode ver sobre o projeto. Este aparece quando o projeto é listado, sem precisarmos de estar na página do repositório. Por isso uma boa descrição e tópicos relevantes podem ser a diferença entre um colaborador decidir ver mais sobre o projeto ou não. Isto também se aplica a tópicos.
+Como <em>developer</em> de uma certa tech stack, eu posso pesquisar projectos que usam uma <em>tech stack</em> específica. Mesmo não sendo developer, posso querer encontrar projetos de impacto social, e pesquisar esse tópico específico. Isto ajuda a um colaborador ter uma ideia de um projeto, antes de ir a página do projeto e também perceber se é algo para o qual quer contribuir.</p>
+<hr>
+<p>Espero que isto te ajude se estiveres a começar um projeto ou a melhorá-lo para conseguires ter um projeto mais atrativo para novos colaboradores.</p>
+
+    ]]></content>
+  </entry>
+	
+  
+  <entry>
     <title>My first mentorship experience</title>
     <link href="https://isabelcosta.github.io//posts/my-first-mentorship-experience/"/>
     <updated>2020-09-04T00:00:00+00:00</updated>
