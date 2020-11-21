@@ -15,6 +15,42 @@
 	
   
   <entry>
+    <title>How to change last commit message</title>
+    <link href="https://isabelcosta.github.io//posts/how-to-change-last-commit-message/"/>
+    <updated>2020-11-21T00:00:00+00:00</updated>
+    <id>https://isabelcosta.github.io//posts/how-to-change-last-commit-message/</id>
+    <content type="html"><![CDATA[
+      <p>Often when making changes to code, I commit them and then have to change to commit I just made, either because I think the commit message could be better or I had to make a last-minute change to the code I wish to include in the commit.</p>
+<h3>Change last commit message</h3>
+<p>So consider I committed changes with the following command (<code>-m</code> to write one line commit message):</p>
+<pre><code>git commit -m “fix: big feature X”
+</code></pre>
+<p>Here’s how I fix the commit, using the <code>--amend</code> option.</p>
+<pre><code>git commit --amend -m “fix: small feature X”
+</code></pre>
+<p>In case I want to add additional code to the commit, I run <code>git add &lt;file&gt;</code> before running <code>git commit --amend</code>.</p>
+<h3>Verify new commit message</h3>
+<p>To check that it worked and I fixed the right commit I check the latest commit with:</p>
+<pre><code>git log --oneline
+</code></pre>
+<p>I use <code>--oneline</code> because I just want to see the commit messages, instead of also seeing the name and email of the author of the commit. You’ll an output similar to this, where you can see the last commit has the correct message:</p>
+<pre><code>1792519 (HEAD -&gt; master, origin/master, origin/HEAD) fix: small feature X
+701aa33  docs: add instructions to README
+(END)
+</code></pre>
+<p>In my environment, this will open vim, which I close by typing <code>:q</code>.</p>
+<h3>Fix pushed commit</h3>
+<p>In case I already pushed to the remote repository the commit I want to fix, I force the push to remote to update the commit. Preferably, you are working on a feature specific branch, which does not affect the main one (in case this messes the git history for some reason). So this is what I would run, where <code>&lt;branch&gt;</code> is the branch you are working on (e.g.: <code>master</code>).</p>
+<pre><code>git push -f origin &lt;branch&gt;
+</code></pre>
+<hr>
+<p>Hope this helps you fix the last commit message.</p>
+
+    ]]></content>
+  </entry>
+	
+  
+  <entry>
     <title>Ficheiros base num projeto Open Source</title>
     <link href="https://isabelcosta.github.io//posts/ficheiros-base-num-projeto-open-source/"/>
     <updated>2020-11-07T00:00:00+00:00</updated>
