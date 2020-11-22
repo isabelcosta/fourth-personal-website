@@ -13,12 +13,12 @@ Often when making changes to code, I commit them and then have to change to comm
 
 So consider I committed changes with the following command (`-m` to write one line commit message):
 ```
-git commit -m “fix: big feature X”
+git commit -m "fix: big feature X"
 ```
 
 Here’s how I fix the commit, using the `--amend` option.
 ```
-git commit --amend -m “fix: small feature X”
+git commit --amend -m "fix: small feature X"
 ```
 In case I want to add additional code to the commit, I run `git add <file>` before running `git commit --amend`.
 
