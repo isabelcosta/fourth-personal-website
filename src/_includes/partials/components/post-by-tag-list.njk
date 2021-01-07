@@ -1,8 +1,20 @@
 {% if postListItems.length %}
   <section class="[ post-list ] [ pad-top-700 gap-bottom-900 ]">
     <div class="[ inner-wrapper ] [ sf-flow ]">
-      <p>{{ collections }}</h3>
       <h2 class="[ post-list__heading ] [ text-700 md:text-800 ]">{{ postListHeading }}</h2>
+      
+        <ul>
+	    {% for tag in collections.tagList %}
+	        <li>tag: {{ tag }}</li>
+	            <ol>
+                {% for tag in collections[tag] %}
+                    <li>title: {{ tag.data.title }}</li>
+                {% endfor %}
+	            </ol>
+	    {% endfor %}
+        </ul>
+      
+      
       <ol class="[ post-list__items ] [ sf-flow ] [ pad-top-300 ]" reversed>
         {% for item in postListItems %}
           {% if item.date.getTime() <= global.now %}
