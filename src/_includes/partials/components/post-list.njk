@@ -9,6 +9,10 @@
               <h3 class="font-base leading-tight text-500 weight-mid">
                 <time datetime="{{ item.date | w3DateFilter }}">{{ item.date | dateFilter }}</time> - 
                 <a href="{{ item.url }}" class="post-list__link" rel="bookmark">{{ item.data.title }}</a>
+                {% for tag in item.data.tags %}
+                <a href="/tags/{{ tag }}">#{{ tag }}</a>
+                {% endfor %}
+              </ul>
               </h3>
             </li>
           {% endif %}
