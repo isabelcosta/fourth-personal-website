@@ -10,7 +10,7 @@
                 <time datetime="{{ item.date | w3DateFilter }}">{{ item.date | dateFilter }}</time> - 
                 <a href="{{ item.url }}" class="post-list__link" rel="bookmark">{{ item.data.title }}</a>
                 {% for tag in item.data.tags %}
-                <a href="/tags/{{ tag }}">#{{ tag }}</a>
+                <a href="/tags/{{ tag }}" class="post-list__tag">#{{ tag }}</a>
                 {% endfor %}
               </ul>
               </h3>
