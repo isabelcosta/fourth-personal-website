@@ -9,7 +9,7 @@ You can see the slides for my talks on [Speaker Deck](https://speakerdeck.com/is
 
 | Title | Where | Date | Notes |
 |-------|-------|------|-------|
-| Why, Where and How to contribute to Open Source | [Talk A Bit](https://talkabit.org/) | 13 Feb '21 | --- |
+| Why, Where and How to contribute to Open Source | [Talk A Bit](https://talkabit.org/) | 13 Feb '21 | [Video](https://youtu.be/AYt4iW1dkDU?t=572) |
 | Como e porquê começar a contribuir para OSS? | [Android Training Program - Aula #11 Resumo](https://events.withgoogle.com/atp2020/) | 16 Dec '20 | [Video](https://youtu.be/B_wAaBURt6w?t=5581) / PT language |
 | Dicas para manutenção de projetos open source | [Interruptor x Hacktoberfest](https://interruptor.pt/artigos/interruptor-x-hacktoberfest) | 24 Oct '20 | [Video](https://youtu.be/MQoZTcUsnlw?t=7413) / [Slides](https://speakerdeck.com/isabelcmdcosta/dicas-para-manutencao-de-projetos-open-source) / PT language |
 | [Contribuir para Open Source como colaborador e maintainer](https://www.meetup.com/gdglisbon/events/273746185/) | [Devfest Portugal](https://devfest.gdgportugal.xyz/) | 17 Oct '20 | [Video](https://youtu.be/-EFVDjDdeXw?t=6766) / [Slides](https://speakerdeck.com/isabelcmdcosta/contribuir-para-open-source-como-colaborador-e-maintainer) / PT language |
