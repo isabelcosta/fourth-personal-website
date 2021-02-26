@@ -1,6 +1,7 @@
 ---
 title: How to Undo the Last Commit
 date: '2018-02-20'
+featured: true
 tags:
   - git
   - tech

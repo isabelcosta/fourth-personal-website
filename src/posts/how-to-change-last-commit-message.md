@@ -1,6 +1,7 @@
 ---
 title: How to change last commit message
 date: '2020-11-21'
+featured: true
 tags:
   - git
 medium: https://isabelcmdcosta.medium.com/how-to-change-last-commit-message-77a7036a32c7

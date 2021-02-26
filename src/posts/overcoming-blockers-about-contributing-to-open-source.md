@@ -1,6 +1,7 @@
 ---
 title: Overcoming blockers about contributing to Open Source
 date: '2019-06-24'
+featured: true
 tags:
   - open-source
 ---
