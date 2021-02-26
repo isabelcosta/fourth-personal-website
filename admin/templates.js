@@ -523,7 +523,7 @@ context.addExport("postListHeading", t_10);
 }
 output += "\n";
 var t_11;
-t_11 = runtime.memberLookup((runtime.contextOrFrameLookup(context, frame, "collections")),"postFeed");
+t_11 = runtime.memberLookup((runtime.contextOrFrameLookup(context, frame, "collections")),"featuredPosts");
 frame.set("postListItems", t_11, true);
 if(frame.topLevel) {
 context.setVariable("postListItems", t_11);
