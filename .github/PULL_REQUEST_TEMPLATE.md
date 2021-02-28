@@ -10,7 +10,11 @@ Fixes #ISSUE
 
 ### User interface
 
-<!-- Include screenshots before and after images -->
+<!-- Include screenshots before and after images-->
+
+| Before | After |
+|-|-|
+| image1 | image2 |
 
 ### References
 
