@@ -2418,14 +2418,14 @@ output += result;
 callback(null);
 });
 env.waterfall(tasks, function(){
-output += "\n        <theme-toggle></theme-toggle>\n      </div>\n    </div>\n    ";
+output += "\n        <theme-toggle></theme-toggle>\n      </div>\n    </div>\n    <p class=\"[ site-foot__credit ] [ pad-top-900 ]\">\n        👩🏾‍💻 Source code on GitHub at <a href=\"https://github.com/isabelcosta/isabelcosta.github.io\" rel=\"external\">isabelcosta/isabelcosta.github.io</a>.\n      ";
 if(runtime.memberLookup((runtime.contextOrFrameLookup(context, frame, "site")),"showThemeCredit")) {
-output += "\n      <p class=\"[ site-foot__credit ] [ pad-top-900 ]\">\n        Powered by the <a href=\"https://hylia.website\" rel=\"external\">Hylia Eleventy Starter Kit v";
+output += "\n        Powered by the <a href=\"https://hylia.website\" rel=\"external\">Hylia Eleventy Starter Kit v";
 output += runtime.suppressValue(runtime.memberLookup((runtime.contextOrFrameLookup(context, frame, "pkg")),"version"), env.opts.autoescape);
-output += "</a>.\n      </p>\n    ";
+output += "</a>.\n      ";
 ;
 }
-output += "\n  </div>\n</footer>\n";
+output += "\n    </p>\n  </div>\n</footer>\n";
 if(parentTemplate) {
 parentTemplate.rootRenderFunc(env, context, frame, runtime, cb);
 } else {
