@@ -16,10 +16,11 @@
         <theme-toggle></theme-toggle>
       </div>
     </div>
-    {% if site.showThemeCredit %}
-      <p class="[ site-foot__credit ] [ pad-top-900 ]">
+    <p class="[ site-foot__credit ] [ pad-top-900 ]">
+        👩🏾‍💻 Source code on GitHub at <a href="https://github.com/isabelcosta/isabelcosta.github.io" rel="external">isabelcosta/isabelcosta.github.io</a>.
+      {% if site.showThemeCredit %}
         Powered by the <a href="https://hylia.website" rel="external">Hylia Eleventy Starter Kit v{{ pkg.version }}</a>.
-      </p>
-    {% endif %}
+      {% endif %}
+    </p>
   </div>
 </footer>
