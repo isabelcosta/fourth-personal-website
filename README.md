@@ -20,3 +20,9 @@ npm start
 ```
 
 See it live at http://localhost:8080/
+
+### Structure
+
+- `src/posts` folder contains all the blog posts as `.md` files
+- `.eleventy.js` contains the logic of the blog post collections
+- ...
