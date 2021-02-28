@@ -643,7 +643,7 @@ output += "\n    ";
 var tasks = [];
 tasks.push(
 function(callback) {
-env.getTemplate("partials/components/post-list.njk", false, "layouts/home.njk", false, function(t_25,t_24) {
+env.getTemplate("partials/components/home-post-list.njk", false, "layouts/home.njk", false, function(t_25,t_24) {
 if(t_25) { cb(t_25); return; }
 callback(null,t_24);});
 });
@@ -1732,6 +1732,86 @@ parentTemplate.rootRenderFunc(env, context, frame, runtime, cb);
 cb(null, output);
 }
 })});
+} catch (e) {
+  cb(runtime.handleError(e, lineno, colno));
+}
+}
+return {
+root: root
+};
+
+})();
+})();
+(function() {(window.nunjucksPrecompiled = window.nunjucksPrecompiled || {})["partials/components/home-post-list.njk"] = (function() {
+function root(env, context, frame, runtime, cb) {
+var lineno = 0;
+var colno = 0;
+var output = "";
+try {
+var parentTemplate = null;
+if(runtime.memberLookup((runtime.contextOrFrameLookup(context, frame, "postListItems")),"length")) {
+output += "\n  <section class=\"[ post-list ] [ pad-top-700 gap-bottom-900 ]\">\n    <div class=\"[ inner-wrapper ] [ sf-flow ]\">\n      <h2 class=\"[ post-list__heading ] [ text-700 md:text-800 ]\">";
+output += runtime.suppressValue(runtime.contextOrFrameLookup(context, frame, "postListHeading"), env.opts.autoescape);
+output += "</h2>\n      <ol class=\"[ post-list__items ] [ sf-flow ] [ pad-top-300 ]\" reversed>\n        ";
+frame = frame.push();
+var t_3 = runtime.contextOrFrameLookup(context, frame, "postListItems");
+if(t_3) {t_3 = runtime.fromIterator(t_3);
+var t_2 = t_3.length;
+for(var t_1=0; t_1 < t_3.length; t_1++) {
+var t_4 = t_3[t_1];
+frame.set("item", t_4);
+frame.set("loop.index", t_1 + 1);
+frame.set("loop.index0", t_1);
+frame.set("loop.revindex", t_2 - t_1);
+frame.set("loop.revindex0", t_2 - t_1 - 1);
+frame.set("loop.first", t_1 === 0);
+frame.set("loop.last", t_1 === t_2 - 1);
+frame.set("loop.length", t_2);
+output += "\n          ";
+if((lineno = 6, colno = 33, runtime.callWrap(runtime.memberLookup((runtime.memberLookup((t_4),"date")),"getTime"), "item[\"date\"][\"getTime\"]", context, [])) <= runtime.memberLookup((runtime.contextOrFrameLookup(context, frame, "global")),"now")) {
+output += "\n            <li class=\"post-list__item\">\n              <h3 class=\"font-base leading-tight text-500 weight-mid\">\n                ";
+output += "\n                ";
+var tasks = [];
+tasks.push(
+function(callback) {
+env.getTemplate("icons/arrow.svg", false, "partials/components/home-post-list.njk", false, function(t_6,t_5) {
+if(t_6) { cb(t_6); return; }
+callback(null,t_5);});
+});
+tasks.push(
+function(template, callback){
+template.render(context.getVariables(), frame, function(t_8,t_7) {
+if(t_8) { cb(t_8); return; }
+callback(null,t_7);});
+});
+tasks.push(
+function(result, callback){
+output += result;
+callback(null);
+});
+env.waterfall(tasks, function(){
+output += "\n                <a href=\"";
+output += runtime.suppressValue(runtime.memberLookup((t_4),"url"), env.opts.autoescape);
+output += "\" class=\"post-list__link\" rel=\"bookmark\">";
+output += runtime.suppressValue(runtime.memberLookup((runtime.memberLookup((t_4),"data")),"title"), env.opts.autoescape);
+output += "</a>\n              </h3>\n            </li>\n          ";
+});
+}
+output += "\n        ";
+;
+}
+}
+frame = frame.pop();
+output += "\n      </ol>\n    </div>\n  </section>\n";
+;
+}
+output += "\n";
+if(parentTemplate) {
+parentTemplate.rootRenderFunc(env, context, frame, runtime, cb);
+} else {
+cb(null, output);
+}
+;
 } catch (e) {
   cb(runtime.handleError(e, lineno, colno));
 }
