@@ -580,7 +580,7 @@ context.addExport("featuredTalksUrl", t_15);
 }
 output += "\n";
 var t_16;
-t_16 = "Featured Talks";
+t_16 = "Featured talks";
 frame.set("featuredTalksHeading", t_16, true);
 if(frame.topLevel) {
 context.setVariable("featuredTalksHeading", t_16);
