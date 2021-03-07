@@ -1,6 +1,7 @@
 ---
 title: How I set up Tinyproxy as a forward proxy and reverse proxy
 date: '2018-09-06'
+featured: true
 tags:
   - tech
 ---

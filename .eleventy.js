@@ -41,6 +41,8 @@ module.exports = function(config) {
   const now = new Date();
 
   // Custom collections
+
+  // All posts
   const livePosts = post => post.date <= now && !post.data.draft;
   config.addCollection('posts', collection => {
     return [
@@ -48,10 +50,19 @@ module.exports = function(config) {
     ].reverse();
   });
 
+  // N most recent posts
   config.addCollection('postFeed', collection => {
     return [...collection.getFilteredByGlob('./src/posts/*.md').filter(livePosts)]
       .reverse()
       .slice(0, site.maxPostsPerPage);
+  });
+
+  // Featured posts that I chose to highlight
+  const featuredPosts = post => post.data.featured;
+  config.addCollection('featuredPosts', collection => {
+    return [
+      ...collection.getFilteredByGlob('./src/posts/*.md').filter(featuredPosts)
+    ].reverse();
   });
 
   // Plugins

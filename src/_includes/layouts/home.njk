@@ -9,7 +9,7 @@
 
 {# Post list content #}
 {% set postListHeading = postsHeading %}
-{% set postListItems = collections.postFeed %}
+{% set postListItems = collections.featuredPosts %}
 
 {# Archive link #}
 {% if postListItems.length < collections.posts.length %} 
@@ -17,16 +17,16 @@
   {% set paginationNextUrl = '/archive' %}
 {% endif %}
 
-{# Featured Talks list content #}
+{# Featured talks list content #}
 {% set featuredTalksText = 'See all talks' %}
 {% set featuredTalksUrl = '/talks' %}
-{% set featuredTalksHeading = 'Featured Talks' %}
+{% set featuredTalksHeading = 'Featured talks' %}
 {% set featuredTalksItems = collections.featuredTalks %}
 
 {% block content %}
   <main id="main-content" tabindex="-1">
     {% include "partials/components/intro.njk" %}
-    {% include "partials/components/post-list.njk" %}
+    {% include "partials/components/home-post-list.njk" %}
     {% include "partials/components/pagination.njk" %}
     {% include "partials/components/talks-list.njk" %}
   </main>
