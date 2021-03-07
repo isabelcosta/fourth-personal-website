@@ -25,5 +25,6 @@
     word-break: break-word;
     margin: 0.4rem 0.4rem;
     @include apply-utility('leading', 'tight');
+    font-weight: 600;
   }
 }

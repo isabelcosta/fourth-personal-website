@@ -3,7 +3,7 @@ title: Introducing Mentorship System
 date: '2018-07-05'
 tags:
   - open-source
-  - mentorship-system
+  - mentorship
 ---
 
 ![](/images/mentorship-system-initial-logo.png)

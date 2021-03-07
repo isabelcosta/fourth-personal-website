@@ -2,7 +2,7 @@
 title: 🎧 Podcasts I listen to
 date: '2020-07-25'
 tags:
-  - seeds
+  - misc
 ---
 
 I usually listen to podcasts on Spotify. These are some of the podcasts I follow and listen to, more on the tech industry spectrum, whether discussing latest trends in tech industry or experiences in it.

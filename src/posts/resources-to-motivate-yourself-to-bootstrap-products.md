@@ -2,7 +2,7 @@
 title: Resources to motivate yourself to bootstrap products
 date: '2019-04-03'
 tags:
-  - indie-hacking
+  - misc
 ---
 
 ![Credits to the amazing initiative [www.wocintechchat.com](https://www.wocintechchat.com)](/images/woc-in-tech-chat-3.jpeg)
