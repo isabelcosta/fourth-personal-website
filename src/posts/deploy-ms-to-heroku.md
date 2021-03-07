@@ -2,8 +2,8 @@
 title: Deploying Mentorship Backend flask app on Heroku
 date: '2020-06-27'
 tags:
-  - mentorship-system
   - tech
+  - open-source
 ---
 
 ![](/images/deploy-ms-heroku-cover.png)

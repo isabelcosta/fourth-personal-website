@@ -1,0 +1,12 @@
+{% if postListItems.length %}
+  <section class="[ post-list ] [ pad-top-700 gap-bottom-300 ]">
+    <div class="[ inner-wrapper ] [ sf-flow ]">
+      <h3 class="[ post-list__heading ] [ text-700 md:text-800 ]">Tags</h3>
+        <p>
+            {% for tag in collections.tagList %}
+            <a href="/tags/{{ tag }}" class="post-list__tag">{{ tag }}</a>
+            {% endfor %}
+        </p>
+    </div>
+  </section>
+{% endif %}
