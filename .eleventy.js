@@ -84,7 +84,8 @@ module.exports = function(config) {
     }
   });
 
-  config.addCollection("tagList", collection => {
+  // credit to https://github.com/11ty/eleventy/issues/927#issuecomment-627703544
+  config.addCollection('tagList', collection => {
     const tagsSet = new Set();
     collection.getAll().forEach(item => {
       if (!item.data.tags) return;
