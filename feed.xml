@@ -15,6 +15,37 @@
 	
   
   <entry>
+    <title>That time I contributed to Scala Exercises website</title>
+    <link href="https://isabelcosta.github.io//posts/that-time-i-contributed-to-scala-exercises/"/>
+    <updated>2021-03-07T00:00:00+00:00</updated>
+    <id>https://isabelcosta.github.io//posts/that-time-i-contributed-to-scala-exercises/</id>
+    <content type="html"><![CDATA[
+      <p>As a beginner in contributing to open source, you might not be sure of how to start contributing. I want to tell you about a <strong>contribution I have made to an open source project I used.</strong></p>
+<p>Often I explain to people who want to start contributing, that they can look into projects they already use. This is what I did when I contributed to <a href="https://www.scala-exercises.org/">scala-exercises.org</a> website content.</p>
+<h2>Identifying a potential contribution</h2>
+<p>I was working through <a href="https://www.scala-exercises.org/fp_in_scala">FP IN SCALA</a> exercises, from &quot;Functional Programming in Scala&quot; book, in particular, I was doing the <a href="https://www.scala-exercises.org/fp_in_scala/property_based_testing">Property Based Testing</a> section.</p>
+<p>I noticed there was a typo where the syntax for the <a href="https://www.scala-lang.org/">scala language</a> was incorrect. Instead of showing <code>||</code>, which means logical or in Scala, it was showing <code>\\</code> that does not show correctly what it should be.</p>
+<p>I also noticed that one of the exercises' numbers was incorrect, in this case appearing duplicate. So instead of showing exercise <code>8.17</code> it was showing <code>8.18</code> when referring to problems from 8.17 section.</p>
+<h2>Looking how to contribute</h2>
+<p>So once I found what I could improve on the website, I looked at the project's <a href="https://github.com/scala-exercises/exercises-fpinscala/blob/master/CONTRIBUTING.md">contribution guidelines</a> and noticed that the process was fairly simple and there was no requirement for creating an issue before sending a pull request (PR).</p>
+<p>So I decided to create a pull request to it, one for each change since they address different concerns.</p>
+<p>I checked where the code I was supposed to change lived, so I could make the change. This was fairly easy because the page with the exercises had a link to the file on the respective repository that hosts the code. This was visible in an &quot;Edit exercises&quot; button at the bottom of the page, as well as a &quot;View on GitHub&quot; button on the top of the page. You can check the <a href="https://www.scala-exercises.org/fp_in_scala/property_based_testing">page I changes here</a>.</p>
+<h2>Contributing</h2>
+<p>I clicked the link, which took me to the file I need to change. At this point, I started the process of contributing. I <a href="https://docs.github.com/en/github/getting-started-with-github/fork-a-repo">forked the repository</a> - creating a copy of the repository on my GitHub account. Then since the changes were fairly simple, I did not have to <a href="https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository">clone the repository</a> to my development environment, I did the change using GitHub GUI (graphical user interface). There I edited the file then created the branch and committed the changes.</p>
+<p>After changing the code, I submitted the pull requests for my changes.</p>
+<ul>
+<li>Fix exercise 8.9 function name from &quot;\&quot; to &quot;||&quot; =&gt; <a href="https://github.com/scala-exercises/exercises-fpinscala/pull/55">scala-exercises/exercises-fpinscala/pull/55</a></li>
+<li>Fix wrong exercise number for Ch. 8 =&gt; <a href="https://github.com/scala-exercises/exercises-fpinscala/pull/57">scala-exercises/exercises-fpinscala/pull/57</a></li>
+</ul>
+<p>Eventually, one of the maintainers thanked me and merged my PRs. I also get to be in contributors mention in the page I changed :)</p>
+<hr>
+<p>So as you see, I fixed 2 typos that improved the content of the website. My change helped the page content be more clear, to someone using the project. I loved doing this contribution.</p>
+
+    ]]></content>
+  </entry>
+	
+  
+  <entry>
     <title>2020 Review</title>
     <link href="https://isabelcosta.github.io//posts/2020-review/"/>
     <updated>2021-02-28T00:00:00+00:00</updated>
