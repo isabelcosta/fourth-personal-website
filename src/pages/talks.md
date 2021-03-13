@@ -9,7 +9,7 @@ You can see the slides for my talks on [Speaker Deck](https://speakerdeck.com/is
 
 | Title | Where | Date | Notes |
 |-------|-------|------|-------|
-| Make the most out of your GitHub Profile | [International Women's Day Celebration at Coding Black Females](https://www.meetup.com/Coding-Black-Females/events/276154929) | 10 Mar '21 | --- |
+| Make the most out of your GitHub Profile | [International Women's Day Celebration at Coding Black Females](https://www.meetup.com/Coding-Black-Females/events/276154929) | 10 Mar '21 | [Video](https://youtu.be/7HWUAeO8v5U?t=2381) / [Slides](https://speakerdeck.com/isabelcmdcosta/make-the-most-out-of-your-github-profile) |
 | Why, Where and How to contribute to Open Source | [Talk A Bit](https://talkabit.org/) | 13 Feb '21 | [Video](https://youtu.be/AYt4iW1dkDU?t=572) |
 | Como e porquê começar a contribuir para OSS? | [Android Training Program - Aula #11 Resumo](https://events.withgoogle.com/atp2020/) | 16 Dec '20 | [Video](https://youtu.be/B_wAaBURt6w?t=5581) / PT language |
 | Dicas para manutenção de projetos open source | [Interruptor x Hacktoberfest](https://interruptor.pt/artigos/interruptor-x-hacktoberfest) | 24 Oct '20 | [Video](https://youtu.be/MQoZTcUsnlw?t=7413) / [Slides](https://speakerdeck.com/isabelcmdcosta/dicas-para-manutencao-de-projetos-open-source) / PT language |
