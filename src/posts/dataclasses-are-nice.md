@@ -50,7 +50,7 @@ for youtuber in youtubers:
 ```
 
 Let's put this all together in a file called `youtubers.py` and run it! You can copy it from this [GitHub gist I created](https://gist.github.com/isabelcosta/c14c4c9a4a098a17807e5bda2df92ac3). You should get this output:
-```bash
+```
 $ python youtubers.py  
 Chris Stuckmann's categories are: ['movie-reviews']
 Double Toasted's categories are: ['movie-reviews']
