@@ -18,7 +18,7 @@ class Youtuber:
         self.categories = categories
 ```
 
-Now we can use less boilerplate code to define classes. There is no need to install a separate python library, this will come with python standard library (as long as its > 3.7).
+Now we can use less boilerplate code to define classes. There is no need to install a separate python library, this will come with python standard library (as long as it is > 3.7).
 
 Here's how you can define these now:
 ```python
@@ -31,9 +31,9 @@ class Youtuber:
    categories: list[str]
 ```
 
-In this example above, I am importing it first `from dataclasses import dataclass` and then defining it. I created a class definition and used `@dataclass` annotation to tell to python how it shuold interpret this class definition.
+In this example above, I am importing it first `from dataclasses import dataclass` and then defining it. I created a class definition and used `@dataclass` annotation to tell python how it should interpret this class definition.
 
-Then I can create this in python, as I would do it anyways, regardless of using `@dataclass`:
+Then I can create this in python, as I would do it anyway, regardless of using `@dataclass`:
 ```python
 Youtuber("Chris Stuckmann", ["movie-reviews"])
 ```
