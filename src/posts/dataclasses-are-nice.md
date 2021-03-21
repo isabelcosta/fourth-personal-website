@@ -1,6 +1,7 @@
 ---
 title: Dataclasses in Python are nice!
 date: '2021-03-13'
+featured: true
 tags:
   - tech
   - python
