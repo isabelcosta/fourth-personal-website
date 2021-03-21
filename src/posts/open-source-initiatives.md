@@ -1,7 +1,6 @@
 ---
 title: Open Source programs and initiatives
 date: '2020-03-12'
-featured: true
 tags:
   - open-source
 ---
