@@ -9,7 +9,7 @@ You can see the slides for my talks on [Speaker Deck](https://speakerdeck.com/is
 
 | Title | Where | Date | Notes |
 |-------|-------|------|-------|
-| _untitled lightning talk_ | [Finding the Right Mentor - Coding Black Females](https://www.meetup.com/pt-BR/Coding-Black-Females/events/276994944/) | 7 Apr '21 | --- |
+| Being a mentor | [Finding the Right Mentor - Coding Black Females](https://www.meetup.com/pt-BR/Coding-Black-Females/events/276994944/) | 7 Apr '21 | [Video](https://youtu.be/n3TwhoeZFz4?t=2155) / Slides |
 | Make the most out of your GitHub Profile | [International Women's Day Celebration at Coding Black Females](https://www.meetup.com/Coding-Black-Females/events/276154929) | 10 Mar '21 | [Video](https://youtu.be/7HWUAeO8v5U?t=2381) / [Slides](https://speakerdeck.com/isabelcmdcosta/make-the-most-out-of-your-github-profile) |
 | Why, Where and How to contribute to Open Source | [Talk A Bit](https://talkabit.org/) | 13 Feb '21 | [Video](https://youtu.be/AYt4iW1dkDU?t=572) |
 | Como e porquê começar a contribuir para OSS? | [Android Training Program - Aula #11 Resumo](https://events.withgoogle.com/atp2020/) | 16 Dec '20 | [Video](https://youtu.be/B_wAaBURt6w?t=5581) / PT language |
