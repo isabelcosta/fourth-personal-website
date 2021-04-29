@@ -7,6 +7,43 @@ I enjoy talking about Open Source.
 
 You can see the slides for my talks on [Speaker Deck](https://speakerdeck.com/isabelcmdcosta).
 
+## 2021
+
+- 7 April | Being a mentor | [Finding the Right Mentor - Coding Black Females](https://www.meetup.com/pt-BR/Coding-Black-Females/events/276994944/) | [Video](https://youtu.be/n3TwhoeZFz4?t=2155) / [Slides](https://speakerdeck.com/isabelcmdcosta/being-a-mentor)
+- 10 March | Make the most out of your GitHub Profile | [International Women's Day Celebration at Coding Black Females](https://www.meetup.com/Coding-Black-Females/events/276154929) | [Video](https://youtu.be/7HWUAeO8v5U?t=2381) / [Slides](https://speakerdeck.com/isabelcmdcosta/make-the-most-out-of-your-github-profile) |
+- 13 February | Why, Where and How to contribute to Open Source | [Talk A Bit](https://talkabit.org/) | [Video](https://youtu.be/AYt4iW1dkDU?t=572) |
+
+
+## 2020
+
+- 16 December | Como e porquê começar a contribuir para OSS? | [Android Training Program - Aula #11 Resumo](https://events.withgoogle.com/atp2020/) | [Video](https://youtu.be/B_wAaBURt6w?t=5581) / PT language |
+- 24 October | Dicas para manutenção de projetos open source | [Interruptor x Hacktoberfest](https://interruptor.pt/artigos/interruptor-x-hacktoberfest) | [Video](https://youtu.be/MQoZTcUsnlw?t=7413) / [Slides](https://speakerdeck.com/isabelcmdcosta/dicas-para-manutencao-de-projetos-open-source) / PT language |
+- 17 October | [Contribuir para Open Source como colaborador e maintainer](https://www.meetup.com/gdglisbon/events/273746185/) | [Devfest Portugal](https://devfest.gdgportugal.xyz/) | [Video](https://youtu.be/-EFVDjDdeXw?t=6766) / [Slides](https://speakerdeck.com/isabelcmdcosta/contribuir-para-open-source-como-colaborador-e-maintainer) / PT language |
+- 15 October | [Contributing to open source as a contributor and a maintainer](https://www.meetup.com/virtualJUG/events/273369987/) | [vJUG](https://www.virtualjug.com) (Virtual Java User Group) | [Video](https://www.youtube.com/watch?v=FTL7kahHHBk) / [Slides](https://speakerdeck.com/isabelcmdcosta/contributing-to-open-source-as-a-contributor-and-maintainer) |
+- 8 October | À Conversa Com... Isabel Costa | [IEEE IST Student Branch](https://www.facebook.com/ieeeist/) | [Video](https://www.facebook.com/212991678724583/videos/367308757723629/?__so__=channel_tab&__rv__=all_videos_card) in Português :) |
+- 17 August | How documentation and open communication leads to better collaboration | [Ladies of Code (London) - Get Heard! Summer Short Talks](https://www.meetup.com/Ladies-of-Code-UK/events/272472641/) | [Video](https://youtu.be/KGG3PXYwKIE?t=1491) / [Slides](https://speakerdeck.com/isabelcmdcosta/how-documentation-and-open-communication-leads-to-better-collaboration) |
+- 16 August | Interview about Open Source | [Coding Black Females Podcast](https://codingblackfemales.com/podcast) | [Audio](https://anchor.fm/codingblackfemales/episodes/Isabel-Costa---Contributing-to-Open-Source-eiavh6) |
+- 8 July | My journey to contributing to Open Source | [Coding Black Females - Lightning Talks... Take One!](https://www.meetup.com/pt-BR/Coding-Black-Females/events/270991852/)| [Video](https://youtu.be/Wk5DqvY6Eww?t=4540) / [Slides](https://speakerdeck.com/isabelcmdcosta/my-journey-to-contribute-to-open-source) |
+- 2 June | Why, Where and How to contribute to Open Source | [JNation](https://2020.jnation.pt/) | [Video](https://youtu.be/-37he61LlDo?t=31704) / [Slides](https://speakerdeck.com/isabelcmdcosta/why-where-and-how-to-contribute-to-open-source-at-jnation) |
+- 15 May | Intro to Open Source | [AnitaB.org Community Webinar](https://community.anitab.org/event/intro-to-open-source/) | --- |
+
+## 2019
+
+- 7 December | Why, Where and How to contribute to Open Source | [GDG DevFest Lisbon](https://devfest.gdglisbon.xyz/) | [Slides](https://speakerdeck.com/isabelcmdcosta/why-where-and-how-to-contribute-to-open-source) |
+- 20 November | Open Source practices we can apply at work | Internally at GeoPhy | --- |
+- 14 June | Why, Where and How to contribute to Open Source | [Hopperx1 London](https://community.anitab.org/event/hopperx1-london/)
+- 25 April | Teach yourself programming | [AnitaB.org Community Webinar](https://community.anitab.org/event/anitab-org-community-webinar-teach-yourself-programming/)
+- 7 March | Journey as a Google Summer of Code student with Systers | [Systers TechTalks](http://www.cvent.com/events/systers-techtalks-journey-as-a-google-summer-of-code-student/event-summary-87be2bd07b694fc6ac41a63045b297b6.aspx) | [Video](https://www.youtube.com/watch?v=eL_dy64I13E) / [Slides](https://speakerdeck.com/isabelcmdcosta/journey-as-a-google-summer-of-code-student-with-systers) |
+- 24 February | Teach yourself programming | [AnitaB.org Community Webinar](https://community.anitab.org/event/anitab-org-community-webinar-teach-yourself-programming/)
+- 26 January | Doing Open Source as a Contributor and a Maintainer | [GDG Porto DevFest](https://devfest.gdgporto.xyz/) | [Slides](https://speakerdeck.com/isabelcmdcosta/doing-open-source-as-a-contributor-and-maintainer) |
+
+## 2018
+
+- 20 September | Getting Started with Open Source | [GDG Lisbon meetup](https://www.meetup.com/gdglisbon/events/254345727/) | [Slides](https://speakerdeck.com/isabelcmdcosta/getting-started-with-open-source) |
+- 12 August | Google Summer of Code Final Demo (Mentorship System) | [Systers GSoC 2018 Final Demos](https://www.youtube.com/playlist?list=PLhVJyXjT75i_T-F70O0DGfz_Fu9aBpnI6) | [Video](https://www.youtube.com/watch?v=xRZrdR47R-w) / [Slides](https://speakerdeck.com/isabelcmdcosta/mentorship-system-gsoc-2018) |
+
+## Table
+
 | Title | Where | Date | Notes |
 |-------|-------|------|-------|
 | Being a mentor | [Finding the Right Mentor - Coding Black Females](https://www.meetup.com/pt-BR/Coding-Black-Females/events/276994944/) | 7 Apr '21 | [Video](https://youtu.be/n3TwhoeZFz4?t=2155) / [Slides](https://speakerdeck.com/isabelcmdcosta/being-a-mentor) |
