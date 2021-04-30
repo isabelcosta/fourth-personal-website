@@ -1,6 +1,7 @@
 ---
 title: 👩🏾‍🏫 Talks I really like
 date: '2021-04-30'
+last_update: '2021-04-30'
 note: true
 tags:
   - misc
