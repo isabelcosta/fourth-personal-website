@@ -43,10 +43,18 @@ module.exports = function(config) {
   // Custom collections
 
   // All posts
-  const livePosts = post => post.date <= now && !post.data.draft;
+  const livePosts = post => post.date <= now && !post.data.draft && !post.data.note;
   config.addCollection('posts', collection => {
     return [
       ...collection.getFilteredByGlob('./src/posts/*.md').filter(livePosts)
+    ].reverse();
+  });
+
+  // Notes collections
+  const isNotes = post => post.data.note
+  config.addCollection('notes', collection => {
+    return [
+      ...collection.getFilteredByGlob('./src/posts/*.md').filter(isNotes)
     ].reverse();
   });
 
