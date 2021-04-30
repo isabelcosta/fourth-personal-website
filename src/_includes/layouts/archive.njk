@@ -8,10 +8,15 @@
 {% set postListHeading = 'All posts' %}
 {% set postListItems = collections.posts %}
 
+{# Notes list content #}
+{% set notesListHeading = 'All notes' %}
+{% set notesListItems = collections.notes %}
+
 {% block content %}
   <main id="main-content" tabindex="-1">
     {% include "partials/components/intro.njk" %}
     {% include "partials/components/tags-list.njk" %}
     {% include "partials/components/post-list.njk" %}
+    {% include "partials/components/notes-list.njk" %}
   </main>
 {% endblock %}

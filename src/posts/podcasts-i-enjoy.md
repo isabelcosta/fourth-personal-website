@@ -1,13 +1,14 @@
 ---
 title: 🎧 Podcasts I listen to
 date: '2020-07-25'
+note: true
 tags:
   - misc
 ---
 
 I usually listen to podcasts on Spotify. These are some of the podcasts I follow and listen to, more on the tech industry spectrum, whether discussing latest trends in tech industry or experiences in it.
 
-- [Techish podcast](http://www.techishpod.com/)
+- [Techish podcast](http://www.techishpod.com/) - I love this one
 - [Git Cute podcast](https://gitcutepodcast.com/)
 - [Coding Black Females podcast](https://codingblackfemales.com/podcast)
 - [Ladybug podcast](https://ladybug.dev)
