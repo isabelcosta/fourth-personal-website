@@ -272,31 +272,6 @@ Como <em>developer</em> de uma certa tech stack, eu posso pesquisar projectos qu
 	
   
   <entry>
-    <title>🎧 Podcasts I listen to</title>
-    <link href="https://isabelcosta.github.io//posts/podcasts-i-enjoy/"/>
-    <updated>2020-07-25T00:00:00+00:00</updated>
-    <id>https://isabelcosta.github.io//posts/podcasts-i-enjoy/</id>
-    <content type="html"><![CDATA[
-      <p>I usually listen to podcasts on Spotify. These are some of the podcasts I follow and listen to, more on the tech industry spectrum, whether discussing latest trends in tech industry or experiences in it.</p>
-<ul>
-<li><a href="http://www.techishpod.com/">Techish podcast</a></li>
-<li><a href="https://gitcutepodcast.com/">Git Cute podcast</a></li>
-<li><a href="https://codingblackfemales.com/podcast">Coding Black Females podcast</a></li>
-<li><a href="https://ladybug.dev">Ladybug podcast</a></li>
-<li><a href="https://www.codenewbie.org/podcast">CodeNewbie podcast</a></li>
-<li><a href="https://podcasts.apple.com/ca/podcast/sauce-control/id1527090126">Sauce Control</a></li>
-<li><a href="https://www.hanselminutes.com/">Hanselminutes podcast</a></li>
-<li><a href="https://softskills.audio/">Soft Skills engineering</a></li>
-<li><a href="https://saharmandi.com/podcast/">Speak Up and Lead with Sahar Mandi</a></li>
-<li><a href="https://podcasts.apple.com/us/podcast/tech-unlocked/id1488455514">Tech Unlocke‪d‬</a></li>
-</ul>
-<p><em>This post might be update from time to time, either I'll add new podcasts or add description to the podcasts I love.</em></p>
-
-    ]]></content>
-  </entry>
-	
-  
-  <entry>
     <title>Deploying Mentorship Backend flask app on Heroku</title>
     <link href="https://isabelcosta.github.io//posts/deploy-ms-to-heroku/"/>
     <updated>2020-06-27T00:00:00+00:00</updated>

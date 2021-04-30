@@ -108,9 +108,30 @@ if(frame.topLevel) {
 context.addExport("postListItems", t_7);
 }
 output += "\n\n";
-(parentTemplate ? function(e, c, f, r, cb) { cb(""); } : context.getBlock("content"))(env, context, frame, runtime, function(t_9,t_8) {
-if(t_9) { cb(t_9); return; }
-output += t_8;
+output += "\n";
+var t_8;
+t_8 = "All notes";
+frame.set("notesListHeading", t_8, true);
+if(frame.topLevel) {
+context.setVariable("notesListHeading", t_8);
+}
+if(frame.topLevel) {
+context.addExport("notesListHeading", t_8);
+}
+output += "\n";
+var t_9;
+t_9 = runtime.memberLookup((runtime.contextOrFrameLookup(context, frame, "collections")),"notes");
+frame.set("notesListItems", t_9, true);
+if(frame.topLevel) {
+context.setVariable("notesListItems", t_9);
+}
+if(frame.topLevel) {
+context.addExport("notesListItems", t_9);
+}
+output += "\n\n";
+(parentTemplate ? function(e, c, f, r, cb) { cb(""); } : context.getBlock("content"))(env, context, frame, runtime, function(t_11,t_10) {
+if(t_11) { cb(t_11); return; }
+output += t_10;
 output += "\n";
 if(parentTemplate) {
 parentTemplate.rootRenderFunc(env, context, frame, runtime, cb);
@@ -123,7 +144,7 @@ cb(null, output);
 }
 }
 function b_content(env, context, frame, runtime, cb) {
-var lineno = 10;
+var lineno = 14;
 var colno = 3;
 var output = "";
 try {
@@ -132,35 +153,35 @@ output += "\n  <main id=\"main-content\" tabindex=\"-1\">\n    ";
 var tasks = [];
 tasks.push(
 function(callback) {
-env.getTemplate("partials/components/intro.njk", false, "layouts/archive.njk", false, function(t_11,t_10) {
-if(t_11) { cb(t_11); return; }
-callback(null,t_10);});
-});
-tasks.push(
-function(template, callback){
-template.render(context.getVariables(), frame, function(t_13,t_12) {
+env.getTemplate("partials/components/intro.njk", false, "layouts/archive.njk", false, function(t_13,t_12) {
 if(t_13) { cb(t_13); return; }
 callback(null,t_12);});
 });
 tasks.push(
-function(result, callback){
-output += result;
-callback(null);
-});
-env.waterfall(tasks, function(){
-output += "\n    ";
-var tasks = [];
-tasks.push(
-function(callback) {
-env.getTemplate("partials/components/tags-list.njk", false, "layouts/archive.njk", false, function(t_15,t_14) {
+function(template, callback){
+template.render(context.getVariables(), frame, function(t_15,t_14) {
 if(t_15) { cb(t_15); return; }
 callback(null,t_14);});
 });
 tasks.push(
-function(template, callback){
-template.render(context.getVariables(), frame, function(t_17,t_16) {
+function(result, callback){
+output += result;
+callback(null);
+});
+env.waterfall(tasks, function(){
+output += "\n    ";
+var tasks = [];
+tasks.push(
+function(callback) {
+env.getTemplate("partials/components/tags-list.njk", false, "layouts/archive.njk", false, function(t_17,t_16) {
 if(t_17) { cb(t_17); return; }
 callback(null,t_16);});
+});
+tasks.push(
+function(template, callback){
+template.render(context.getVariables(), frame, function(t_19,t_18) {
+if(t_19) { cb(t_19); return; }
+callback(null,t_18);});
 });
 tasks.push(
 function(result, callback){
@@ -172,15 +193,35 @@ output += "\n    ";
 var tasks = [];
 tasks.push(
 function(callback) {
-env.getTemplate("partials/components/post-list.njk", false, "layouts/archive.njk", false, function(t_19,t_18) {
-if(t_19) { cb(t_19); return; }
-callback(null,t_18);});
+env.getTemplate("partials/components/post-list.njk", false, "layouts/archive.njk", false, function(t_21,t_20) {
+if(t_21) { cb(t_21); return; }
+callback(null,t_20);});
 });
 tasks.push(
 function(template, callback){
-template.render(context.getVariables(), frame, function(t_21,t_20) {
-if(t_21) { cb(t_21); return; }
-callback(null,t_20);});
+template.render(context.getVariables(), frame, function(t_23,t_22) {
+if(t_23) { cb(t_23); return; }
+callback(null,t_22);});
+});
+tasks.push(
+function(result, callback){
+output += result;
+callback(null);
+});
+env.waterfall(tasks, function(){
+output += "\n    ";
+var tasks = [];
+tasks.push(
+function(callback) {
+env.getTemplate("partials/components/notes-list.njk", false, "layouts/archive.njk", false, function(t_25,t_24) {
+if(t_25) { cb(t_25); return; }
+callback(null,t_24);});
+});
+tasks.push(
+function(template, callback){
+template.render(context.getVariables(), frame, function(t_27,t_26) {
+if(t_27) { cb(t_27); return; }
+callback(null,t_26);});
 });
 tasks.push(
 function(result, callback){
@@ -190,7 +231,7 @@ callback(null);
 env.waterfall(tasks, function(){
 output += "\n  </main>\n";
 cb(null, output);
-})})});
+})})})});
 } catch (e) {
   cb(runtime.handleError(e, lineno, colno));
 }
@@ -1965,6 +2006,65 @@ output += "</a>\n        </li>\n      ";
 }
 frame = frame.pop();
 output += "\n    </ul>\n  </nav>\n";
+;
+}
+output += "\n";
+if(parentTemplate) {
+parentTemplate.rootRenderFunc(env, context, frame, runtime, cb);
+} else {
+cb(null, output);
+}
+;
+} catch (e) {
+  cb(runtime.handleError(e, lineno, colno));
+}
+}
+return {
+root: root
+};
+
+})();
+})();
+(function() {(window.nunjucksPrecompiled = window.nunjucksPrecompiled || {})["partials/components/notes-list.njk"] = (function() {
+function root(env, context, frame, runtime, cb) {
+var lineno = 0;
+var colno = 0;
+var output = "";
+try {
+var parentTemplate = null;
+if(runtime.memberLookup((runtime.contextOrFrameLookup(context, frame, "notesListItems")),"length")) {
+output += "\n  <section class=\"[ post-list ] [ pad-top-700 gap-bottom-900 ]\">\n    <div class=\"[ inner-wrapper ] [ sf-flow ]\">\n      <h2 class=\"[ post-list__heading ] [ text-700 md:text-800 ]\">";
+output += runtime.suppressValue(runtime.contextOrFrameLookup(context, frame, "notesListHeading"), env.opts.autoescape);
+output += "</h2>\n      <ol class=\"[ post-list__items ] [ sf-flow ] [ pad-top-300 ]\" reversed>\n        ";
+frame = frame.push();
+var t_3 = runtime.contextOrFrameLookup(context, frame, "notesListItems");
+if(t_3) {t_3 = runtime.fromIterator(t_3);
+var t_2 = t_3.length;
+for(var t_1=0; t_1 < t_3.length; t_1++) {
+var t_4 = t_3[t_1];
+frame.set("item", t_4);
+frame.set("loop.index", t_1 + 1);
+frame.set("loop.index0", t_1);
+frame.set("loop.revindex", t_2 - t_1);
+frame.set("loop.revindex0", t_2 - t_1 - 1);
+frame.set("loop.first", t_1 === 0);
+frame.set("loop.last", t_1 === t_2 - 1);
+frame.set("loop.length", t_2);
+output += "\n          ";
+if((lineno = 6, colno = 33, runtime.callWrap(runtime.memberLookup((runtime.memberLookup((t_4),"date")),"getTime"), "item[\"date\"][\"getTime\"]", context, [])) <= runtime.memberLookup((runtime.contextOrFrameLookup(context, frame, "global")),"now")) {
+output += "\n            <li class=\"post-list__item\">\n              <h3 class=\"font-base leading-tight text-500 weight-mid\">\n                <a href=\"";
+output += runtime.suppressValue(runtime.memberLookup((t_4),"url"), env.opts.autoescape);
+output += "\" class=\"post-list__link\" rel=\"bookmark\">";
+output += runtime.suppressValue(runtime.memberLookup((runtime.memberLookup((t_4),"data")),"title"), env.opts.autoescape);
+output += "</a>\n              </h3>\n            </li>\n          ";
+;
+}
+output += "\n        ";
+;
+}
+}
+frame = frame.pop();
+output += "\n      </ol>\n    </div>\n  </section>\n";
 ;
 }
 output += "\n";
