@@ -13,12 +13,12 @@
 
 {# Archive link #}
 {% if postListItems.length < collections.posts.length %} 
-  {% set paginationNextText = archiveButtonText %}
-  {% set paginationNextUrl = '/archive' %}
+  {% set paginationNextText = 'all posts' %}
+  {% set paginationNextUrl = '/posts' %}
 {% endif %}
 
 {# Featured talks list content #}
-{% set featuredTalksText = 'See all talks' %}
+{% set featuredTalksText = 'all talks' %}
 {% set featuredTalksUrl = '/talks' %}
 {% set featuredTalksHeading = 'Featured talks' %}
 {% set featuredTalksItems = collections.featuredTalks %}
