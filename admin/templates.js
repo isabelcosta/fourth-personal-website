@@ -597,7 +597,7 @@ output += "\n";
 if(runtime.memberLookup((runtime.contextOrFrameLookup(context, frame, "postListItems")),"length") < runtime.memberLookup((runtime.memberLookup((runtime.contextOrFrameLookup(context, frame, "collections")),"posts")),"length")) {
 output += " \n  ";
 var t_12;
-t_12 = runtime.contextOrFrameLookup(context, frame, "archiveButtonText");
+t_12 = "all posts";
 frame.set("paginationNextText", t_12, true);
 if(frame.topLevel) {
 context.setVariable("paginationNextText", t_12);
@@ -607,7 +607,7 @@ context.addExport("paginationNextText", t_12);
 }
 output += "\n  ";
 var t_13;
-t_13 = "/archive";
+t_13 = "/posts";
 frame.set("paginationNextUrl", t_13, true);
 if(frame.topLevel) {
 context.setVariable("paginationNextUrl", t_13);
@@ -621,7 +621,7 @@ output += "\n";
 output += "\n\n";
 output += "\n";
 var t_14;
-t_14 = "See all talks";
+t_14 = "all talks";
 frame.set("featuredTalksText", t_14, true);
 if(frame.topLevel) {
 context.setVariable("featuredTalksText", t_14);
