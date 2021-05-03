@@ -2,7 +2,7 @@
 title: Images of People of Color for content creation
 date: '2020-05-27'
 tags:
-  - blog
+  - misc
 ---
 
 ![#WOCinTech Chat](/images/woc-in-tech-chat-1.jpeg)

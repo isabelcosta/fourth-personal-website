@@ -2,7 +2,7 @@
 title: Inspirational tweets for Blogging
 date: '2018-02-06'
 tags:
-  - blog
+  - misc
 ---
 
 ![Credits to [#WOCinTech Chat photos](https://www.flickr.com/photos/wocintechchat/) — [wocnintechchat.com](http://wocnintechchat.com)](/images/woc-in-tech-chat-2.jpeg)

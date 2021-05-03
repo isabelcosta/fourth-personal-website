@@ -2,7 +2,7 @@
 title: Overcoming shyness at my first meetup alone
 date: '2017-11-22'
 tags:
-  - events
+  - misc
 ---
 
 ![](/images/shy-dog.jpeg)
