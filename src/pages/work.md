@@ -10,7 +10,7 @@ You can see my **open sourced projects** on [GitHub](https://github.com/isabelco
 - [👐🏾 Volunteer work](#heading-volunteer-work)
 - [🚧 Projects](#heading-projects)
     - [Mentorship System](#heading-mentorship-system)
-    - [PREMIUM - Private Reactive Multipath Communication Middleware (MSc Thesis)](#heading-premium-private-reactive-multipath-communication-middleware-(msc-thesis))
+    - [PREMIUM (MSc Thesis)](#heading-premium-private-reactive-multipath-communication-middleware-(msc-thesis))
     - [Personal Website](#heading-personal-website)
     - [Smart Home Android app](#heading-smart-home-android-app)
     - [Movies Android App](#heading-moviesapp)
@@ -26,14 +26,16 @@ You can see my **open sourced projects** on [GitHub](https://github.com/isabelco
 
 ## 👐🏾 Volunteer work
 
-- **Aug, 2020 - Now:** Mentor at [Black Codher](https://blackcodher.com/) bootcamp;
-- **Mar, 2018 - Now:** Contributor and Maintainer at Systers Open Source Community;
-- **Jul, 2019 - Dec, 2020:** Community Leader for AnitaB.org London chapter;
-- **Feb, 2020 - Aug, 2020:** Google Summer of Code admin at AnitaB.org Open Source;
-- **Nov, 2019 - Jan, 2020:** Google Code-in mentor at Systers Community;
-- **Oct, 2019:** GHC Open Source Day remote mentor;
-- **May, 2019 - June, 2019:** Hopperx1 London - Track Committee Co Chair for Open Source;
-- **Sep, 2018:** GHC Open Source Day Systers Representative.
+- **Feb, 2020 - Now:** Admin at [AnitaB.org Open Source](https://github.com/anitab-org);
+- **Mar, 2018 - Now:** Contributor and Maintainer at AnitaB.org Open Source;
+- **Aug, 2020 - Feb, 2021:** Mentor at [Black Codher](https://blackcodher.com/) bootcamp;
+- **Jul, 2019 - Dec, 2020:** Community Leader for [AnitaB.org London](https://community.anitab.org/) chapter;
+- **Sep, 2020:** [vGHC](https://ghc.anitab.org/) - Community Volunteer;
+- **Feb, 2020 - Aug, 2020:** [Google Summer of Code](https://summerofcode.withgoogle.com/) admin at AnitaB.org Open Source;
+- **Nov, 2019 - Jan, 2020:** [Google Code-in](https://codein.withgoogle.com/) mentor at Systers Community;
+- **Oct, 2019:** [GHC](https://ghc.anitab.org/) Open Source Day remote mentor;
+- **May, 2019 - June, 2019:** [Hopperx1 London](https://community.anitab.org/event/hopperx1-london/) - Track Committee Co Chair for Open Source;
+- **Sep, 2018:** [GHC](https://ghc.anitab.org/) Open Source Day Systers Representative.
 
 I also do [public speaking](/talks/) and [blogging](/posts/).
 
