@@ -9,6 +9,7 @@ You can see the slides for my talks on [Speaker Deck](https://speakerdeck.com/is
 
 | Title | Where | Date | Notes |
 |-------|-------|------|-------|
+| Make the Most Out of Your GitHub Profile | [Women Who Code CONNECT REIMAGINE](https://connectreimagine.womenwhocode.dev/) | 11 Jun '21 | --- |
 | Being a mentor | [Finding the Right Mentor - Coding Black Females](https://www.meetup.com/pt-BR/Coding-Black-Females/events/276994944/) | 7 Apr '21 | [Video](https://youtu.be/n3TwhoeZFz4?t=2155) / [Slides](https://speakerdeck.com/isabelcmdcosta/being-a-mentor) |
 | Make the most out of your GitHub Profile | [International Women's Day Celebration at Coding Black Females](https://www.meetup.com/Coding-Black-Females/events/276154929) | 10 Mar '21 | [Video](https://youtu.be/7HWUAeO8v5U?t=2381) / [Slides](https://speakerdeck.com/isabelcmdcosta/make-the-most-out-of-your-github-profile) |
 | Why, Where and How to contribute to Open Source | [Talk A Bit](https://talkabit.org/) | 13 Feb '21 | [Video](https://youtu.be/AYt4iW1dkDU?t=572) |
