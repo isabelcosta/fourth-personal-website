@@ -10,7 +10,7 @@ permalink: /about/index.html
 
 I'm Isabel, a **Software Engineer** from Portugal 🇵🇹. I enjoy giving back to the community by helping people get started with **Open Source** and in tech through **mentorship**.
 
-I'm currently working as a Software Engineer at Globality in the UK. I'm focused on backend engineering using Python 🐍. Previously, I did a little bit of full stack, backend, and android development.
+I'm currently working as a Software Engineer at Globality in the UK. I'm focused on backend engineering. Previously, I did a little bit of full stack, backend, and android development.
 
 I’m also an admin at [AnitaB.org Open Source](https://github.com/anitab-org) community and help maintain its projects including both backend and android repositories of the Mentorship System. What I’ve been enjoying the most about being a maintainer is to manage the project contributions and, at the same time, help newcomers making their first contribution to open source, while providing a safe environment for them to learn, with the help from the community.
 
