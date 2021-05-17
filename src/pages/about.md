@@ -8,7 +8,7 @@ permalink: /about/index.html
 
 ### Olá 👋🏾
 
-I'm Isabel, a Software Engineer from Portugal. I enjoy giving back to the community by helping people get started with open source and in tech through mentoring.
+I'm Isabel, a **Software Engineer** from Portugal 🇵🇹. I enjoy giving back to the community by helping people get started with **Open Source** and in tech through **mentorship**.
 
 I'm currently working as a Software Engineer at Globality in the UK. I'm focused on backend engineering using Python 🐍. Previously, I did a little bit of full stack, backend, and android development.
 
