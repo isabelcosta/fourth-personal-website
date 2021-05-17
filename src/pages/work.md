@@ -4,10 +4,10 @@ title: Work
 permalink: /work/index.html
 ---
 
-You can see my **open sourced projects** on [GitHub](https://github.com/isabelcosta) and my **professional experience** on [LinkedIn](https://www.linkedin.com/in/isabelcmdcosta).
+You can see my **open source projects** on [GitHub](https://github.com/isabelcosta) and my **professional experience** on [LinkedIn](https://www.linkedin.com/in/isabelcmdcosta).
 
 - [👩🏾‍💻 Professional](#heading-professional)
-- [👐🏾 Volunteer work](#heading-volunteer-work)
+- [👐🏾 Volunteer](#heading-volunteer)
 - [🚧 Projects](#heading-projects)
     - [Mentorship System](#heading-mentorship-system)
     - [PREMIUM (MSc Thesis)](#heading-premium-private-reactive-multipath-communication-middleware-(msc-thesis))
@@ -24,7 +24,7 @@ You can see my **open sourced projects** on [GitHub](https://github.com/isabelco
 - **Feb, 2016 - Apr, 2018:** Android Developer at Innovation Makers;
 - **Jul, 2015 - Sep, 2015:** Software Engineering intern at Uniplaces.
 
-## 👐🏾 Volunteer work
+## 👐🏾 Volunteer
 
 - **Feb, 2020 - Now:** Admin at [AnitaB.org Open Source](https://github.com/anitab-org);
 - **Mar, 2018 - Now:** Contributor and Maintainer at AnitaB.org Open Source;
