@@ -27,10 +27,12 @@ You can see my **open source projects** on [GitHub](https://github.com/isabelcos
 ## 👐🏾 Volunteer
 
 - **Feb, 2020 - Now:** Admin at [AnitaB.org Open Source](https://github.com/anitab-org);
-- **Mar, 2018 - Now:** Contributor and Maintainer at AnitaB.org Open Source;
+- **Mar, 2018 - Now:** Contributor and Maintainer at [AnitaB.org Open Source](https://github.com/anitab-org);
+- **Apr, 2021 - Now:** Mentor at [As Raparigas de Codigo](https://raparigasdocodigo.pt/);
+- **May, 2021:** Panelist on Entry Level/Aspiring Technologist Networking lounge at [vGHC EMEA](https://ghc.anitab.org/ghc-emea-home);
 - **Aug, 2020 - Feb, 2021:** Mentor at [Black Codher](https://blackcodher.com/) bootcamp;
 - **Jul, 2019 - Dec, 2020:** Community Leader for [AnitaB.org London](https://community.anitab.org/) chapter;
-- **Sep, 2020:** [vGHC](https://ghc.anitab.org/) - Community Volunteer;
+- **Sep, 2020:** [vGHC](https://ghc.anitab.org/) Community Moderator at Networking Sessions; 
 - **Feb, 2020 - Aug, 2020:** [Google Summer of Code](https://summerofcode.withgoogle.com/) admin at AnitaB.org Open Source;
 - **Nov, 2019 - Jan, 2020:** [Google Code-in](https://codein.withgoogle.com/) mentor at Systers Community;
 - **Oct, 2019:** [GHC](https://ghc.anitab.org/) Open Source Day remote mentor;
