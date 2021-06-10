@@ -17,6 +17,7 @@ I find these opportunities via multiple sources:
 * Speaking invitations
 
 ## Aggregated newsletters
+
 The main way I get to learn about conferences with open CFPs is through aggregated newsletters. I am subscribed to newsletters that are about public speaking or at least have sections about speaking opportunities.
 
 The main sources of speaking opportunities I follow are:
@@ -38,7 +39,7 @@ Some of the conferences I am subscribed to are:
 
 I am part of some meetup groups where they’re usually very welcoming to having people from the community share knowledge through talks. These are great opportunities to get into public speaking.
 
-So if you think of meetups you are already a part of, they might have opportunities for your to speak.
+So if you think of meetups you are already a part of, they might have opportunities for your to speak. The first public talk I have done, was at a meetup - [Google Developer Group Lisboa](https://gdg.community.dev/gdg-lisboa/), where the organizers encouraged me constantly to share my knowledge. When I had something to talk about I reached out to them and they set up [a meetup for me to speak about Open Source](https://www.meetup.com/gdglisbon/events/254345727/). 
 
 Here’s some communities I know that are usually open for having community members present and sharing their knowledge.
 
