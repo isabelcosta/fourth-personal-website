@@ -10,7 +10,7 @@ You can find the slides for my talks on [Speaker Deck](https://speakerdeck.com/i
 | Title | Where | Date | Notes |
 |-------|-------|------|-------|
 | Como contribuir para Open Source | [Geek Girls Portugal](https://www.eventbrite.pt/e/bilhetes-g2pt94-94o-geek-girls-portugal-online-157944302661) | 16 Jun '21 | --- |
-| Make the Most Out of Your GitHub Profile | [Women Who Code CONNECT REIMAGINE](https://connectreimagine.womenwhocode.dev/) | 11 Jun '21 | --- |
+| Make the Most Out of Your GitHub Profile | [Women Who Code CONNECT REIMAGINE](https://connectreimagine.womenwhocode.dev/) | 11 Jun '21 | [Slides](https://speakerdeck.com/isabelcmdcosta/make-the-most-out-of-your-github-profile-at-connect-reimagine) |
 | What is it like to be an open source maintainer in 2021: A discussion of the Tidelift maintainer survey highlights (Panel) | [Upstream](https://upstream.live/) | 7 Jun '21 | --- |
 | Managing a beginner friendly open source community | [Upstream](https://upstream.live/) | 7 Jun '21 | --- |
 | Being a mentor | [Finding the Right Mentor - Coding Black Females](https://www.meetup.com/pt-BR/Coding-Black-Females/events/276994944/) | 7 Apr '21 | [Video](https://youtu.be/n3TwhoeZFz4?t=2155) / [Slides](https://speakerdeck.com/isabelcmdcosta/being-a-mentor) |
