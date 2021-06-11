@@ -15,6 +15,42 @@
 	
   
   <entry>
+    <title>How Open Source Hack helps our community and its projects</title>
+    <link href="https://isabelcosta.github.io//posts/benefits-osh-for-our-community/"/>
+    <updated>2021-06-11T00:00:00+00:00</updated>
+    <id>https://isabelcosta.github.io//posts/benefits-osh-for-our-community/</id>
+    <content type="html"><![CDATA[
+      <p>At <a href="https://github.com/anitab-org">AnitaB.org Open Source</a> we recently had the second version of <a href="https://anitab-org.github.io/events/open-source-hack/">Open Source Hack (OSH)</a>, a program, originally created by <a href="https://www.linkedin.com/in/mayswinterz/">May Winterz</a>.</p>
+<p>Open Source Hack is a 1-month long program where we have issues of all types of open source contributions (e.g.: coding, quality assurance, documentation, design, etc...) available to participants to work on.
+We select a few projects so that we can focus our efforts on them while preparing the tasks. We label issues as “Open Source Hack” so participants know where to focus on.</p>
+<p>So far I’ve seen 4 benefits of this program:</p>
+<ul>
+<li>Brainstorm new issues</li>
+<li>Promote all kinds of open source contributions</li>
+<li>Promote less popular projects</li>
+<li>Provide an environment where contributors can get mentorship</li>
+</ul>
+<h2>Brainstorm new issues</h2>
+<p>In the weeks leading to the program, part of mentors’ responsibilities is to come up with ideas for new issues for the projects.</p>
+<p>So imagine, we might have 1 or 2 maintainers who can come up with issues, but mentors will help to come with a fresh perspective to the potential improvements our projects could have.</p>
+<p>When I participated in <a href="https://codein.withgoogle.com/">Google Code-in</a> back in 2019, I experienced the same, where I was the sole maintainer of the mentorship system project, and the mentors would come with great ideas for the project I had not thought of.</p>
+<h2>Promote all kinds of open source contributions</h2>
+<p>A very important aspect of this program is that our issues have to be part of multiple categories: Documentation, Outreach/Research, Quality Assurance, Coding, and Design. These are categories inspired by <a href="https://codein.withgoogle.com/">Google Code-in</a> contest (that wrapped up in early 2020).</p>
+<p>So when mentors come up with ideas for issues, we have special attention that we have a good distribution of issues per those categories. This helps massively making contributors aware of other valid contributions they can make to our projects.</p>
+<h2>Promote less popular projects</h2>
+<p>With OSH, we can put some focus on projects we have that are less popular in our community. Popular here means that it has fewer contributors than our most active repositories.</p>
+<p>We are able to focus efforts on creating new issues and leading more contributors to those projects, and get them a little more attention from the community.</p>
+<h2>Provide an environment where contributors can get mentorship</h2>
+<p>Another important aspect of this is the mentors! We have specific people that come and help during such programs, and commit to reviewing pull requests (PRs) and answer contributors' questions and doubts. The majority of the mentors are not maintainers of the projects.</p>
+<p>So during this program, we have mentors that will help OSH participants solve issues and get their work reviewed and merged. This also provides a beginner-friendly and safe space for newcomers to Open Source, to learn and try out contributions. We often get contributors that are complete beginners in contributing to Open Source.</p>
+<hr>
+<p>Managing these types of programs can involve a lot of admin work in preparation and, call for mentors and participants, but it can definitely have great benefits for our projects and community members.</p>
+
+    ]]></content>
+  </entry>
+	
+  
+  <entry>
     <title>How I find Public Speaking Opportunities</title>
     <link href="https://isabelcosta.github.io//posts/find-speaking-opportunities/"/>
     <updated>2021-06-10T00:00:00+00:00</updated>
