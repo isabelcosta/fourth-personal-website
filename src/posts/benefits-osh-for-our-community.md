@@ -4,6 +4,7 @@ date: '2021-06-11'
 tags:
   - open-source
 description: In this post, I'll describe 4 benefits Open Source Hack program has for AnitaB.org Open Source community.
+medium: https://medium.com/anitab-org-open-source/how-open-source-hack-helps-our-community-and-its-projects-e035a9509a7a
 ---
 
 At [AnitaB.org Open Source](https://github.com/anitab-org) we recently had the second version of [Open Source Hack (OSH)](https://anitab-org.github.io/events/open-source-hack/), a program, originally created by [May Winterz](https://www.linkedin.com/in/mayswinterz/).
