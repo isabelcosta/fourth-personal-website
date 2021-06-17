@@ -574,7 +574,7 @@ context.addExport("introSummary", t_5);
 output += "\n\n";
 output += "\n";
 var t_10;
-t_10 = runtime.contextOrFrameLookup(context, frame, "postsHeading");
+t_10 = "Posts";
 frame.set("postListHeading", t_10, true);
 if(frame.topLevel) {
 context.setVariable("postListHeading", t_10);
@@ -621,33 +621,33 @@ output += "\n";
 output += "\n\n";
 output += "\n";
 var t_14;
-t_14 = "all talks";
-frame.set("featuredTalksText", t_14, true);
+t_14 = "Talks";
+frame.set("featuredTalksHeading", t_14, true);
 if(frame.topLevel) {
-context.setVariable("featuredTalksText", t_14);
+context.setVariable("featuredTalksHeading", t_14);
 }
 if(frame.topLevel) {
-context.addExport("featuredTalksText", t_14);
+context.addExport("featuredTalksHeading", t_14);
 }
 output += "\n";
 var t_15;
-t_15 = "/talks";
-frame.set("featuredTalksUrl", t_15, true);
+t_15 = "all talks";
+frame.set("featuredTalksText", t_15, true);
 if(frame.topLevel) {
-context.setVariable("featuredTalksUrl", t_15);
+context.setVariable("featuredTalksText", t_15);
 }
 if(frame.topLevel) {
-context.addExport("featuredTalksUrl", t_15);
+context.addExport("featuredTalksText", t_15);
 }
 output += "\n";
 var t_16;
-t_16 = "Featured talks";
-frame.set("featuredTalksHeading", t_16, true);
+t_16 = "/talks";
+frame.set("featuredTalksUrl", t_16, true);
 if(frame.topLevel) {
-context.setVariable("featuredTalksHeading", t_16);
+context.setVariable("featuredTalksUrl", t_16);
 }
 if(frame.topLevel) {
-context.addExport("featuredTalksHeading", t_16);
+context.addExport("featuredTalksUrl", t_16);
 }
 output += "\n";
 var t_17;
