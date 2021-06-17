@@ -2,8 +2,6 @@
 layout: home
 title: Olá 👋🏾
 metaDesc: Isabel Costa is a Software Engineer from Portugal and this is her website.
-postsHeading: Featured posts
-archiveButtonText: See all posts
 socialImage: ""
 ---
 I'm Isabel, a Software Engineer from Portugal 🇵🇹, currently working at [Globality](https://www.globality.com/) in London, UK 🇬🇧.

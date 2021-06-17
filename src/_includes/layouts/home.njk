@@ -8,7 +8,7 @@
 {% endset %}
 
 {# Post list content #}
-{% set postListHeading = postsHeading %}
+{% set postListHeading = 'Posts' %}
 {% set postListItems = collections.featuredPosts %}
 
 {# Archive link #}
@@ -18,9 +18,9 @@
 {% endif %}
 
 {# Featured talks list content #}
+{% set featuredTalksHeading = 'Talks' %}
 {% set featuredTalksText = 'all talks' %}
 {% set featuredTalksUrl = '/talks' %}
-{% set featuredTalksHeading = 'Featured talks' %}
 {% set featuredTalksItems = collections.featuredTalks %}
 
 {% block content %}
