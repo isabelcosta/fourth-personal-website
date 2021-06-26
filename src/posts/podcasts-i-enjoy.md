@@ -11,6 +11,8 @@ I usually listen to podcasts on Spotify. These are some of the podcasts I follow
 
 - [Techish podcast](http://www.techishpod.com/) - I love this one
 - [Git Cute podcast](https://gitcutepodcast.com/)
+- [How to be a STEMinist](https://podcast.tiffanydawson.co/)
+- [The Backend Engineering Show](https://www.husseinnasser.com/p/podcast.html)
 - [Coding Black Females podcast](https://codingblackfemales.com/podcast)
 - [Ladybug podcast](https://ladybug.dev)
 - [CodeNewbie podcast](https://www.codenewbie.org/podcast)
