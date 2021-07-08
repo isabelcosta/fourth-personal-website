@@ -9,6 +9,7 @@ You can find the slides for my talks on [Speaker Deck](https://speakerdeck.com/i
 
 | Title | Where | Date | Notes |
 |-------|-------|------|-------|
+| "Demystifying Tech" Panel | [Academy](https://academy.tech/) | 8 Jul '21 | --- |
 | Como contribuir para Open Source | [Geek Girls Portugal](http://geekgirlsportugal.pt/) | 16 Jun '21 | [Slides](https://speakerdeck.com/isabelcmdcosta/como-contribuir-para-open-source-at-geekgirlsportugal) / 🇵🇹 |
 | Make the Most Out of Your GitHub Profile | [Women Who Code CONNECT REIMAGINE](https://connectreimagine.womenwhocode.dev/) | 11 Jun '21 | [Slides](https://speakerdeck.com/isabelcmdcosta/make-the-most-out-of-your-github-profile-at-connect-reimagine) |
 | What is it like to be an open source maintainer in 2021: A discussion of the Tidelift maintainer survey highlights (Panel) | [Upstream](https://upstream.live/) | 7 Jun '21 | [Video](https://www.youtube.com/watch?v=v7Jh-lU3s1M) |
