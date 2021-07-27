@@ -9,7 +9,7 @@ You can find the slides for my talks on [Speaker Deck](https://speakerdeck.com/i
 
 | Title | At | Date | Notes |
 |-------|-------|------|-------|
-| [How to Get into Open Source](https://www.meetup.com/Women-Who-Code-London/events/279004155/) | [Women of Code London](https://www.meetup.com/Women-Who-Code-London) | 27 Jul '21 | --- |
+| [How to Get into Open Source](https://www.meetup.com/Women-Who-Code-London/events/279004155/) | [Women of Code London](https://www.meetup.com/Women-Who-Code-London) | 27 Jul '21 | [Slides](https://speakerdeck.com/isabelcmdcosta/how-to-get-into-open-source) |
 | "Demystifying Tech" Panel | [Academy](https://academy.tech/) | 8 Jul '21 | --- |
 | Como contribuir para Open Source | [Geek Girls Portugal](http://geekgirlsportugal.pt/) | 16 Jun '21 | [Slides](https://speakerdeck.com/isabelcmdcosta/como-contribuir-para-open-source-at-geekgirlsportugal) / 🇵🇹 |
 | Make the Most Out of Your GitHub Profile | [Women Who Code CONNECT REIMAGINE](https://connectreimagine.womenwhocode.dev/) | 11 Jun '21 | [Slides](https://speakerdeck.com/isabelcmdcosta/make-the-most-out-of-your-github-profile-at-connect-reimagine) / [Video](https://www.youtube.com/watch?v=t5E1ustJEGU) |
