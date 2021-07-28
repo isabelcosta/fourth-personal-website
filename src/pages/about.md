@@ -16,8 +16,10 @@ I’m also an admin at [AnitaB.org Open Source](https://github.com/anitab-org) c
 
 Occasionally, I write blog [~/posts](/posts/) ✍🏾  and present [~/talks](/talks/) 🎙️, mostly about Open Source. I also do other volunteer [~/work](/work/) 👐🏾 via mostly mentoring.
 
-Lastly, here's an avocado seed I started taking care of on May 12, 2021. This is my 4th attempt after coming to the UK. I succeeded once in Portugal, would like to repeat the same achievement 🌱
+On another note, here's an avocado seed I started taking care of on May 12, 2021. This is my 4th attempt after coming to the UK. I succeeded once in Portugal, would like to repeat the same achievement 🌱
 
 <div style="text-align:center"><img alt="avocado plant seed I planted" src="/images/may-twelve-avocado-plant.jpg"/></div>
+
+🎲 If I could share something, that I think does good for the world, it would be [Special Books by Special Kids](https://www.youtube.com/c/SpecialBooksbySpecialKids/about) youtube channel.
 
 ✉️ Want to reach out to me? You can reach me on [LinkedIn](https://www.linkedin.com/in/isabelcmdcosta), [Twitter](https://twitter.com/isabelcmdcosta) or at **isabel [dot] monteiro [dot] costa [at] gmail [dot] com** 
