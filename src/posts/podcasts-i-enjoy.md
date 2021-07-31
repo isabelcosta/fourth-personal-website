@@ -24,10 +24,10 @@ I usually listen to podcasts on Spotify. These are some of the podcasts I follow
 
 ## Portugues!
 
-Podcasts em portugues!
+Podcasts em português!
 
 - [Extremamente Desagradável](https://open.spotify.com/show/6NhXT8X7ps2AxjbPeInidM) com Joana Marques - I also watch this on Youtube - this just makes me laugh
-- [TSF - Tubo de Ensaio](https://open.spotify.com/show/03b85TmHF8sJ2YlIxGA2zG) com Bruno Nogueira - this also makes me laugh
+- [Tubo de Ensaio](https://open.spotify.com/show/03b85TmHF8sJ2YlIxGA2zG) com Bruno Nogueira - this also makes me laugh
 - [Um de cada vez](https://open.spotify.com/show/5fHrUSq5aU650sdhLrdhYg)
 
 
