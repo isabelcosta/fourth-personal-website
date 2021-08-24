@@ -6,7 +6,7 @@ tags:
 note: true
 ---
 
-Gosh, I saw an amazing talk at [CONNECT REIMAGINE](https://connectreimagine.womenwhocode.dev/) by Merary Alvarado about Accessability today, and this prompted me to create this post.
+Gosh, I saw an amazing talk at [CONNECT REIMAGINE](https://connectreimagine.womenwhocode.dev/) by [Merary Alvarado about Accessability](https://www.youtube.com/watch?v=yGkPh2Gg7VM) today, and this prompted me to create this post.
 
 I wrote a post about [people of color stock photos for content creation](/posts/images-of-poc-for-content-creation/) before, but I want to include here much more that I eventually find.
 

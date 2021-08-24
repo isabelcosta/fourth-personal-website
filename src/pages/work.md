@@ -6,23 +6,14 @@ permalink: /work/index.html
 
 You can see my **open source projects** on [GitHub](https://github.com/isabelcosta) and my **professional experience** on [LinkedIn](https://www.linkedin.com/in/isabelcmdcosta).
 
-- [👩🏾‍💻 Professional](#heading-professional)
 - [👐🏾 Volunteer](#heading-volunteer)
+- [👩🏾‍💻 Professional](#heading-professional)
 - [🚧 Projects](#heading-projects)
     - [Mentorship System](#heading-mentorship-system)
     - [PREMIUM (MSc Thesis)](#heading-premium-private-reactive-multipath-communication-middleware-(msc-thesis))
     - [Personal Website](#heading-personal-website)
     - [Smart Home Android app](#heading-smart-home-android-app)
     - [Movies Android App](#heading-moviesapp)
-
-## 👩🏾‍💻 Professional
-
-- **Jun, 2020 - Now:** Software Engineer at Globality;
-- **Oct, 2019 - May, 2020:** Software Engineer at GeoPhy;
-- **Dec, 2018 - Oct, 2019:** Full Stack Developer at Impresa;
-- **Apr, 2018 - Ago, 2018:** Google Summer of Code 2018 student with Systers Community;
-- **Feb, 2016 - Apr, 2018:** Android Developer at Innovation Makers;
-- **Jul, 2015 - Sep, 2015:** Software Engineering intern at Uniplaces.
 
 ## 👐🏾 Volunteer
 
@@ -40,6 +31,17 @@ You can see my **open source projects** on [GitHub](https://github.com/isabelcos
 - **Sep, 2018:** [GHC](https://ghc.anitab.org/) Open Source Day Systers Representative.
 
 I also do [public speaking](/talks/) and [blogging](/posts/).
+
+## 👩🏾‍💻 Professional
+
+- **Jun, 2020 - Now:** Software Engineer at Globality;
+- **Oct, 2019 - May, 2020:** Software Engineer at GeoPhy;
+- **Dec, 2018 - Oct, 2019:** Full Stack Developer at Impresa;
+- **Apr, 2018 - Ago, 2018:** Google Summer of Code 2018 student with Systers Community;
+- **Feb, 2016 - Apr, 2018:** Android Developer at Innovation Makers;
+- **Jul, 2015 - Sep, 2015:** Software Engineering intern at Uniplaces.
+
+Full professional history on [LinkedIn](https://www.linkedin.com/in/isabelcmdcosta).
 
 ## 🚧 Projects
 

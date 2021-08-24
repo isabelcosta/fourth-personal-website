@@ -1,6 +1,7 @@
 ---
 title: How I find Public Speaking Opportunities
 date: '2021-06-10'
+updated_at: '2021-07-05'
 tags:
   - misc
 cover_image: /images/find-speaking-opportunities.jpg
@@ -24,6 +25,7 @@ The main way I get to learn about conferences with open CFPs is through aggregat
 The main sources of speaking opportunities I follow are:
 * [CFP Land](https://www.cfpland.com/): I receive weekly speaking opportunities;
 * [Diversify tech](https://www.diversifytech.co): Both USA and Europe newsletters share speaking opportunities. You can also find them at [diversifytech.co/speak](https://www.diversifytech.co/speak). You can also find more initiatives that help you get into public speaking at [diversifytech.co/speaking](https://www.diversifytech.co/speaking);
+* [Developer Avocados Weekly](https://developeravocados.net/): shares resources about developer advocacy including CFPs;
 * [Women Who Code](https://www.womenwhocode.com): their newsletter sometimes includes speaking opportunities. They also include some opportunities on their website at [womenwhocode.com/opportunities](https://www.womenwhocode.com/opportunities).
 
 

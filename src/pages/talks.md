@@ -7,10 +7,12 @@ I enjoy talking about Open Source.
 
 You can find the slides for my talks on [Speaker Deck](https://speakerdeck.com/isabelcmdcosta).
 
-| Title | Where | Date | Notes |
+| Title | At | Date | Notes |
 |-------|-------|------|-------|
+| [How to Get into Open Source](https://www.meetup.com/Women-Who-Code-London/events/279004155/) | [Women Who Code London](https://www.meetup.com/Women-Who-Code-London) | 27 Jul '21 | [Slides](https://speakerdeck.com/isabelcmdcosta/how-to-get-into-open-source) / [Video](https://www.youtube.com/watch?v=0buL1lnqUz0) |
+| "Demystifying Tech" Panel | [Academy](https://academy.tech/) | 8 Jul '21 | --- |
 | Como contribuir para Open Source | [Geek Girls Portugal](http://geekgirlsportugal.pt/) | 16 Jun '21 | [Slides](https://speakerdeck.com/isabelcmdcosta/como-contribuir-para-open-source-at-geekgirlsportugal) / 🇵🇹 |
-| Make the Most Out of Your GitHub Profile | [Women Who Code CONNECT REIMAGINE](https://connectreimagine.womenwhocode.dev/) | 11 Jun '21 | [Slides](https://speakerdeck.com/isabelcmdcosta/make-the-most-out-of-your-github-profile-at-connect-reimagine) |
+| Make the Most Out of Your GitHub Profile | [Women Who Code CONNECT REIMAGINE](https://connectreimagine.womenwhocode.dev/) | 11 Jun '21 | [Slides](https://speakerdeck.com/isabelcmdcosta/make-the-most-out-of-your-github-profile-at-connect-reimagine) / [Video](https://www.youtube.com/watch?v=t5E1ustJEGU) |
 | What is it like to be an open source maintainer in 2021: A discussion of the Tidelift maintainer survey highlights (Panel) | [Upstream](https://upstream.live/) | 7 Jun '21 | [Video](https://www.youtube.com/watch?v=v7Jh-lU3s1M) |
 | Managing a beginner friendly open source community | [Upstream](https://upstream.live/) | 7 Jun '21 | [Video](https://www.youtube.com/watch?v=l8r50jCr-Yo) / [Slides](https://speakerdeck.com/isabelcmdcosta/managing-a-beginner-friendly-open-source-community) |
 | Being a mentor | [Finding the Right Mentor - Coding Black Females](https://www.meetup.com/pt-BR/Coding-Black-Females/events/276994944/) | 7 Apr '21 | [Video](https://youtu.be/n3TwhoeZFz4?t=2155) / [Slides](https://speakerdeck.com/isabelcmdcosta/being-a-mentor) |
