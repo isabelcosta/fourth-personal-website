@@ -8,7 +8,12 @@
             <li class="post-list__item">
               <h3 class="font-base leading-tight text-500 weight-mid">
                 <time datetime="{{ item.date | w3DateFilter }}">{{ item.date | dateFilter }}</time> - 
+                
+                {% if item.data.override_url %}
+                <a href="{{ item.data.override_url }}" class="post-list__link" rel="bookmark">{{ item.data.title }}</a>
+                {% else %}
                 <a href="{{ item.url }}" class="post-list__link" rel="bookmark">{{ item.data.title }}</a>
+                {% endif %}
               </h3>
             </li>
           {% endif %}
