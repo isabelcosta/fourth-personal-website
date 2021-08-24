@@ -31,3 +31,11 @@ See it live at http://localhost:8080/
 
 - `source` has the source code of the website
 - `master` has the files that result from building the website and that will be used by GitHub Pages
+
+### Posts configuration
+
+I added a couple additional options to the posts frontmatter. Here's some:
+
+- `featured`: if set to **true**, the post will show up on homepage
+- `override_url`: if set to a value, this will serve as the link to the post when listed
+- `note`: if set to **true**, it will not show up together as most posts but in a specific section of `/posts`, where these are considered short form posts with no date associated, in the list.
