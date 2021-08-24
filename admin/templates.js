@@ -1851,11 +1851,24 @@ output += result;
 callback(null);
 });
 env.waterfall(tasks, function(){
+output += "\n                ";
+if(runtime.memberLookup((runtime.memberLookup((t_4),"data")),"override_url")) {
+output += "\n                <a href=\"";
+output += runtime.suppressValue(runtime.memberLookup((runtime.memberLookup((t_4),"data")),"override_url"), env.opts.autoescape);
+output += "\" class=\"post-list__link\" rel=\"bookmark\">";
+output += runtime.suppressValue(runtime.memberLookup((runtime.memberLookup((t_4),"data")),"title"), env.opts.autoescape);
+output += "</a>\n                ";
+;
+}
+else {
 output += "\n                <a href=\"";
 output += runtime.suppressValue(runtime.memberLookup((t_4),"url"), env.opts.autoescape);
 output += "\" class=\"post-list__link\" rel=\"bookmark\">";
 output += runtime.suppressValue(runtime.memberLookup((runtime.memberLookup((t_4),"data")),"title"), env.opts.autoescape);
-output += "</a>\n              </h3>\n            </li>\n          ";
+output += "</a>\n                ";
+;
+}
+output += "\n              </h3>\n            </li>\n          ";
 });
 }
 output += "\n        ";
@@ -2215,11 +2228,24 @@ output += "\n            <li class=\"post-list__item\">\n              <h3 class
 output += runtime.suppressValue(env.getFilter("w3DateFilter").call(context, runtime.memberLookup((t_4),"date")), env.opts.autoescape);
 output += "\">";
 output += runtime.suppressValue(env.getFilter("dateFilter").call(context, runtime.memberLookup((t_4),"date")), env.opts.autoescape);
-output += "</time> - \n                <a href=\"";
+output += "</time> - \n                \n                ";
+if(runtime.memberLookup((runtime.memberLookup((t_4),"data")),"override_url")) {
+output += "\n                <a href=\"";
+output += runtime.suppressValue(runtime.memberLookup((runtime.memberLookup((t_4),"data")),"override_url"), env.opts.autoescape);
+output += "\" class=\"post-list__link\" rel=\"bookmark\">";
+output += runtime.suppressValue(runtime.memberLookup((runtime.memberLookup((t_4),"data")),"title"), env.opts.autoescape);
+output += "</a>\n                ";
+;
+}
+else {
+output += "\n                <a href=\"";
 output += runtime.suppressValue(runtime.memberLookup((t_4),"url"), env.opts.autoescape);
 output += "\" class=\"post-list__link\" rel=\"bookmark\">";
 output += runtime.suppressValue(runtime.memberLookup((runtime.memberLookup((t_4),"data")),"title"), env.opts.autoescape);
-output += "</a>\n              </h3>\n            </li>\n          ";
+output += "</a>\n                ";
+;
+}
+output += "\n              </h3>\n            </li>\n          ";
 ;
 }
 output += "\n        ";
