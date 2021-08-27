@@ -574,7 +574,7 @@ context.addExport("introSummary", t_5);
 output += "\n\n";
 output += "\n";
 var t_10;
-t_10 = "Posts";
+t_10 = "📝 Posts";
 frame.set("postListHeading", t_10, true);
 if(frame.topLevel) {
 context.setVariable("postListHeading", t_10);
@@ -592,7 +592,6 @@ context.setVariable("postListItems", t_11);
 if(frame.topLevel) {
 context.addExport("postListItems", t_11);
 }
-output += "\n\n";
 output += "\n";
 if(runtime.memberLookup((runtime.contextOrFrameLookup(context, frame, "postListItems")),"length") < runtime.memberLookup((runtime.memberLookup((runtime.contextOrFrameLookup(context, frame, "collections")),"posts")),"length")) {
 output += " \n  ";
@@ -621,7 +620,7 @@ output += "\n";
 output += "\n\n";
 output += "\n";
 var t_14;
-t_14 = "Talks";
+t_14 = "🎙️ Talks";
 frame.set("featuredTalksHeading", t_14, true);
 if(frame.topLevel) {
 context.setVariable("featuredTalksHeading", t_14);
@@ -675,7 +674,7 @@ cb(null, output);
 }
 }
 function b_content(env, context, frame, runtime, cb) {
-var lineno = 25;
+var lineno = 23;
 var colno = 3;
 var output = "";
 try {
