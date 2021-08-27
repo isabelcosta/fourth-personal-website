@@ -8,17 +8,15 @@
 {% endset %}
 
 {# Post list content #}
-{% set postListHeading = 'Posts' %}
+{% set postListHeading = '📝 Posts' %}
 {% set postListItems = collections.featuredPosts %}
-
-{# Archive link #}
 {% if postListItems.length < collections.posts.length %} 
   {% set paginationNextText = 'all posts' %}
   {% set paginationNextUrl = '/posts' %}
 {% endif %}
 
 {# Featured talks list content #}
-{% set featuredTalksHeading = 'Talks' %}
+{% set featuredTalksHeading = '🎙️ Talks' %}
 {% set featuredTalksText = 'all talks' %}
 {% set featuredTalksUrl = '/talks' %}
 {% set featuredTalksItems = collections.featuredTalks %}
