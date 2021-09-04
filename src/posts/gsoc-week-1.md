@@ -3,6 +3,8 @@ title: Google Summer of Code | Coding Period | Week 1
 date: '2018-05-20'
 tags:
   - gsoc
+crossposts:
+  medium: https://medium.com/isabel-costa-gsoc/coding-period-week-1-e8f878f46ad9
 ---
 
 ![gsoc and systers logos](/images/gsoc-week-1-cover.png)

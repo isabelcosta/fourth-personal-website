@@ -3,6 +3,8 @@ title: That time I contributed to Scala Exercises website
 date: '2021-03-07'
 tags:
   - open-source
+crossposts:
+  medium: https://code.likeagirl.io/that-time-i-contributed-to-scala-exercises-website-c85978b7b057
 ---
 
 As a beginner in contributing to open source, you might not be sure of how to start contributing. I want to tell you about a **contribution I have made to an open source project I used.**

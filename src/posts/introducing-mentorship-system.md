@@ -4,6 +4,8 @@ date: '2018-07-05'
 tags:
   - open-source
   - mentorship
+crossposts:
+  medium: https://medium.com/systers-opensource/mentorship-system-by-systers-52dbe1275d9f
 ---
 
 ![](/images/mentorship-system-initial-logo.png)

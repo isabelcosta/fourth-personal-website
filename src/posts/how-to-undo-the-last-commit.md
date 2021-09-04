@@ -5,6 +5,9 @@ featured: true
 tags:
   - git
   - tech
+crossposts:
+  medium: https://code.likeagirl.io/how-to-undo-the-last-commit-393e7db2840b
+  devto: https://dev.to/isabelcmdcosta/how-to-undo-the-last-commit--31mg
 ---
 
 ![Image from [Altassian tutorial](https://www.atlassian.com/git/tutorials/undoing-changes)](https://cdn-images-1.medium.com/max/2000/1*uc89vQwNgfqctnZg9PMfxA.png)

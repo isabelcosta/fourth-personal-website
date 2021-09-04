@@ -4,6 +4,9 @@ date: '2021-03-21'
 featured: true
 tags:
   - open-source
+crossposts:
+  medium: https://medium.com/anitab-org-open-source/contributing-to-open-source-in-quality-assurance-caf33a0c41ef
+  devto: https://dev.to/isabelcmdcosta/contributing-to-open-source-with-quality-assurance-1n8e
 ---
 
 Did you know you can contribute to Open Source with Quality Assurance? Usually while building software, there is some component of quality assurance or testing involved, so that also applies to open source projects. When I think of quality assurance of a project I think of testing in general, which includes writing unit tests, integration tests, manual testing, performance testing, documenting test scenarios, ...
