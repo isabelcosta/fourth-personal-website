@@ -980,8 +980,10 @@ output += "\n        </aside>\n      ";
 });
 }
 output += "\n      ";
+if(runtime.contextOrFrameLookup(context, frame, "tags") || runtime.contextOrFrameLookup(context, frame, "crossposts")) {
+output += "\n        <footer class=\"[ post__footer ] [ pad-top-500 pad-bottom-500 ]\">\n          <div class=\"inner-wrapper\">\n            ";
 if(runtime.contextOrFrameLookup(context, frame, "tags")) {
-output += "\n        <footer class=\"[ post__footer ] [ pad-top-500 pad-bottom-500 ]\">\n          <div class=\"inner-wrapper\">\n            <div class=\"[ nav ] [ box-flex align-center ]\">\n              <h2 class=\"font-base text-600 weight-mid\">Filed under</h2>\n              <ul class=\"[ nav__list ] [ box-flex align-center pad-left-400 ] [ p-category ]\">\n                ";
+output += "\n            <div class=\"[ nav ] [ box-flex align-center ]\">\n              <h2 class=\"font-base text-600 weight-mid\">Filed under</h2>\n              <ul class=\"[ nav__list ] [ box-flex align-center pad-left-400 ] [ p-category ]\">\n                ";
 frame = frame.push();
 var t_18 = runtime.contextOrFrameLookup(context, frame, "tags");
 if(t_18) {t_18 = runtime.fromIterator(t_18);
@@ -1005,7 +1007,29 @@ output += "</a>\n                  </li>\n                ";
 }
 }
 frame = frame.pop();
-output += "\n              </ul>\n            </div>\n          </div>\n        </footer>\n      ";
+output += "\n              </ul>\n            </div>\n            ";
+;
+}
+output += "\n            ";
+if(runtime.contextOrFrameLookup(context, frame, "crossposts")) {
+output += "\n            <div class=\"[ nav ] [ box-flex align-center ]\">\n              <h2 class=\"font-base text-600 weight-mid\">Also on</h2>\n              <ul class=\"[ nav__list ] [ box-flex align-center pad-left-400 ] [ p-category ]\">\n                ";
+if(runtime.memberLookup((runtime.contextOrFrameLookup(context, frame, "crossposts")),"devto")) {
+output += "\n                  <li class=\"nav__item\">\n                    <a href=\"";
+output += runtime.suppressValue(runtime.memberLookup((runtime.contextOrFrameLookup(context, frame, "crossposts")),"devto"), env.opts.autoescape);
+output += "\">DEV</a>\n                  </li>\n                ";
+;
+}
+output += "\n                ";
+if(runtime.memberLookup((runtime.contextOrFrameLookup(context, frame, "crossposts")),"medium")) {
+output += "\n                  <li class=\"nav__item\">\n                    <a href=\"";
+output += runtime.suppressValue(runtime.memberLookup((runtime.contextOrFrameLookup(context, frame, "crossposts")),"medium"), env.opts.autoescape);
+output += "\">Medium</a>\n                  </li>\n                ";
+;
+}
+output += "\n              </ul>\n            </div>\n            ";
+;
+}
+output += "\n          </div>\n        </footer>\n      ";
 ;
 }
 output += "\n    </article>\n  </main>\n";
