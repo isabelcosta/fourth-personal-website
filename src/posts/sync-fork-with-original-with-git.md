@@ -1,9 +1,11 @@
 ---
 title: Sync fork with original repository using git
 date: '2021-09-04'
+description: How to sync forked repository with original repository using git on the terminal
 tags:
   - git
   - tech
+devto: https://dev.to/isabelcmdcosta/sync-fork-with-original-repository-using-git-21ap
 ---
 
 When you want to contribute to an open source repository, you usually [fork a repository](https://docs.github.com/en/get-started/quickstart/fork-a-repo) so you can do your changes and later submit them via a pull request. After forking the repository on GitHub, and cloning it into your local environment - `git clone <forked repository url>` - the repository will have a remote URL setup, usually named `origin`.
