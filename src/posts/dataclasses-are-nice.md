@@ -5,7 +5,9 @@ featured: true
 tags:
   - tech
   - python
-dev: https://community.codenewbie.org/isabelcmdcosta/dataclasses-in-python-are-nice-3e3l
+crossposts:
+  devto: https://dev.to/isabelcmdcosta/dataclasses-in-python-are-nice-1fff
+  codenewbie: https://community.codenewbie.org/isabelcmdcosta/dataclasses-in-python-are-nice-3e3l
 ---
 
 Couple weeks ago I learned about [`dataclasses`](https://docs.python.org/3/library/dataclasses.html) feature in Python. This feature is a nice way to define classes in python. This was introduced in [Python 3.7](https://docs.python.org/3.7/whatsnew/3.7.html), in particular [PEP 557](https://www.python.org/dev/peps/pep-0557/). To use this feature make sure you are running python version 3.7 or above.
