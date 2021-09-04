@@ -3,6 +3,8 @@ title: Google Summer of Code | Coding Period | Week 7
 date: '2018-07-02'
 tags:
   - gsoc
+crossposts:
+  medium: https://medium.com/isabel-costa-gsoc/google-summer-of-code-coding-period-week-7-2e8e4f1b206d
 ---
 
 ![](/images/gsoc-week-7-cover.png)

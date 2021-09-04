@@ -3,6 +3,8 @@ title: Coming up with original ideas for Systers Open Source
 date: '2018-12-30'
 tags:
   - open-source
+crossposts:
+  medium: https://isabelcmdcosta.medium.com/coming-up-with-original-ideas-for-systers-open-source-3f94148673ff
 ---
 
 ![Source: [#WOCinTech Chat photos](https://www.flickr.com/photos/wocintechchat)](/images/woc-in-tech-chat-6.jpeg)

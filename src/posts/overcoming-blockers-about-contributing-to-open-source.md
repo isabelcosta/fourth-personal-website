@@ -4,6 +4,8 @@ date: '2019-06-24'
 featured: true
 tags:
   - open-source
+crossposts:
+  medium: https://code.likeagirl.io/overcoming-blockers-about-contributing-to-open-source-3ade8131ce9f
 ---
 
 ![woman on pc emoji](/images/overcoming-blocks-technologist.png)

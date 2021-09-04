@@ -3,6 +3,8 @@ title: GSoC with Systers Community Closure
 date: '2018-12-28'
 tags:
   - gsoc
+crossposts:
+  medium: https://medium.com/isabel-costa-gsoc/gsoc-with-systers-community-closure-43d8e135c153
 ---
 
 ![final remarks image representing end of gsoc](/images/gsoc-closure-cover.png)

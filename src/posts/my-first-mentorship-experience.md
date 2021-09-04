@@ -3,6 +3,8 @@ title: My first mentorship experience
 date: '2020-09-04'
 tags:
   - mentorship
+crossposts:
+  medium: https://isabelcmdcosta.medium.com/my-first-experience-being-mentored-364700497bba
 ---
 
 I got into university, [Instituto Superior Tecnico](https://tecnico.ulisboa.pt/) in TagusPark, to pursue Communications Networks degree (now called Telecommunications and Informatics Engineering) without knowing anything about programming. The first programming course I had was the Programming Foundations course, in which in the first classes I found myself a bit lost. In this course, we were taught how to code through Python. So this was the first programming language I learned!

@@ -3,6 +3,8 @@ title: Google Summer of Code | Coding Period | Week 9
 date: '2018-07-16'
 tags:
   - gsoc
+crossposts:
+  medium: https://medium.com/isabel-costa-gsoc/google-summer-of-code-coding-period-week-9-4affc5a70580
 ---
 
 ![](/images/gsoc-week-9-cover.png)

@@ -3,6 +3,8 @@ title: Resources to motivate yourself to bootstrap products
 date: '2019-04-03'
 tags:
   - misc
+crossposts:
+  medium: https://code.likeagirl.io/resources-to-motivate-yourself-to-bootstrap-products-800825022fb2
 ---
 
 ![Credits to the amazing initiative [www.wocintechchat.com](https://www.wocintechchat.com)](/images/woc-in-tech-chat-3.jpeg)

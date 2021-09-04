@@ -3,6 +3,9 @@ title: Open Source programs and initiatives
 date: '2020-03-12'
 tags:
   - open-source
+crossposts:
+  medium: https://code.likeagirl.io/open-source-programs-and-initiatives-328940d39565
+  devto: https://dev.to/isabelcmdcosta/open-source-programs-and-initiatives-3in6
 ---
 
 In this blog post, I will mention some open source initiatives and programs that can help you get started or more involved with Open Source.

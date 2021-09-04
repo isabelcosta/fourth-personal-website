@@ -3,6 +3,8 @@ title: Google Summer of Code | Coding Period | Week 12
 date: '2018-08-06'
 tags:
   - gsoc
+crossposts:
+  medium: https://medium.com/isabel-costa-gsoc/google-summer-of-code-coding-period-week-12-e14533ce7159
 ---
 
 ![](/images/gsoc-week-12-cover.png)

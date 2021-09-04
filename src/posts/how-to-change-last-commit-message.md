@@ -7,6 +7,7 @@ tags:
   - git
 crossposts:
   medium: https://isabelcmdcosta.medium.com/how-to-change-last-commit-message-77a7036a32c7
+  devto: https://dev.to/isabelcmdcosta/how-to-change-last-commit-message-3oha
 ---
 
 Often when making changes to code, I commit them and then have to change to commit I just made, either because I think the commit message could be better or I had to make a last-minute change to the code I wish to include in the commit.
