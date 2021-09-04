@@ -38,4 +38,5 @@ I added a couple additional options to the posts frontmatter. Here's some:
 
 - `featured`: if set to **true**, the post will show up on homepage
 - `override_url`: if set to a value, this will serve as the link to the post when listed
-- `note`: if set to **true**, it will not show up together as most posts but in a specific section of `/posts`, where these are considered short form posts with no date associated, in the list.
+- `note`: if set to **true**, it will not show up together as most posts but in a specific section of `/posts`, where these are considered short form posts with no date associated, in the list
+- `crossposts`: will contain the external links to the posts in blogging platforms. So far the code will only render when given url for `medium` and `devto`.

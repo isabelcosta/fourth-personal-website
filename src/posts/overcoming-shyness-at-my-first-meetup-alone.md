@@ -3,6 +3,8 @@ title: Overcoming shyness at my first meetup alone
 date: '2017-11-22'
 tags:
   - misc
+crossposts:
+  medium: https://code.likeagirl.io/overcoming-shyness-at-my-first-meetup-alone-f0f23175f745
 ---
 
 ![](/images/shy-dog.jpeg)

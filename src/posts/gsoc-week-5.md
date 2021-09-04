@@ -3,6 +3,8 @@ title: Google Summer of Code | Coding Period | Week 5
 date: '2018-06-18'
 tags:
   - gsoc
+crossposts:
+  medium: https://medium.com/isabel-costa-gsoc/google-summer-of-code-coding-period-week-5-740cda442109
 ---
 
 ![gsoc and systers logos](/images/gsoc-week-5-cover.png)

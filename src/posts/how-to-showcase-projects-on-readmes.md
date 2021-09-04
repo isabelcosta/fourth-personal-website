@@ -3,6 +3,8 @@ title: What to include on project READMEs as a beginner in tech
 date: '2021-05-14'
 tags:
   - misc
+crossposts:
+  codenewbie: https://community.codenewbie.org/isabelcmdcosta/what-to-include-on-project-readmes-as-a-beginner-in-tech-4m3l
 ---
 
 When presenting a project on your portfolio there is information you can include alongside it to provide context around it. This can be useful for those who is looking at it to understand it without diving into the code (e.g.: a recruiter).

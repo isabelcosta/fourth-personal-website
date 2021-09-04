@@ -3,12 +3,13 @@ layout: layouts/page.njk
 title: Talks
 permalink: /talks/index.html
 ---
-I enjoy talking about Open Source.
+I enjoy talking about Open Source and, at times, sharing my experience as a developer in Tech.
 
 You can find the slides for my talks on [Speaker Deck](https://speakerdeck.com/isabelcmdcosta).
 
 | Title | At | Date | Notes |
 |-------|-------|------|-------|
+| ["Life as Developer" Panel](https://www.meetup.com/Coding-Black-Females/events/280481755) | [Black CodHer Bootcamp](https://blackcodher.com/) | 3 Sep '21 | [Video](https://www.youtube.com/watch?v=UBml1Y0_fDs) |
 | [How to Get into Open Source](https://www.meetup.com/Women-Who-Code-London/events/279004155/) | [Women Who Code London](https://www.meetup.com/Women-Who-Code-London) | 27 Jul '21 | [Slides](https://speakerdeck.com/isabelcmdcosta/how-to-get-into-open-source) / [Video](https://www.youtube.com/watch?v=0buL1lnqUz0) |
 | "Demystifying Tech" Panel | [Academy](https://academy.tech/) | 8 Jul '21 | --- |
 | Como contribuir para Open Source | [Geek Girls Portugal](http://geekgirlsportugal.pt/) | 16 Jun '21 | [Slides](https://speakerdeck.com/isabelcmdcosta/como-contribuir-para-open-source-at-geekgirlsportugal) / 🇵🇹 |

@@ -3,6 +3,8 @@ title: Google Summer of Code | Coding Period | Week 3
 date: '2018-06-03'
 tags:
   - gsoc
+crossposts:
+  medium: https://medium.com/isabel-costa-gsoc/google-summer-of-code-coding-period-week-3-349e08f7d998
 ---
 
 ![](/images/gsoc-week-3-cover.png)
