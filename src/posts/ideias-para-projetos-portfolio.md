@@ -5,9 +5,9 @@ tags:
   - portugues
 ---
 
-Á umas semanas atrás, perguntaram me durante o workshop de “Git na vida real” das [Raparigas de Codigo](https://raparigasdocodigo.pt/), sobre que tipos de projetos poderiam criar para portfolio.
+Há umas semanas, perguntaram-me durante o workshop de “Git na vida real” das [Raparigas de Codigo](https://raparigasdocodigo.pt/), sobre que tipos de projetos poderiam criar para portfolio.
 
-Há uns tempos encontrei este repositorio no GitHub, que tem uma lista exaustiva de ideas para projetos, de nível principiante a avançado (beginner to advanced). Cada ideia tem uma descrição associada. Este repositório pode ajduar a ter umas primeiras ideias para projetos.
+Há uns tempos encontrei este repositorio no GitHub, que tem uma lista exaustiva de ideas para projetos, de nível principiante a avançado (beginner to advanced). Cada ideia tem uma descrição associada. Este repositório pode ajudar a ter umas primeiras ideias para projetos.
 
 - 👉🏾 [https://github.com/florinpop17/app-ideas](https://github.com/florinpop17/app-ideas) 
 
