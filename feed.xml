@@ -15,6 +15,59 @@
 	
   
   <entry>
+    <title>Sync fork with original repository using git</title>
+    <link href="https://isabelcosta.github.io//posts/sync-fork-with-original-with-git/"/>
+    <updated>2021-09-04T00:00:00+00:00</updated>
+    <id>https://isabelcosta.github.io//posts/sync-fork-with-original-with-git/</id>
+    <content type="html"><![CDATA[
+      <p>When you want to contribute to an open source repository, you usually <a href="https://docs.github.com/en/get-started/quickstart/fork-a-repo">fork a repository</a> so you can do your changes and later submit them via a pull request. After forking the repository on GitHub, and cloning it into your local environment - <code>git clone &lt;forked repository url&gt;</code> - the repository will have a remote URL setup, usually named <code>origin</code>.</p>
+<p>You can also do this using GitHub web user interface. Check <a href="https://docs.github.com/en/github/collaborating-with-pull-requests/working-with-forks/syncing-a-fork">out the docs</a>! I already mostly use this option, but it’s always useful to know the basics of doing this with git.</p>
+<p>To use as an example, I forked <a href="https://github.com/anitab-org/documentation">anitab-org/documentation</a> repository into my GitHub account <a href="https://github.com/isabelcosta/documentation">isabelcosta/documentation</a>. When <strong>cloning the repository I <a href="https://docs.github.com/en/get-started/getting-started-with-git/about-remote-repositories#about-remote-repositories">used the SSH URL</a> of my forked repository.</strong> The commands I’ll mention will be running against the repository’s default <code>master</code> branch.</p>
+<p>First, <strong>check what remote URLs your project has set up</strong> with:</p>
+<pre><code>git remote -v
+</code></pre>
+<p>Here the <code>origin</code> configuration will have the URL where your forked project is on GitHub (notice that my <code>isabelcosta</code> account username is there). I am also inside the root directory of the local clone of my forked repository.</p>
+<pre><code>~/dev/documentation &gt; git remote -v
+origin	git@github.com:isabelcosta/documentation.git (fetch)
+origin	git@github.com:isabelcosta/documentation.git (push)
+</code></pre>
+<p>Now you can <strong>add the new remote repository link to your remotes</strong>. The <code>upstream</code> keyword is an alias for the original repository remote URL (replace <code>&lt;url of original repository&gt;</code> with this URL). You can pick another alias if you prefer.</p>
+<pre><code>git remote add upstream &lt;url of original repository&gt;
+</code></pre>
+<p>Notice that in this case, the link is pointing to <code>anitab-org</code> account - where the repository was originally forked from):</p>
+<pre><code>~/dev/documentation &gt; git remote add upstream git@github.com:anitab-org/documentation.git
+</code></pre>
+<p>To <strong>confirm the remote repositories you have set up</strong>, the new <code>upstream</code> repository configuration should be there.</p>
+<pre><code>~/dev/documentation &gt; git remote -v
+origin	git@github.com:isabelcosta/documentation.git (fetch)
+origin	git@github.com:isabelcosta/documentation.git (push)
+upstream	git@github.com:anitab-org/documentation.git (fetch)
+upstream	git@github.com:anitab-org/documentation.git (push)
+</code></pre>
+<p>With this setup, you can now <strong>sync your repository locally</strong> using pull/fetch code from the original repository. Here’s an example where I am pulling code from the original repository into my fork’s <code>master</code> branch:</p>
+<pre><code>~/dev/documentation &gt; git pull upstream master
+From github.com:anitab-org/documentation
+ * branch            master     -&gt; FETCH_HEAD
+   85f3fdc..5854a22  master     -&gt; upstream/master
+Already up to date.
+</code></pre>
+<p>After updating my local branch, I usually also <strong>update the fork on GitHub.</strong> I push the new commits pulled from <code>upstream</code> to my <code>origin</code> forked repository (using the same <code>master</code> branch):</p>
+<pre><code>~/dev/documentation &gt; git push origin master
+Everything up-to-date
+</code></pre>
+<h2>Commands summary</h2>
+<ul>
+<li>Check remotes: <code>git remote -v</code></li>
+<li>Add a new remote: <code>git remote add upstream &lt;original repository url&gt;</code></li>
+<li>Sync local repository: <code>git pull upstream &lt;branch&gt;</code></li>
+<li>Update remote forked repo: <code>git push origin &lt;branch&gt;</code></li>
+</ul>
+
+    ]]></content>
+  </entry>
+	
+  
+  <entry>
     <title>Ideias para projetos de portfolio</title>
     <link href="https://isabelcosta.github.io//posts/ideias-para-projetos-portfolio/"/>
     <updated>2021-08-27T00:00:00+00:00</updated>
