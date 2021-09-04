@@ -5,7 +5,8 @@ updated_at: '2021-07-05'
 tags:
   - misc
 cover_image: /images/find-speaking-opportunities.jpg
-medium: https://medium.com/codingblackfemales/how-i-find-public-speaking-opportunities-84e698df1534
+crossposts:
+  medium: https://medium.com/codingblackfemales/how-i-find-public-speaking-opportunities-84e698df1534
 ---
 
 <!--![cover image with post title, microphone and sparkles emoji](/images/find-speaking-opportunities.jpg)-->

@@ -2,10 +2,11 @@
 title: How to change last commit message
 date: '2020-11-21'
 featured: true
+description: Often I have to change commit messages from my last commit, this is how I do it.
 tags:
   - git
-medium: https://isabelcmdcosta.medium.com/how-to-change-last-commit-message-77a7036a32c7
-description: Often I have to change commit messages from my last commit, this is how I do it.
+crossposts:
+  medium: https://isabelcmdcosta.medium.com/how-to-change-last-commit-message-77a7036a32c7
 ---
 
 Often when making changes to code, I commit them and then have to change to commit I just made, either because I think the commit message could be better or I had to make a last-minute change to the code I wish to include in the commit.
