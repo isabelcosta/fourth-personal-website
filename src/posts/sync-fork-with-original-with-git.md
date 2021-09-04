@@ -1,7 +1,7 @@
 ---
-title: Sync fork with original repository using git
+title: Sync fork with the original repository using git
 date: '2021-09-04'
-description: How to sync forked repository with original repository using git on the terminal
+description: How to sync forked repository with the original repository using git on the terminal
 tags:
   - git
   - tech
