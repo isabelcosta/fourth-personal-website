@@ -1,8 +1,11 @@
 ---
 title: Tools I use for my Master’s thesis
 date: '2018-01-16'
+featured: true
 tags:
-    - college
+    - misc
+crossposts:
+  medium: https://code.likeagirl.io/tools-i-use-for-my-masters-thesis-cc03c5a8e92a
 ---
 
 ![Example of my organization on OneNote](/images/thesis-onenote-tool.png)

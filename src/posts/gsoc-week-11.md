@@ -3,6 +3,8 @@ title: Google Summer of Code | Coding Period | Week 11
 date: '2018-07-30'
 tags:
   - gsoc
+crossposts:
+  medium: https://medium.com/isabel-costa-gsoc/google-summer-of-code-coding-period-week-11-799f11918c62
 ---
 
 ![](/images/gsoc-week-11-cover.png)

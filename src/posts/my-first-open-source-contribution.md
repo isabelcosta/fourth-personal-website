@@ -4,6 +4,8 @@ description: My first contribution to markdown repository during 24 Pull Request
 date: '2020-07-27'
 tags:
   - open-source
+crossposts:
+  medium: https://medium.com/anitab-org-open-source/my-first-open-source-contribution-2aa45c9d6a32
 ---
 
 <!-- ![first contribution illustrative image](/images/my-first-contribution-promo.png) -->

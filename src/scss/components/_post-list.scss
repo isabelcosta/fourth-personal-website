@@ -1,6 +1,6 @@
 .post-list {
   &__item {
-    --flow-space: #{get-size(700)};
+    --flow-space: #{get-size(500)};
   }
 
   &__link {
@@ -13,5 +13,18 @@
     &:hover {
       text-decoration: underline;
     }
+  }
+
+  &__tag {
+    color: var(--color-dark);
+    position: relative;
+    display: inline-block;
+    background: var(--color-theme-highlight);
+    padding: 0.2rem 0.4rem 0.3rem 0.4rem;
+    text-decoration: none;
+    word-break: break-word;
+    margin: 0.4rem 0.4rem;
+    @include apply-utility('leading', 'tight');
+    font-weight: 600;
   }
 }

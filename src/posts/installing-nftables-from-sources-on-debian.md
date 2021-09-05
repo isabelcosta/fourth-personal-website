@@ -3,6 +3,9 @@ title: Installing nftables from sources on Debian
 date: '2018-03-09'
 tags:
   - tech
+crossposts:
+  devto: https://dev.to/isabelcmdcosta/installing-nftables-from-sources-ondebian--4ic
+  medium: https://isabelcmdcosta.medium.com/installing-nftables-from-sources-on-debian-eb8c24bbc5ca
 ---
 
 

@@ -2,7 +2,9 @@
 title: Images of People of Color for content creation
 date: '2020-05-27'
 tags:
-  - blog
+  - misc
+crossposts:
+  medium: https://code.likeagirl.io/images-of-people-of-color-for-content-creation-920a05778ca4
 ---
 
 ![#WOCinTech Chat](/images/woc-in-tech-chat-1.jpeg)
