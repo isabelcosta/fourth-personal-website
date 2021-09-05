@@ -5,18 +5,18 @@ tags:
   - portugues
 ---
 
-Há umas semanas, perguntaram-me durante o workshop de “Git na vida real” das [Raparigas de Codigo](https://raparigasdocodigo.pt/), sobre que tipos de projetos poderiam criar para portfolio.
+Há umas semanas, durante o [workshop “Git na vida real”](https://raparigasdocodigo.pt/atividades/) das [Raparigas de Codigo](https://raparigasdocodigo.pt/) (um workshop que pretende mostrar como usar a ferramenta de controlo de versão de código, git, na qual estive envolvida como mentora), perguntaram-me que tipo de projetos se poderiam criar para formar um bom portfólio.
 
-Há uns tempos encontrei este repositorio no GitHub, que tem uma lista exaustiva de ideas para projetos, de nível principiante a avançado (beginner to advanced). Cada ideia tem uma descrição associada. Este repositório pode ajudar a ter umas primeiras ideias para projetos.
+Em tempos, encontrei este repositório no GitHub, que considero  muito interessante, pois contém uma lista exaustiva de ideias para projetos, apresentadas de acordo com o nível de complexidade (_beginner to advanced_). Cada ideia tem também uma descrição associada. Esta ferramenta poderá assim servir de inspiração para os primeiros projetos!
 
-- 👉🏾 [https://github.com/florinpop17/app-ideas](https://github.com/florinpop17/app-ideas) 
+- [https://github.com/florinpop17/app-ideas](https://github.com/florinpop17/app-ideas) 
 
-Seja qual for o projeto que implementem, mesmo que usem conceitos basicos (por exemplo uma TODO list), eu aconselho a adicionarem sempre um toque pessoal às ideias.
+Seja qual for o projeto que implementem (mesmo que usem conceitos básicos como, por exemplo, uma _TODO list_), aconselho personalizarem sempre as ideias.
 
 Eis um exemplo simples:
 
-**Ideia básica:** Criar uma galeria de imagens e descrições por baixo (frontend, HTML + CSS). Stretch: backend api que serve as imagens e descrições.
+**Ideia básica:** Criar uma galeria de imagens e descrições por baixo (frontend, HTML + CSS). Stretch: backend API que serve as imagens e descrições.
 
-**Toque vosso:** Se fores fã do universo [Marvel](https://www.marvel.com/), podes fazer com que o projeto, tenha a temática relacionada ao universo Marvel. As imagens podem ser capas dos últimos comics/movies/shows da Marvel.
+**Toque pessoal:** Se forem fã do universo [Marvel](https://www.marvel.com/), podem fazer com que o projeto, tenha a temática relacionada ao universo Marvel. As imagens podem ser capas dos últimos comics/movies/shows da Marvel.
 
-**Vantagem:** Mostra que sabes criar um projeto, mas também adaptar uma ideia a algo diferente e vosso. Que mostra um bocado dos teus interesses pessoais. E pode dar tema de conversa interessante, se tiveres de explicar o projeto a alguém (exemplo: recrutador).
+**Vantagem:** Mostra que sabem criar um projeto, mas também adaptar uma ideia, dando o vosso toque, revelando os vossos interesses e dando-vos a conhecer. Até poderá ser um tema de conversa interessante, se tiverem de explicar o projeto a alguém (exemplo: recrutador).
