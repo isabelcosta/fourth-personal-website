@@ -73,16 +73,16 @@ Everything up-to-date
     <updated>2021-08-27T00:00:00+00:00</updated>
     <id>https://isabelcosta.github.io//posts/ideias-para-projetos-portfolio/</id>
     <content type="html"><![CDATA[
-      <p>Há umas semanas, perguntaram-me durante o workshop de “Git na vida real” das <a href="https://raparigasdocodigo.pt/">Raparigas de Codigo</a>, sobre que tipos de projetos poderiam criar para portfolio.</p>
-<p>Há uns tempos encontrei este repositorio no GitHub, que tem uma lista exaustiva de ideas para projetos, de nível principiante a avançado (beginner to advanced). Cada ideia tem uma descrição associada. Este repositório pode ajudar a ter umas primeiras ideias para projetos.</p>
+      <p>Há umas semanas, durante o <a href="https://raparigasdocodigo.pt/atividades/">workshop “Git na vida real”</a> das <a href="https://raparigasdocodigo.pt/">Raparigas de Codigo</a> (um workshop que pretende mostrar como usar a ferramenta de controlo de versão de código, git, na qual estive envolvida como mentora), perguntaram-me que tipo de projetos se poderiam criar para formar um bom portfólio.</p>
+<p>Em tempos, encontrei este repositório no GitHub, que considero  muito interessante, pois contém uma lista exaustiva de ideias para projetos, apresentadas de acordo com o nível de complexidade (<em>beginner to advanced</em>). Cada ideia tem também uma descrição associada. Esta ferramenta poderá assim servir de inspiração para os primeiros projetos!</p>
 <ul>
-<li>👉🏾 <a href="https://github.com/florinpop17/app-ideas">https://github.com/florinpop17/app-ideas</a></li>
+<li><a href="https://github.com/florinpop17/app-ideas">https://github.com/florinpop17/app-ideas</a></li>
 </ul>
-<p>Seja qual for o projeto que implementem, mesmo que usem conceitos basicos (por exemplo uma TODO list), eu aconselho a adicionarem sempre um toque pessoal às ideias.</p>
+<p>Seja qual for o projeto que implementem (mesmo que usem conceitos básicos como, por exemplo, uma <em>TODO list</em>), aconselho personalizarem sempre as ideias.</p>
 <p>Eis um exemplo simples:</p>
-<p><strong>Ideia básica:</strong> Criar uma galeria de imagens e descrições por baixo (frontend, HTML + CSS). Stretch: backend api que serve as imagens e descrições.</p>
-<p><strong>Toque vosso:</strong> Se fores fã do universo <a href="https://www.marvel.com/">Marvel</a>, podes fazer com que o projeto, tenha a temática relacionada ao universo Marvel. As imagens podem ser capas dos últimos comics/movies/shows da Marvel.</p>
-<p><strong>Vantagem:</strong> Mostra que sabes criar um projeto, mas também adaptar uma ideia a algo diferente e vosso. Que mostra um bocado dos teus interesses pessoais. E pode dar tema de conversa interessante, se tiveres de explicar o projeto a alguém (exemplo: recrutador).</p>
+<p><strong>Ideia básica:</strong> Criar uma galeria de imagens e descrições por baixo (frontend, HTML + CSS). Stretch: backend API que serve as imagens e descrições.</p>
+<p><strong>Toque pessoal:</strong> Se forem fã do universo <a href="https://www.marvel.com/">Marvel</a>, podem fazer com que o projeto, tenha a temática relacionada ao universo Marvel. As imagens podem ser capas dos últimos comics/movies/shows da Marvel.</p>
+<p><strong>Vantagem:</strong> Mostra que sabem criar um projeto, mas também adaptar uma ideia, dando o vosso toque, revelando os vossos interesses e dando-vos a conhecer. Até poderá ser um tema de conversa interessante, se tiverem de explicar o projeto a alguém (exemplo: recrutador).</p>
 
     ]]></content>
   </entry>
