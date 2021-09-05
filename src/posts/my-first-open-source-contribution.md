@@ -2,7 +2,6 @@
 title: My First Open Source Contribution
 description: My first contribution to markdown repository during 24 Pull Requests in 2017
 date: '2020-07-27'
-featured: true
 tags:
   - open-source
 crossposts:
