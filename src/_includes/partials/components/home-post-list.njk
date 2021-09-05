@@ -1,22 +1,19 @@
 {% if postListItems.length %}
   <section class="[ post-list ] [ pad-top-700 gap-bottom-900 ]">
     <div class="[ inner-wrapper ] [ sf-flow ]">
-      <h2 class="[ post-list__heading ] [ text-600 md:text-700 ]">{{ postListHeading }}</h2>
+      <h2 class="[ post-list__heading ] [ text-700 md:text-800 ]">{{ postListHeading }}</h2>
       <ol class="[ post-list__items ] [ sf-flow ] [ pad-top-300 ]" reversed>
         {% for item in postListItems %}
           {% if item.date.getTime() <= global.now %}
             <li class="post-list__item">
               <h3 class="font-base leading-tight text-500 weight-mid">
-                <time datetime="{{ item.date | w3DateFilter }}">{{ item.date | dateFilter }}</time> - 
-                
+                {# <time datetime="{{ item.date | w3DateFilter }}">{{ item.date | dateFilter }}</time> -  #}
+                {% include "icons/arrow.svg" %}
                 {% if item.data.override_url %}
                 <a href="{{ item.data.override_url }}" class="post-list__link" rel="bookmark">{{ item.data.title }}</a>
                 {% else %}
                 <a href="{{ item.url }}" class="post-list__link" rel="bookmark">{{ item.data.title }}</a>
                 {% endif %}
-                {% for tag in item.data.tags %}
-                <a href="/tags/{{ tag }}" class="post-list__tag">#{{ tag }}</a>
-                {% endfor %}
               </h3>
             </li>
           {% endif %}

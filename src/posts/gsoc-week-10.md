@@ -3,6 +3,8 @@ title: Google Summer of Code | Coding Period | Week 10
 date: '2018-07-23'
 tags:
   - gsoc
+crossposts:
+  medium: https://medium.com/isabel-costa-gsoc/google-summer-of-code-coding-period-week-10-191813534051
 ---
 
 ![](/images/gsoc-week-10-cover.png)

@@ -24,9 +24,10 @@
           {% include "partials/global/third-party-comments.njk" %}
         </aside>
       {% endif %}
-      {% if tags %}
+      {% if tags or crossposts %}
         <footer class="[ post__footer ] [ pad-top-500 pad-bottom-500 ]">
           <div class="inner-wrapper">
+            {% if tags %}
             <div class="[ nav ] [ box-flex align-center ]">
               <h2 class="font-base text-600 weight-mid">Filed under</h2>
               <ul class="[ nav__list ] [ box-flex align-center pad-left-400 ] [ p-category ]">
@@ -37,6 +38,24 @@
                 {% endfor %}
               </ul>
             </div>
+            {% endif %}
+            {% if crossposts %}
+            <div class="[ nav ] [ box-flex align-center ]">
+              <h2 class="font-base text-600 weight-mid">Also on</h2>
+              <ul class="[ nav__list ] [ box-flex align-center pad-left-400 ] [ p-category ]">
+                {% if crossposts.devto %}
+                  <li class="nav__item">
+                    <a href="{{ crossposts.devto }}">DEV</a>
+                  </li>
+                {% endif %}
+                {% if crossposts.medium %}
+                  <li class="nav__item">
+                    <a href="{{ crossposts.medium }}">Medium</a>
+                  </li>
+                {% endif %}
+              </ul>
+            </div>
+            {% endif %}
           </div>
         </footer>
       {% endif %}

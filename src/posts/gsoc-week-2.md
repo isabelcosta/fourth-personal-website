@@ -3,6 +3,8 @@ title: Google Summer of Code | Coding Period | Week 2
 date: '2018-05-27'
 tags:
   - gsoc
+crossposts:
+  medium: https://medium.com/isabel-costa-gsoc/google-summer-of-code-coding-period-week-2-4019568eabd2
 ---
 
 ![gsoc plus systers logos](/images/gsoc-week-2-cover.png)

@@ -41,17 +41,36 @@ module.exports = function(config) {
   const now = new Date();
 
   // Custom collections
-  const livePosts = post => post.date <= now && !post.data.draft;
+
+  // All posts
+  const livePosts = post => post.date <= now && !post.data.draft && !post.data.note;
   config.addCollection('posts', collection => {
     return [
       ...collection.getFilteredByGlob('./src/posts/*.md').filter(livePosts)
     ].reverse();
   });
 
+  // Notes collections
+  const isNotes = post => post.data.note
+  config.addCollection('notes', collection => {
+    return [
+      ...collection.getFilteredByGlob('./src/posts/*.md').filter(isNotes)
+    ].reverse();
+  });
+
+  // N most recent posts
   config.addCollection('postFeed', collection => {
     return [...collection.getFilteredByGlob('./src/posts/*.md').filter(livePosts)]
       .reverse()
       .slice(0, site.maxPostsPerPage);
+  });
+
+  // Featured posts that I chose to highlight
+  const featuredPosts = post => post.data.featured;
+  config.addCollection('featuredPosts', collection => {
+    return [
+      ...collection.getFilteredByGlob('./src/posts/*.md').filter(featuredPosts)
+    ].reverse();
   });
 
   // Plugins
@@ -71,6 +90,18 @@ module.exports = function(config) {
         });
       }
     }
+  });
+
+  // credit to https://github.com/11ty/eleventy/issues/927#issuecomment-627703544
+  config.addCollection('tagList', collection => {
+    const tagsSet = new Set();
+    collection.getAll().forEach(item => {
+      if (!item.data.tags) return;
+      item.data.tags
+        .filter(tag => !['post', 'all'].includes(tag))
+        .forEach(tag => tagsSet.add(tag));
+    });
+    return Array.from(tagsSet).sort();
   });
 
   return {

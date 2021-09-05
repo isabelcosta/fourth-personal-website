@@ -2,8 +2,10 @@
 title: Deploying Mentorship Backend flask app on Heroku
 date: '2020-06-27'
 tags:
-  - mentorship-system
   - tech
+  - open-source
+crossposts:
+  medium: https://medium.com/anitab-org-open-source/deploying-mentorship-backend-flask-app-on-heroku-d11d444349cb
 ---
 
 ![](/images/deploy-ms-heroku-cover.png)

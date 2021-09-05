@@ -2,7 +2,7 @@
 title: My Hack for Good 2017 hackathon experience
 date: '2018-02-15'
 tags:
-  - events
+  - misc
 ---
 
 ![My team is in the image, try to find us there (Image from [Gulbenkian’s website](https://gulbenkian.pt/project/hack-for-good/))](/images/hackforgood-1.png)

@@ -1,9 +1,13 @@
 ---
 title: Ficheiros base num projeto Open Source
 date: '2020-11-07'
+featured: true
 tags:
   - portugues
   - open-source
+crossposts:
+  medium: https://isabelcmdcosta.medium.com/ficheiros-base-num-projeto-open-source-f034823b56a9
+  devto: https://dev.to/isabelcmdcosta/ficheiros-base-num-projeto-open-source-488n
 ---
 
 Um projecto Open Source costuma ter uma base de ficheiros, que permite colaboradores perceber como devem interagir com o projecto e quais as expectativas de quem mantém o projecto (maintainer). Estes são os ficheiros base que projetos open source costumam ter.

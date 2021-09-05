@@ -3,6 +3,8 @@ title: Intro to Google Summer of Code with Systers Open Source
 date: '2018-05-05'
 tags:
   - gsoc
+crossposts:
+  medium: https://medium.com/isabel-costa-gsoc/intro-to-google-summer-of-code-with-systers-open-source-dbdaa92bd189
 ---
 
 ![Systers plus Google Summer of Code](/images/intro-to-gsoc-cover.png)
