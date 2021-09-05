@@ -21,6 +21,8 @@ h2,
 h3 {
   @include apply-utility('font', 'serif');
 }
+h3 > a > svg {
+}
 
 h1 {
   font-size: get-size(700);

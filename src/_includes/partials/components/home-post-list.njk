@@ -8,12 +8,11 @@
             <li class="post-list__item">
               <h3 class="font-base leading-tight text-500 weight-mid">
                 {# <time datetime="{{ item.date | w3DateFilter }}">{{ item.date | dateFilter }}</time> -  #}
-                {% include "icons/arrow.svg" %}
                 {% if item.data.override_url %}
                 <a href="{{ item.data.override_url }}" class="post-list__link" rel="bookmark">
                   {{ item.data.title }}
                   {% include "icons/icons8-external-link.svg" %}
-                  </a>
+                </a>
                 {% else %}
                 <a href="{{ item.url }}" class="post-list__link" rel="bookmark">{{ item.data.title }}</a>
                 {% endif %}

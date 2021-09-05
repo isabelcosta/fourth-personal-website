@@ -11,6 +11,7 @@
                 
                 {% if item.data.override_url %}
                 <a href="{{ item.data.override_url }}" class="post-list__link" rel="bookmark">{{ item.data.title }}</a>
+                {% include "icons/icons8-external-link.svg" %}
                 {% else %}
                 <a href="{{ item.url }}" class="post-list__link" rel="bookmark">{{ item.data.title }}</a>
                 {% endif %}
