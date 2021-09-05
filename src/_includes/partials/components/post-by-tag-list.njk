@@ -5,12 +5,13 @@
       
         <ul>
 	    {% for tag in collections.tagList %}
-	        <li>tag: {{ tag }}</li>
-	            <ol>
-                {% for tag in collections[tag] %}
-                    <li>title: {{ tag.data.title }}</li>
-                {% endfor %}
-	            </ol>
+	        <li>tag: {{ tag }}
+            <ol>
+              {% for tag in collections[tag] %}
+                  <li>title: {{ tag.data.title }}</li>
+              {% endfor %}
+            </ol>
+          </li>
 	    {% endfor %}
         </ul>
       
