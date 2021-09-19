@@ -40,7 +40,7 @@
 <p>Para cada projeto que tenhas destacado, não se esqueças de ter uma descrição nesses projetos. Isto porque essa descrição aparecerá junto aos repositórios fixados no perfil. Assim, consegues dar um contexto quando alguém estiver no teu perfil e os repositórios afixados.</p>
 <h2>README Pessoal</h2>
 <p>Agora podes ter um README pessoal no teu perfil, onde podes usar a tua criatividade para te apresentares da melhor forma. Atualmente, o meu README pessoal é bastante simples, apenas com um pequeno texto biográfico e alguns links para perfis externos. No entanto, consegues adicionar muito mais através de automações.</p>
-<p>Para teres um perfil README, basta criares um repositório com o nome igual ao username da tua conta no GitHub (exemplo: se o teu username é “mariaf123” - <code>github.com/mariaf123/mariaf123</code> - o repositório terá de se chamar “mariaf123”). O README desse repositório irá aparecer no vosso perfil. Aqui está <a href="https://github.com/isabelcosta/isabelcosta">o meu examplo</a>.</p>
+<p>Para teres um perfil README, basta criares um repositório com o nome igual ao username da tua conta no GitHub (exemplo: se o teu username é “mariaf123” - <code>github.com/mariaf123/mariaf123</code> - o repositório terá de se chamar “mariaf123”). O README desse repositório irá aparecer no vosso perfil. Aqui está <a href="https://github.com/isabelcosta/isabelcosta">o meu exemplo</a>.</p>
 <p>Aqui estão alguns exemplos de README pessoais que podes usar para te inspirares. Estes repositórios são todos de código aberto (<em>open source</em>), por isso, podes ver o código e reutilizar o que te der jeito.</p>
 <ul>
 <li><a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme">abhisheknaiidu/awesome-github-profile-readme</a></li>
