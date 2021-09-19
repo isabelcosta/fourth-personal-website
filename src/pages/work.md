@@ -17,9 +17,10 @@ You can see my **open source projects** on [GitHub](https://github.com/isabelcos
 
 ## 👐🏾 Volunteer
 
-- **Apr, 2021 - Now:** Mentor at [As Raparigas de Codigo](https://raparigasdocodigo.pt/);
-- **Feb, 2020 - Now:** Admin at [AnitaB.org Open Source](https://github.com/anitab-org);
-- **Mar, 2018 - Now:** Contributor and Maintainer at [AnitaB.org Open Source](https://github.com/anitab-org);
+- **Apr, 2021 - Now:** Contributor at [As Raparigas de Codigo](https://raparigasdocodigo.pt/);
+- **Aug, 2021 - Now:** Mentor at [Black Codher](https://blackcodher.com/) bootcamp;
+- **Feb, 2020 - Now:** OS Admin at [AnitaB.org Open Source](https://github.com/anitab-org);
+- **Mar, 2018 - Now:** OS Contributor and Maintainer at [AnitaB.org Open Source](https://github.com/anitab-org);
 - **May, 2021:** Panelist on Entry Level/Aspiring Technologist Networking lounge at [vGHC EMEA](https://ghc.anitab.org/ghc-emea-home);
 - **Aug, 2020 - Feb, 2021:** Mentor at [Black Codher](https://blackcodher.com/) bootcamp;
 - **Jul, 2019 - Dec, 2020:** Community Leader for [AnitaB.org London](https://community.anitab.org/) chapter;
