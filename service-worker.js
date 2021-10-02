@@ -1,4 +1,4 @@
-const VERSION = '924e-d0b7-5988';
+const VERSION = 'da78-0045-a5cd';
 const CACHE_KEYS = {
   PRE_CACHE: `precache-${VERSION}`,
   RUNTIME: `runtime-${VERSION}`
