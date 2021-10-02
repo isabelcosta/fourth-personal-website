@@ -4,6 +4,8 @@ date: '2021-10-01'
 tags:
   - open-source
   - misc
+crossposts:
+  medium: https://medium.com/anitab-org-open-source/anitab-org-open-source-profile-readme-on-github-fcb287c52f8d
 ---
 
 GitHub [announced](https://twitter.com/github/status/1438276928696463372) the other day, that Organizations can now have their own README.
