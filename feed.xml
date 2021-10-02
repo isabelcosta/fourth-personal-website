@@ -15,6 +15,25 @@
 	
   
   <entry>
+    <title>AnitaB.org Open Source profile README on GitHub</title>
+    <link href="https://isabelcosta.github.io//posts/anitab-org-github-profile-readme/"/>
+    <updated>2021-10-01T00:00:00+00:00</updated>
+    <id>https://isabelcosta.github.io//posts/anitab-org-github-profile-readme/</id>
+    <content type="html"><![CDATA[
+      <p>GitHub <a href="https://twitter.com/github/status/1438276928696463372">announced</a> the other day, that Organizations can now have their own README.</p>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">We&#39;ve got a fancy new 𝚁𝙴𝙰𝙳𝙼𝙴.𝚖𝚍 on our profile and so can you! <a href="https://t.co/E3UoVDDP7v">https://t.co/E3UoVDDP7v</a> <a href="https://t.co/vRUR5HlMYD">pic.twitter.com/vRUR5HlMYD</a></p>&mdash; GitHub (@github) <a href="https://twitter.com/github/status/1438276928696463372?ref_src=twsrc%5Etfw">September 15, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<p>I love this feature! So when I had the chance I created one for <a href="https://github.com/anitab-org">AnitaB.org Open Source</a> community.</p>
+<p>I really like this feature because one thing I’ve learned from being involved with Open Source is that not all communities work the same way. Each one has its mission, way of working, and contribution processes.</p>
+<p><strong>Welcoming every type of contribution is one of our core values</strong>, as is <a href="https://opensource.com/article/21/8/beginner-open-source-community">being beginner-friendly</a>. Having a <strong>README allows us to inform contributors of how we operate and how they can help us</strong>. Now we can show what the community is about right when a contributor finds our organization page on GitHub.</p>
+<p>The first impression we want to pass to newcomers to open source and our community is that they can contribute in multiple ways other than code if they want. So this week, I created the first draft of our profile README, which aims to let our contributors know they can join us on <a href="https://anitab-org.zulipchat.com/">Zulip</a> and contribute to our community in various ways such as reviewing code, implementing features, testing our apps, reporting bugs, suggesting design improvements, blogging for our publication, etc...</p>
+<p>Here’s the first draft of our profile README 🎉 which you can check out at <a href="https://github.com/anitab-org">github.com/anitab-org</a> (<a href="https://github.com/anitab-org/.github/blob/main/profile/README.md">source code</a>).</p>
+<p><img src="/images/anitab-org-profile-readme.png" alt="anitab.org profile readme"></p>
+
+    ]]></content>
+  </entry>
+	
+  
+  <entry>
     <title>4 zonas a personalizar do perfil de GitHub</title>
     <link href="https://isabelcosta.github.io//posts/quatro-dicas-personalizacao-github/"/>
     <updated>2021-09-19T00:00:00+00:00</updated>
