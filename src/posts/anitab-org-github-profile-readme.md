@@ -17,9 +17,9 @@ One thing I’ve learned from being involved with Open Source is that not all co
 
 **Welcoming every type of contribution is one of our core values**, as is [being beginner-friendly](https://opensource.com/article/21/8/beginner-open-source-community). Having a **README allows us to inform contributors of how we operate and how they can help us**. Now we can show what the community is about right when a contributor finds our organization page on GitHub. 
 
-The first impression we want to pass to newcomers to open source and our community is that they can contribute in multiple ways other than code if they want. So this week, I created the first draft of our profile README, which aims to let our contributors know they can join us on [Zulip](https://anitab-org.zulipchat.com/) and contribute to our community in various ways such as reviewing code, implementing features, testing our apps, reporting bugs, suggesting design improvements, blogging for our publication, etc... 
+The first impression we want to pass to newcomers to open source and our community is that they can contribute in multiple ways other than code if they want. So the first draft of our profile README aims to let our contributors know they can join us on [Zulip](https://anitab-org.zulipchat.com/) and contribute to our community in various ways such as reviewing code, implementing features, testing our apps, reporting bugs, suggesting design improvements, blogging for our publication, etc... 
 
-Here’s the first draft of our profile README 🎉 which you can check out at [github.com/anitab-org](https://github.com/anitab-org) ([source code](https://github.com/anitab-org/.github/blob/main/profile/README.md)).
+Here’s our profile README 🎉 which you can check out at [github.com/anitab-org](https://github.com/anitab-org) ([source code](https://github.com/anitab-org/.github/blob/main/profile/README.md)).
 
 ![anitab.org profile readme](/images/anitab-org-profile-readme.png)
 
