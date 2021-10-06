@@ -1926,7 +1926,7 @@ var colno = 0;
 var output = "";
 try {
 var parentTemplate = null;
-output += "<header class=\"[ intro ] [ pad-top-900 pad-bottom-max ]\">\n  <div class=\"[ inner-wrapper ] [ sf-flow ]\">\n    <h1 class=\"[ intro__heading";
+output += "<header class=\"[ intro ] [ pad-top-700 pad-bottom-700 ]\">\n  <div class=\"[ inner-wrapper ] [ sf-flow ]\">\n    <h1 class=\"[ intro__heading";
 output += runtime.suppressValue((runtime.memberLookup((runtime.contextOrFrameLookup(context, frame, "page")),"url") === "/"?" intro__heading--compact":""), env.opts.autoescape);
 output += " ] [ text-800 md:text-900 leading-tight ] [ p-name ]\">";
 output += runtime.suppressValue(runtime.contextOrFrameLookup(context, frame, "introHeading"), env.opts.autoescape);
@@ -2138,7 +2138,7 @@ context.addExport("paginationLinkTokens", t_1);
 }
 output += "\n\n";
 if(runtime.contextOrFrameLookup(context, frame, "paginationNextUrl") || runtime.contextOrFrameLookup(context, frame, "paginationPrevUrl")) {
-output += "\n  <div class=\"inner-wrapper\">\n    <footer class=\"[ pagination ] [ pad-bottom-900 ]\">\n      <nav class=\"[ pagination__nav ] [ box-flex space-between align-center ]\">\n        ";
+output += "\n  <div class=\"inner-wrapper\">\n    <footer class=\"[ pagination ] [ pad-bottom-400 ]\">\n      <nav class=\"[ pagination__nav ] [ box-flex space-between align-center ]\">\n        ";
 if(runtime.contextOrFrameLookup(context, frame, "paginationPrevUrl")) {
 output += "\n          <a href=\"";
 output += runtime.suppressValue(runtime.contextOrFrameLookup(context, frame, "paginationPrevUrl"), env.opts.autoescape);
@@ -2389,7 +2389,7 @@ var colno = 0;
 var output = "";
 try {
 var parentTemplate = null;
-output += "<section class=\"[ post-list ] [ pad-top-700 gap-bottom-900 ]\">\n<div class=\"[ inner-wrapper ] [ sf-flow ]\">\n    <h2 class=\"[ post-list__heading ] [ text-700 md:text-800 ]\">";
+output += "<section class=\"[ post-list ] [ pad-top-600 gap-bottom-900 ]\">\n<div class=\"[ inner-wrapper ] [ sf-flow ]\">\n    <h2 class=\"[ post-list__heading ] [ text-700 md:text-800 ]\">";
 output += runtime.suppressValue(runtime.contextOrFrameLookup(context, frame, "featuredTalksHeading"), env.opts.autoescape);
 output += "</h2>\n    <ol class=\"[ post-list__items ] [ sf-flow ] [ pad-top-300 ]\" reversed>\n    ";
 frame = frame.push();
@@ -2436,7 +2436,7 @@ context.setVariable("featuredTalksLinkTokens", t_5);
 if(frame.topLevel) {
 context.addExport("featuredTalksLinkTokens", t_5);
 }
-output += "\n\n<div class=\"inner-wrapper\">\n<footer class=\"[ pagination ] [ pad-bottom-900 ]\">\n    <nav class=\"[ pagination__nav ] [ box-flex space-between align-center ]\">\n    ";
+output += "\n\n<div class=\"inner-wrapper\">\n<footer class=\"[ pagination ] [ pad-bottom-500 ]\">\n    <nav class=\"[ pagination__nav ] [ box-flex space-between align-center ]\">\n    ";
 if(runtime.contextOrFrameLookup(context, frame, "featuredTalksUrl")) {
 output += "\n        <a href=\"";
 output += runtime.suppressValue(runtime.contextOrFrameLookup(context, frame, "featuredTalksUrl"), env.opts.autoescape);
@@ -2750,7 +2750,7 @@ var colno = 0;
 var output = "";
 try {
 var parentTemplate = null;
-output += "<a class=\"skip-link\" href=\"#main-content\">Skip to content</a>\n<header role=\"banner\" class=\"[ site-head ] [ pad-top-700 pad-bottom-700 \">\n  <div class=\"wrapper\">\n    <div class=\"[ site-head__inner ] [ md:box-flex space-between align-center ]\">\n      <a href=\"/\" class=\"[ site-head__site-name ] [ leading-tight ]\">\n        <span class=\"visually-hidden\">";
+output += "<a class=\"skip-link\" href=\"#main-content\">Skip to content</a>\n<header role=\"banner\" class=\"[ site-head ] [ pad-top-500 pad-bottom-500 ]\">\n  <div class=\"wrapper\">\n    <div class=\"[ site-head__inner ] [ md:box-flex space-between align-center ]\">\n      <a href=\"/\" class=\"[ site-head__site-name ] [ leading-tight ]\">\n        <span class=\"visually-hidden\">";
 output += runtime.suppressValue(runtime.memberLookup((runtime.contextOrFrameLookup(context, frame, "site")),"name"), env.opts.autoescape);
 output += " - Home</span>\n        <span class=\"[ site-head__site-name ] [ text-600 ]\" aria-hidden=\"true\">";
 output += runtime.suppressValue(runtime.memberLookup((runtime.contextOrFrameLookup(context, frame, "site")),"name"), env.opts.autoescape);
