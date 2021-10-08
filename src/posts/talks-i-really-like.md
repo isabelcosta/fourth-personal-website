@@ -9,7 +9,7 @@ tags:
 
 I love these talks, resonate with me a lot:
 
-- [The Operating System of You](https://www.youtube.com/watch?v=D-Sj6jo4o1I) by Swyx
+- [Technical leadership and glue work](https://www.youtube.com/watch?v=KClAPipnKqw) by Tanya Reilly - 👩🏾‍💻 I really need to listen to this from time to time
 - [How to be an Android Expert](https://www.youtube.com/watch?v=IMSY1uH4nT8) by Chiu-ki Chan
-- [Technical leadership and glue work](https://www.youtube.com/watch?v=KClAPipnKqw) by Tanya Reilly
+- [The Operating System of You](https://www.youtube.com/watch?v=D-Sj6jo4o1I) by Swyx
 - [Scaling Yourself](https://www.youtube.com/watch?v=V4NJo2Mfvrc) by Scott Hanselman
