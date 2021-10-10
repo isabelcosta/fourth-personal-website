@@ -17,7 +17,7 @@ You can see my **open source projects** on [GitHub](https://github.com/isabelcos
 
 ## 👐🏾 Volunteer
 
-- **Apr, 2021 - Now:** Contributor at [As Raparigas de Codigo](https://raparigasdocodigo.pt/);
+- **Apr, 2021 - Now:** Instructor/Mentor at [As Raparigas de Codigo](https://raparigasdocodigo.pt/);
 - **Aug, 2021 - Now:** Mentor at [Black Codher](https://blackcodher.com/) bootcamp;
 - **Feb, 2020 - Now:** OS Admin at [AnitaB.org Open Source](https://github.com/anitab-org);
 - **Mar, 2018 - Now:** OS Contributor and Maintainer at [AnitaB.org Open Source](https://github.com/anitab-org);
