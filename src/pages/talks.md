@@ -9,10 +9,11 @@ You can find the slides for my talks on [Speaker Deck](https://speakerdeck.com/i
 
 | Title | At | Date | Notes |
 |-------|-------|------|-------|
+| Empowerment Day: Life as a Developer (panel) | [Black CodHer Bootcamp](https://blackcodher.com/) | 18 Feb '22 | --- |
 | Make the most out of your GitHub Profile   | [Devoxx UK](https://www.devoxx.co.uk/) | 1 Nov '21 | --- |
 | The Hacktoberfest maintainer wishlist | [Upstream - hacktoberfest webinar](https://upstream.live/webinar/hacktoberfest) | 21 Oct '21 | [Video](https://www.youtube.com/watch?v=_iFhXDJvZHM) |
 | Departments of Informatics and Engineering: Career Options (panel) | [King's College London](https://www.kcl.ac.uk/) | 6 Oct '21 | --- |
-| [Life as Developer (panel)](https://www.meetup.com/Coding-Black-Females/events/280481755) | [Black CodHer Bootcamp](https://blackcodher.com/) | 3 Sep '21 | [Video](https://www.youtube.com/watch?v=UBml1Y0_fDs) / [Audio (podcast)](https://anchor.fm/codingblackfemales/episodes/Life-as-a-Developer-e184e6p) |
+| [Empowerment Day: Life as a Developer (panel)](https://www.meetup.com/Coding-Black-Females/events/280481755) | [Black CodHer Bootcamp](https://blackcodher.com/) | 3 Sep '21 | [Video](https://www.youtube.com/watch?v=UBml1Y0_fDs) / [Audio (podcast)](https://anchor.fm/codingblackfemales/episodes/Life-as-a-Developer-e184e6p) |
 | [How to Get into Open Source](https://www.meetup.com/Women-Who-Code-London/events/279004155/) | [Women Who Code London](https://www.meetup.com/Women-Who-Code-London) | 27 Jul '21 | [Slides](https://speakerdeck.com/isabelcmdcosta/how-to-get-into-open-source) / [Video](https://www.youtube.com/watch?v=0buL1lnqUz0) |
 | Demystifying Tech (panel) | [Academy](https://academy.tech/) | 8 Jul '21 | --- |
 | Como contribuir para Open Source | [Geek Girls Portugal](http://geekgirlsportugal.pt/) | 16 Jun '21 | [Slides](https://speakerdeck.com/isabelcmdcosta/como-contribuir-para-open-source-at-geekgirlsportugal) / 🇵🇹 |
