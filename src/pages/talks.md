@@ -10,7 +10,7 @@ You can find the slides for my talks on [Speaker Deck](https://speakerdeck.com/i
 | Title | At | Date | Notes |
 |-------|-------|------|-------|
 | Empowerment Day: Life as a Developer (panel) | [Black CodHer Bootcamp](https://blackcodher.com/) | 18 Feb '22 | --- |
-| Make the most out of your GitHub Profile   | [Devoxx UK](https://www.devoxx.co.uk/) | 1 Nov '21 | --- |
+| Make the most out of your GitHub Profile   | [Devoxx UK](https://www.devoxx.co.uk/) | 1 Nov '21 | [Video](https://www.youtube.com/watch?v=XuOsSPKCYMI) |
 | The Hacktoberfest maintainer wishlist | [Upstream - hacktoberfest webinar](https://upstream.live/webinar/hacktoberfest) | 21 Oct '21 | [Video](https://www.youtube.com/watch?v=_iFhXDJvZHM) |
 | Departments of Informatics and Engineering: Career Options (panel) | [King's College London](https://www.kcl.ac.uk/) | 6 Oct '21 | --- |
 | [Empowerment Day: Life as a Developer (panel)](https://www.meetup.com/Coding-Black-Females/events/280481755) | [Black CodHer Bootcamp](https://blackcodher.com/) | 3 Sep '21 | [Video](https://www.youtube.com/watch?v=UBml1Y0_fDs) / [Audio (podcast)](https://anchor.fm/codingblackfemales/episodes/Life-as-a-Developer-e184e6p) |
