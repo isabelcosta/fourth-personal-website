@@ -9,6 +9,7 @@ You can find the slides for my talks on [Speaker Deck](https://speakerdeck.com/i
 
 | Title | At | Date | Notes |
 |-------|-------|------|-------|
+| Tertúlias "Let's Talk" (panel) | [NEAIST - Núcleo de Estudantes Africanos do Instituto Superior Técnico](https://neaist.tecnico.ulisboa.pt/) | 15 Mar '22 | 🇵🇹 |
 | Empowerment Day: Life as a Developer (panel) | [Black CodHer Bootcamp](https://blackcodher.com/) | 18 Feb '22 | --- |
 | Make the most out of your GitHub Profile   | [Devoxx UK](https://www.devoxx.co.uk/) | 1 Nov '21 | [Video](https://www.youtube.com/watch?v=XuOsSPKCYMI) |
 | The Hacktoberfest maintainer wishlist | [Upstream - hacktoberfest webinar](https://upstream.live/webinar/hacktoberfest) | 21 Oct '21 | [Video](https://www.youtube.com/watch?v=_iFhXDJvZHM) |
